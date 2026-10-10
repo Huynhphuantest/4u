@@ -1,0 +1,212 @@
+main {
+  padding:2.5rem;
+  display:flex;
+  flex-direction: column;
+  gap:1.5rem;
+}
+.layout {
+  grid-template-columns: 190px minmax(0, 1fr);
+}
+main:not(.active) {
+  display:none;
+}
+#pfp-container {
+    display: flex;
+    align-items: center;
+    gap: 1.25rem;
+    flex-wrap: wrap;
+}
+#greeting {
+  margin:0;
+  color:var(--muted);
+}
+#username {
+  margin:0;
+  font-size: 3rem;
+  margin-bottom:1rem;
+  min-width: 0;
+  overflow-wrap: break-word;
+  white-space: normal;
+  flex: 1;
+}
+#pfp {
+    width: 14rem;
+    aspect-ratio: 1;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 3px solid var(--border);
+}
+
+#upload-pfp-button {
+    color: var(--blue);
+    font-weight: 600;
+    cursor: pointer;
+}
+#name-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+}
+
+#name-container > label {
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--black);
+}
+
+#name-input {
+    width: 100%;
+    box-sizing: border-box;
+    min-height: 3rem;
+    padding: 0.75rem 1rem;
+    font: inherit;
+    font-size: 1rem;
+    color: var(--black);
+    background: white;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    outline: none;
+    transition: border-color 150ms, box-shadow 150ms;
+}
+
+#name-input:focus {
+    border-color: var(--blue);
+    box-shadow: 0 0 0 3px color-mix(in srgb, var(--blue) 15%, transparent);
+}
+
+#settings-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    padding: 1.5rem;
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    background: white;
+    color: var(--black);
+}
+
+#settings-container h2 {
+    margin: 0;
+    font-size: 1.25rem;
+}
+
+.settings-description {
+    margin: 0 0 1rem;
+    color: var(--muted);
+    font-size: 0.9rem;
+}
+
+.setting {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: 1rem 0;
+    border-top: 1px solid var(--border);
+    cursor: pointer;
+}
+
+.setting > span {
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+}
+
+.setting strong {
+    font-size: 0.95rem;
+}
+
+.setting small {
+    color: var(--muted);
+    font-size: 0.8rem;
+    line-height: 1.4;
+}
+
+.setting input[type="checkbox"] {
+    width: 1.1rem;
+    height: 1.1rem;
+    accent-color: var(--blue);
+    flex-shrink: 0;
+    cursor: pointer;
+}
+
+.setting select {
+    max-width: 55%;
+    padding: 0.6rem;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    background: white;
+    color: var(--black);
+    font: inherit;
+    font-size: 0.85rem;
+}
+
+@media (max-width: 500px) {
+    #settings-container {
+        padding: 1rem;
+    }
+
+    .setting select {
+        max-width: 50%;
+    }
+}
+
+
+.exam-option {
+  padding:1.25rem 2rem;
+  border: 1px solid var(--border);
+  display:flex;
+  flex-direction: column;
+  border-radius: 12px;
+  transition: all 500ms;
+}
+.exam-name {
+  font-weight:700;
+  font-size: 1.75rem;
+}
+.exam-subject {
+  color: var(--muted)
+}
+
+.exam-option:hover {
+  background:var(--blue);
+  color: white
+}
+.exam-option:hover > .exam-subject {
+  color: white
+}
+
+#menu-toggle {
+    display: none;
+}
+
+@media (max-width: 850px) {
+  main {
+    padding:1.75rem 1rem;
+  }
+  #menu-toggle {
+    display: block;
+    cursor: pointer;
+  }
+
+  .sidebar {
+    display:block;
+    position: fixed;
+    height:100vh;
+    inset: 0 auto 0 0;
+    width: 250px;
+    z-index: 1000;
+    border-radius: 0;
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
+    transform: translateX(-100%);
+    transition: transform 0.25s ease;
+  }
+
+  .sidebar.open {
+    transform: translateX(0);
+  }
+  #pfp {
+    width:8rem;
+  }
+}

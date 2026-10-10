@@ -1,0 +1,77 @@
+{
+  "id": "geo-001",
+  "subject": "Toán",
+  "title": "Kiểm tra giữa kì I",
+  "questions": [
+    {
+      "id": 1,
+      "type": "correctness",
+      "question": "Chọn tất cả đáp án đúng: 2 + 2 bằng bao nhiêu?",
+      "options": ["4", "3", "2 + 2", "5"],
+      "answer": [0, 2]
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "1 + 1 bằng bao nhiêu?",
+      "options": ["1", "2", "3", "4"],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "Đạo hàm của x là gì?",
+      "options": ["0", "1", "x", "2x"],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "2 × 3 bằng bao nhiêu?",
+      "options": ["5", "6", "8", "9"],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "Đạo hàm của x² là gì?",
+      "options": ["x", "2x", "2", "x²"],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "Nghiệm của x − 2 = 0 là gì?",
+      "options": ["x = 0", "x = 1", "x = 2", "x = 3"],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "Giá trị của 10 ÷ 2 là bao nhiêu?",
+      "options": ["2", "5", "8", "10"],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "Nguyên hàm của 1 là gì?",
+      "options": ["x + C", "1 + C", "x² + C", "C"],
+      "answer": 0
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "Giá trị lớn nhất của sin(x) là bao nhiêu?",
+      "options": ["−1", "0", "1", "2"],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "Nếu f'(x) > 0 trên một khoảng thì hàm số f(x) như thế nào?",
+      "options": ["Đồng biến", "Nghịch biến", "Luôn bằng 0", "Không đổi"],
+      "answer": 0
+    }
+  ]
+}

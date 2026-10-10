@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>AzotaV2</title>
+    <link rel="stylesheet" href="global.css">
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+  </head>
+  <body>
+    <header>
+      <button id="menu-toggle" aria-label="Toggle sidebar" aria-expanded="false">
+        ☰
+      </button>
+      <div class="logo">AzotaV2</div>
+    </header>
+    <div class="layout">
+      <aside class="sidebar">
+        <div class="active">⌂ &nbsp; Tài khoản</div>
+        <div>⌂ &nbsp; Tất cả môn</div>
+        <div>▤ &nbsp; Địa</div>
+        <div>♧ &nbsp; Lịch sử</div>
+      </aside>
+
+      <main class="active">
+        <div id="pfp-container">
+          <img id="pfp" src="assets/default_pfp.jpeg">
+          <div style="display:flex; flex-direction: column; justify-content: flex-start; gap:0; min-width: 0;">
+            <h1 id="greeting">Xin chào,</h1>
+            <h1 id="username">Hello</h1>
+            <button id="upload-pfp-button">Tải lên</button>
+          </div>
+        </div>
+
+        <div id="name-container">
+          <label>Tên người dùng</label>
+          <input
+              id="name-input"
+              placeholder="Nhập tên..."
+              maxlength="30"
+              autocomplete="nickname"
+          >
+          <small id="name-error" style="color:red"></small>
+        </div>
+        <div id="settings-container">
+            <h2>Cài đặt bài thi</h2>
+            <p class="settings-description">Tùy chỉnh cách bạn làm bài</p>
+
+            <label class="setting">
+                <span>
+                    <strong>Xáo trộn câu hỏi</strong>
+                    <small>Thứ tự câu hỏi ngẫu nhiên</small>
+                </span>
+                <input type="checkbox" id="shuffle-questions">
+            </label>
+
+            <label class="setting">
+                <span>
+                    <strong>Xáo trộn đáp án</strong>
+                    <small>Thứ tự lựa chọn ngẫu nhiên</small>
+                </span>
+                <input type="checkbox" id="shuffle-choices">
+            </label>
+
+            <div class="setting">
+                <span>
+                    <strong>Kiểm tra đáp án</strong>
+                    <small>Chọn thời điểm chấm điểm</small>
+                </span>
+                <select id="check-mode">
+                    <option value="immediate">Ngay sau khi chọn</option>
+                    <option value="all">Kiểm tra toàn bộ cùng lúc</option>
+                </select>
+            </div>
+
+            <label class="setting">
+                <span>
+                    <strong>Làm lại khi sai</strong>
+                    <small>Tự động bắt đầu lại bài thi nếu trả lời sai</small>
+                </span>
+                <input type="checkbox" id="restart-on-wrong">
+            </label>
+        </div>
+
+
+      </main>
+
+      <main>
+        <div id="exam-list">
+
+        </div>
+      </main>
+
+      <main>
+        Hello
+      </main>
+
+      <main>
+        Lich su
+      </main>
+    </div>
+  </body>
+</html>

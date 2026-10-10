@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>AzotaV2</title>
+    <link rel="stylesheet" href="/global.css">
+    <link rel="stylesheet" href="/exam.css">
+
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.3/dist/confetti.browser.min.js"></script>
+    <script src="/exam.js" defer></script>
+  </head>
+  <body>
+    <header>
+      <div class="logo">AzotaV2</div> 
+    </header>
+
+    <div class="layout">
+
+      <main>
+        <div class="exam-head">
+          <h1>Đề thi thử – Toán 12</h1>
+          <div class="meta"><span id="timer">00:00</span>&nbsp; 10 câu trắc nghiệm</div>
+        </div>
+
+        <section class="question" id="questionArea">
+          <span class="tag" id="questionLabel">Câu 1</span>
+          <div class="question-text" id="questionText"></div>
+          <div id="options"></div>
+        </section>
+
+        <div class="actions" id="actions">
+          <button id="restart" onclick="window.location.reload()">Làm lại →</button>
+          <button class="primary" id="next" onclick="window.location.href='/'">Bỏ cuộc →</button>
+        </div>
+      </main>
+    </div>
+    <div id="completed-modal" class="modal hidden">
+      <div class="modal-content">
+        <h1>Hoàn thành!</h1>
+        <h3 id="modal-score">0.0/0.0</h3>
+        <h4 id="modal-timer">00:00</h4>
+        <p>Bài làm của bạn đã được lưu lại.</p>
+        <button onclick="window.location.reload()">
+            Làm lại
+        </button>
+        <button onclick="window.location.href = '/'">
+            Vể trang chủ
+        </button>
+      </div>
+    </div>
+ </body>
+</html>

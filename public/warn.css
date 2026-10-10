@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width:100vw;
+    height: 100vh;
+}
+h1 {
+    font-size: 3rem
+}
+hehe {
+    font-size: 8rem;
+    font-weight: 900;
+}
