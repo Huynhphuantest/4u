@@ -50,9 +50,11 @@ app.get("/exam/:id", (req, res) => {
     res.sendFile(path.join(PUBLIC_DIR, "exam.html"));
 });
 
-app.listen(PORT, "0.0.0.0", () => {
-    console.log(`Server running at http://localhost:${PORT}`);
-});
+// app.listen(PORT, "0.0.0.0", () => {
+//     console.log(`Server running at http://localhost:${PORT}`);
+// });
+
+module.exports = app;
 
 const EXAM_DIR = path.join(__dirname, "exam");
 
