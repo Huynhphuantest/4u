@@ -9,7 +9,14 @@ const PUBLIC_DIR = path.join(__dirname, "public");
 const Database = require("better-sqlite3");
 const session = require("express-session");
 
-const db = new Database("database.db");
+const path = require("path");
+const Database = require("better-sqlite3");
+
+const dbPath = process.env.VERCEL
+    ? "/tmp/exam.db"
+    : path.join(__dirname, "exam.db");
+
+const db = new Database(dbPath);
 
 db.exec(`
     CREATE TABLE IF NOT EXISTS completions (
