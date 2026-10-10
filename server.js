@@ -3,14 +3,10 @@ const path = require("node:path");
 const fs = require("node:fs/promises");
 
 const app = express();
-const PORT = 3000;
 const PUBLIC_DIR = path.join(__dirname, "public");
 
 const Database = require("better-sqlite3");
 const session = require("express-session");
-
-const path = require("path");
-const Database = require("better-sqlite3");
 
 const dbPath = process.env.VERCEL
     ? "/tmp/exam.db"
