@@ -62,3 +62,25 @@ main {
 .hidden {
     display: none;
 }
+
+.actions {
+  padding: 16px 24px;
+  border-top: 1px solid var(--border);
+  display: flex;
+  gap: 10px;
+  justify-content: flex-start;
+}
+.actions > button {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    gap:5px
+}
+@media (max-width: 420px) {
+  .actions button { padding: 9px; }
+}
+
+.primary { background: var(--blue); color: white; border-color: var(--blue); }
+.primary:not(.active) {
+  display:none
+}

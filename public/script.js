@@ -37,16 +37,15 @@ async function loadTab() {
     const response = await fetch("/api/completions");
     const pfps = await (await fetch("/api/pfps")).json();
     const data = await response.json();
+    data.sort((a, b) => b.score - a.score)
 
     tabs.forEach((tab, i) => {
         const main = tabArr[i];
         const rankList = main.querySelector(".ranking");
         data.forEach((rank) => {
-            console.log(`${rank.exam.split("-")[0]} ${tabs[i]}`)
             if(rank.exam.split("-")[0] !== tabs[i]) return;
             const pfp = pfps.find(o => o.id === rank.pfp_id);
             let rank_completed_at = rank.completed_at.replace(/[‐‑‒–—−-]/g, "/").replace("T", " ").split(".")[0].split(":");
-            console.log(rank.completed_at.split(".")[0])
             rankList.innerHTML += `
                 <div class="rank">
                     <div class="rank-indentity">
@@ -153,7 +152,8 @@ const settingIds = [
     "shuffle-questions",
     "shuffle-choices",
     "check-mode",
-    "restart-on-wrong"
+    "restart-on-wrong",
+    "skip"
 ];
 
 function saveSettings() {
@@ -161,7 +161,13 @@ function saveSettings() {
         shuffleQuestions: $("shuffle-questions").checked,
         shuffleChoices: $("shuffle-choices").checked,
         checkMode: $("check-mode").value,
-        restartOnWrong: $("restart-on-wrong").checked
+        restartOnWrong: $("restart-on-wrong").checked,
+        skip: (() => {
+            let skip = [];
+            if($("skip_multiple_choice").classList.contains("active")) skip.push("multiple_choice");
+            else if($("skip_correctness").classList.contains("active")) skip.push("correctness");
+            return skip;
+        })()
     };
 
     localStorage.setItem("exam-settings", JSON.stringify(settings));
@@ -176,6 +182,8 @@ function loadSettings() {
     $("shuffle-choices").checked = settings.shuffleChoices ?? false;
     $("check-mode").value = settings.checkMode ?? "immediate";
     $("restart-on-wrong").checked = settings.restartOnWrong ?? false;
+    if(settings.skip.includes("multiple_choice")) $("skip_multiple_choice").classList.add("active");
+    if(settings.skip.includes("correctness")) $("skip_correctness").classList.add("active");
 }
 
 settingIds.forEach(id => {

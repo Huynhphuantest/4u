@@ -124,7 +124,7 @@ h1 { font-size: 22px; margin: 0 0 12px; }
   border-top: 1px solid var(--border);
   display: flex;
   gap: 10px;
-  justify-content: space-between;
+  justify-content: flex-start;
 }
 button {
   cursor: pointer;

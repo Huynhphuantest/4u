@@ -21,8 +21,8 @@
 
       <main>
         <div class="exam-head">
-          <h1>Đề thi thử – Toán 12</h1>
-          <div class="meta"><span id="timer">00:00</span>&nbsp; 10 câu trắc nghiệm</div>
+          <h1 id="exam-name"></h1>
+          <div class="meta" style="display:flex"><span id="timer">00:00</span><span>&emsp;  </span><div id="question-amount"></div></div>
         </div>
 
         <section class="question" id="questionArea">
@@ -32,8 +32,9 @@
         </section>
 
         <div class="actions" id="actions">
-          <button id="restart" onclick="window.location.reload()">Làm lại →</button>
-          <button class="primary" id="next" onclick="window.location.href='/'">Bỏ cuộc →</button>
+          <button id="restart" onclick="window.location.reload()"><span class="icon">replay</span>Làm lại</button>
+          <button id="home" onclick="window.location.href='/'"><span class="icon">home</span>Bỏ cuộc</button>
+          <button style="margin-left:auto" id="check" class="primary"><span class="icon">input</span>Kiểm tra</button>
         </div>
       </main>
     </div>

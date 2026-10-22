@@ -2,7 +2,8 @@ const settings = JSON.parse(localStorage.getItem("exam-settings")) || {
     shuffleQuestions: false,
     shuffleChoices: false,
     checkMode: "immediate",
-    restartOnWrong: false
+    restartOnWrong: false,
+    skip: []
 };
 
 const username = localStorage.getItem("username") || "Vô danh"
@@ -30,12 +31,26 @@ async function getExam() {
     const data = await response.json();
 
     questions = convertExam(data);
+    questions = questions.filter((q) => !settings.skip.includes(q.type))
     if(settings.shuffleQuestions) {
         questions = shuffleQuestions(questions);
     }
     if(settings.shuffleChoices) {
         questions = shuffleChoices(questions);
     }
+
+    document.getElementById("exam-name").textContent = data.subject + " - " + data.title;
+
+    let correctnessAmount = 0;
+    let multipleChoiceAmount = 0;
+
+    questions.forEach((question) => {
+        if(question.type === "correctness") correctnessAmount++;
+        if(question.type === "multiple_choice") multipleChoiceAmount++;
+    });
+
+    if(multipleChoiceAmount > 0) document.getElementById("question-amount").textContent += `${multipleChoiceAmount} Câu trắc nghiệm`;
+    if(correctnessAmount > 0) document.getElementById("question-amount").textContent += `${correctnessAmount} Câu đúng sai`;
 
     render()
 }
@@ -101,6 +116,7 @@ function render() {
 }
 
 function multiple_choice() {
+    $("check").classList.remove("active")
     const item = questions[current];
 
     const labels = [];
@@ -145,6 +161,7 @@ function multiple_choice() {
     })
 }
 function correctness() {
+    $("check").classList.add("active")
     const item = questions[current]
     const selected = new Set();
     const labels = [];
@@ -169,11 +186,7 @@ function correctness() {
             else selected.delete(i);
         });
     });
-
-    const checkButton = document.createElement("button");
-    checkButton.textContent = "Kiểm đáp án";
-    $("options").append(checkButton);
-
+    const checkButton = $("check")
     checkButton.onclick = (e) => {
         const correct = item.correct;
         const isCorrect =
@@ -206,7 +219,7 @@ function correctness() {
             score += 1 / questions.length;
         }
 
-        checkButton.textContent = "Tiếp tục";
+        checkButton.innerHTML = `<span class="icon">arrow_forward</span>Tiếp tục`;
         checkButton.disabled = false;
         checkButton.onclick = () => {
             if(!isCorrect && settings.restartOnWrong) window.location.reload();

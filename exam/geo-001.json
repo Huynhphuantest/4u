@@ -5,7 +5,7 @@
   "questions": [
     {
       "id": 1,
-      "type": "multiple_choice",
+      "type": "correctness",
       "question": "Ở nước ta, vào nửa sau mùa đông, gió mùa Đông Bắc thổi lệch qua biển mang lại khối lượng ẩm lớn gây ra hiện tượng thời tiết đặc trưng nào cho vùng đồng bằng Bắc Bộ?",
       "options": [
         "Khô hanh, trời rét buốt kèm theo sương muối.",
@@ -13,7 +13,9 @@
         "Nắng nóng gay gắt và có giông bão lớn.",
         "Mưa rào kèm theo sập lở đất ở vùng đồi núi."
       ],
-      "answer": 1
+      "answer": [
+        1
+      ]
     },
     {
       "id": 2,
