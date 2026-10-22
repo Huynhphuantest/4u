@@ -6,30 +6,29 @@
     <title>AzotaV2</title>
     <link rel="stylesheet" href="global.css">
     <link rel="stylesheet" href="style.css">
+    <script src="global.js" defer></script>
     <script src="script.js" defer></script>
   </head>
   <body>
     <header>
       <button id="menu-toggle" aria-label="Toggle sidebar" aria-expanded="false">
-        ☰
+        <span class="icon">menu</span>
       </button>
-      <div class="logo">AzotaV2</div>
+      <div class="logo"><span class="icon icon-lg">camera</span>Azota<sup>V2</sup></div>
     </header>
     <div class="layout">
       <aside class="sidebar">
-        <div class="active">⌂ &nbsp; Tài khoản</div>
-        <div>⌂ &nbsp; Tất cả môn</div>
-        <div>▤ &nbsp; Địa</div>
-        <div>♧ &nbsp; Lịch sử</div>
+        <div class="active"><span class="icon">person</span> &nbsp; Tài khoản</div>
+        <div><span class="icon">home</span> &nbsp; Tất cả môn</div>
       </aside>
 
       <main class="active">
         <div id="pfp-container">
           <img id="pfp" src="assets/default_pfp.jpeg">
           <div style="display:flex; flex-direction: column; justify-content: flex-start; gap:0; min-width: 0;">
-            <h1 id="greeting">Xin chào,</h1>
-            <h1 id="username">Hello</h1>
-            <button id="upload-pfp-button">Tải lên</button>
+            <h1 id="greeting">Xin chào</h1>
+            <h1 id="username"></h1>
+            <button id="upload-pfp-button">Tải lên<input type="file" id="pfpInput" accept="image/*"></button>
           </div>
         </div>
 
@@ -87,17 +86,14 @@
       </main>
 
       <main>
-        <div id="exam-list">
-
+        <div class="main-top">
+          <div>
+            <h1>Tất cả</h1>
+            <h2>làm cái l này mệt vcl</h2>
+          </div>
         </div>
-      </main>
-
-      <main>
-        Hello
-      </main>
-
-      <main>
-        Lich su
+        <div class="exam-list active">
+        </div>
       </main>
     </div>
   </body>

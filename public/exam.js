@@ -232,34 +232,51 @@ const startTime = Date.now();
 
 async function submitExam() {
     const exam = id;
-    const time = Math.floor(
-        (Date.now() - startTime) / 1000
-    );
+    const duration = (Date.now() - startTime) / 1000;
 
     try {
-        const response = await fetch(
-            `/api/exams/${exam}/complete`,
-            {
-                method: "POST",
-                headers: {
-                    "Content-Type": "application/json"
-                },
-                body: JSON.stringify({
-                    username,
-                    time,
-                    score: Math.round(score*100)/10
-                })
-            }
-        );
+        const savedPfp = localStorage.getItem("pfp");
+        let avatar;
+
+        if (savedPfp) {
+            const response = await fetch(savedPfp);
+            const blob = await response.blob();
+
+           const compressed = await imageCompression(
+                new File([blob], "avatar.jpg", { type: blob.type }),
+                {
+                    maxSizeMB: 0.02, // target ~20 KB
+                    maxWidthOrHeight: 96,
+                    useWebWorker: true,
+                    fileType: "image/webp",
+                    initialQuality: 0.4
+                }
+            );
+
+            avatar = await new Promise((resolve, reject) => {
+                const reader = new FileReader();
+                reader.onload = () => resolve(reader.result.split(",")[1]);
+                reader.onerror = reject;
+                reader.readAsDataURL(compressed);
+            });
+        }
+
+        const response = await fetch(`/api/exams/${exam}/complete`, {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({
+                username,
+                duration,
+                score: Math.round(score * 100) / 10,
+                avatar
+            })
+        });
 
         if (!response.ok) {
-            console.error(response)
             throw new Error("Failed to submit exam");
         }
 
-        document
-            .getElementById("completed-modal")
-            .classList.remove("hidden");
+        document.getElementById("completed-modal").classList.remove("hidden");
     } catch (error) {
         console.error(error);
         alert("Failed to save your result. Please try again.");
