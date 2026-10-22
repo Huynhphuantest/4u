@@ -59,6 +59,7 @@ header {
   align-items: center;
   justify-content: space-between;
   padding: 0 24px;
+  z-index:1;
 }
 .logo { height:100%; color: var(--blue); font-size: 22px; font-weight: 800; display: flex; justify-content: center; align-items: center;}
 .logo > span { margin-right: 0.5rem; }
