@@ -245,7 +245,7 @@ main:not(.active) {
 .ranking {
   margin-top: 1rem;
   display: none;
-  grid-template-columns: repeat(auto-fit, minmax(225px, 300px));
+  grid-template-columns: repeat(auto-fit, minmax(200px, 250px));
   gap: 16px;
 }
 .ranking.active {
@@ -396,7 +396,4 @@ main:not(.active) {
 .button-group button.active {
   background: var(--blue);
   color: white;
-}
-.primary:not(.active) {
-  display:none !important
 }
