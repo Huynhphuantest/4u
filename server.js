@@ -37,7 +37,7 @@ async function initDB() {
 
 initDB().catch(console.error);
 
-app.use(express.json());
+app.use(express.json({ limit: "1mb" }));
 
 app.use(session({
     secret: process.env.SESSION_SECRET || "change-this-secret",
