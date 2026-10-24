@@ -136,12 +136,16 @@ async function loadExams() {
         examList.replaceChildren();
         examList.innerHTML = "";
         exams.forEach(file => {
-            if(file.id.split("-")[0] !== examList.id && examList.id !== "") return;
+            const type = file.id.split("-")[0];
+            if(type !== examList.id && examList.id !== "") return;
             // Nguy hiem kinh khung khiep
             examList.innerHTML += `
             <div class="exam-option" onclick='redirect("${file.id}")'>
-                <div class="exam-name">${file.title}</div>
-                <div class="exam-subject">${file.subject}</div>
+                <div class="exam-icon icon">${tab_icons[tabs.findIndex(t => type === t)]}</div>
+                <div style="display:flex;flex-direction:column;">
+                    <div class="exam-name">${file.title}</div>
+                    <div class="exam-subject">${file.subject}</div>
+                </div>
             </div>
             `;
         });

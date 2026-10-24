@@ -217,9 +217,17 @@ main:not(.active) {
   padding:1.25rem 2rem;
   border: 1px solid var(--border);
   display:flex;
-  flex-direction: column;
+  flex-direction: row;
+  gap:1rem;
   border-radius: 12px;
   transition: all 500ms;
+  align-items: center;
+  color:var(--text);
+  transition: all 500ms;
+}
+.exam-icon {
+  font-size:2rem;
+  color:var(--blue);
 }
 .exam-name {
   font-weight:700;
@@ -234,8 +242,11 @@ main:not(.active) {
   background:var(--blue);
   color: white
 }
-.exam-option:hover > .exam-subject {
+.exam-option:hover > div > .exam-subject {
   color: white
+}
+.exam-option:hover > .exam-icon {
+  color: white;
 }
 
 #menu-toggle {
