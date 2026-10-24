@@ -286,6 +286,7 @@ async function submitExam() {
         });
 
         if (!response.ok) {
+            console.error(response);
             throw new Error("Failed to submit exam");
         }
 
