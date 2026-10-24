@@ -205,14 +205,107 @@ main:not(.active) {
 
 
 .exam-list {
-  display:none;
+  display: flex;
   flex-direction: column;
   gap: 16px;
   margin-top:1rem;
 }
-.exam-list.active {
-  display: flex;
+.exam-list:not(.active) {
+  display:none;
 }
+.exam-list:empty {
+  position: relative;
+  width:100%;
+  height: 100%;
+}
+.exam-list:empty::before {
+  content: 'Chưa làm xong ae ơ ):';
+  font-size:1.5rem;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  width:100%;
+  height: 100%;
+  border-radius: 16px;
+  border: 1px solid var(--border);
+}
+.exam-list:empty::after {
+  content: 'file_copy_off';
+  font-family: 'Material Symbols Outlined';
+  font-size:15rem;
+  position: absolute;
+  top:50%;
+  left: 50%;
+  color:var(--muted);
+  transform: translate(-50%, -50%);
+  opacity: 0.5;
+}
+.ranking:empty:not(.loading) {
+  position: relative;
+  width:100%;
+  height: 100%;
+}
+.ranking:empty:not(.loading)::before {
+  content: 'Chưa làm xong ae ơ ):';
+  font-size:1.5rem;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  width:100%;
+  height: 100%;
+  border-radius: 16px;
+  border: 1px solid var(--border);
+}
+.ranking:empty:not(.loading)::after {
+  content: 'file_copy_off';
+  font-family: 'Material Symbols Outlined';
+  font-size:15rem;
+  position: absolute;
+  top:50%;
+  left: 50%;
+  color:var(--muted);
+  transform: translate(-50%, -50%);
+  opacity: 0.5;
+}
+.ranking.loading {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+}
+.ranking.loading:before {
+  content:'progress_activity';
+  font-family: 'Material Symbols Outlined';
+  font-size:10rem;
+  position:absolute;
+  top:50%;
+  left: 50%;
+  translate: -50% -50%;
+  animation: spin 1s linear infinite;
+} 
+.exam-list.loading {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+}
+.exam-list.loading:before {
+  content:'progress_activity';
+  font-family: 'Material Symbols Outlined';
+  font-size:10rem;
+  position:absolute;
+  top:50%;
+  left: 50%;
+  translate: -50% -50%;
+  animation: spin 1s linear infinite;
+}
+@keyframes spin {
+    from { transform: rotate(0deg); }
+    to   { transform: rotate(360deg); }
+}
+
 .exam-option {
   padding:1.25rem 2rem;
   border: 1px solid var(--border);

@@ -16,7 +16,7 @@ async function loadTab() {
           <div class="change-page icon">trophy</div>
         </div>`
         const examList = document.createElement("div");
-        examList.classList = "exam-list active";
+        examList.classList = "exam-list active loading";
         main.appendChild(examList);
         layout.appendChild(main);
         examList.id = tab;
@@ -26,7 +26,7 @@ async function loadTab() {
         sidebar.appendChild(button);
 
         const ranking = document.createElement("div");
-        ranking.classList = "ranking";
+        ranking.classList = "ranking loading";
         main.appendChild(ranking);
         
         tabArr.push(main);
@@ -77,6 +77,7 @@ async function loadTab() {
                 </div>
             `
         });
+        rankList.classList.remove("loading");
     });
 }
 loadTab();
@@ -149,6 +150,7 @@ async function loadExams() {
             </div>
             `;
         });
+        examList.classList.remove("loading");
     }
     
     const examLists = document.querySelectorAll(".exam-list");
