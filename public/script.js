@@ -44,12 +44,14 @@ async function loadTab() {
         const rankList = main.querySelector(".ranking");
         data.forEach((rank) => {
             if(rank.exam.split("-")[0] !== tabs[i]) return;
-            const pfp = pfps.find(o => o.id === rank.pfp_id);
+            let pfp = pfps.find(o => o.id === rank.pfp_id);
+            if(pfp) pfp = `data:image/jpeg;base64,` + pfp.image;
+            else pfp = `assets/default_pfp.jpeg`;
             let rank_completed_at = rank.completed_at.replace(/[‐‑‒–—−-]/g, "/").replace("T", " ").split(".")[0].split(":");
             rankList.innerHTML += `
                 <div class="rank">
                     <div class="rank-indentity">
-                        <img src="data:image/jpeg;base64,${pfp.image}">
+                        <img src="${pfp}">
                         <div class="rank-username">${rank.username}</div>
                         <div class="rank-score">${rank.score}</div>
                     </div>
@@ -182,8 +184,8 @@ function loadSettings() {
     $("shuffle-choices").checked = settings.shuffleChoices ?? false;
     $("check-mode").value = settings.checkMode ?? "immediate";
     $("restart-on-wrong").checked = settings.restartOnWrong ?? false;
-    if(settings.skip.includes("multiple_choice")) $("skip_multiple_choice").classList.add("active");
-    if(settings.skip.includes("correctness")) $("skip_correctness").classList.add("active");
+    if(settings?.skip?.includes("multiple_choice")) $("skip_multiple_choice").classList.add("active");
+    if(settings?.skip?.includes("correctness")) $("skip_correctness").classList.add("active");
 }
 
 settingIds.forEach(id => {
