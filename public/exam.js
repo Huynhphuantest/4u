@@ -258,8 +258,8 @@ async function submitExam() {
            const compressed = await imageCompression(
                 new File([blob], "avatar.jpg", { type: blob.type }),
                 {
-                    maxSizeMB: 0.02, // target ~20 KB
-                    maxWidthOrHeight: 96,
+                    maxSizeMB: 0.08, // target ~20 KB
+                    maxWidthOrHeight: 512,
                     useWebWorker: true,
                     fileType: "image/webp",
                     initialQuality: 0.4
