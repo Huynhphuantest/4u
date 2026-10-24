@@ -84,3 +84,33 @@ main {
 .primary:not(.active) {
   display:none
 }
+
+.question-block {
+    display:block;
+    padding:0.5rem;
+    width:100%;
+    text-align: center;
+    margin-inline: auto;
+    text-wrap: pretty;
+    font-size: 0.8rem;
+}
+.question-block::before,
+.question-block::after {
+    font-size: 3em;
+    line-height: 0;
+    margin:0.5rem;
+    vertical-align: -0.3em;
+}
+
+.question-block::before {
+    content: "\201C"; /* “ */
+}
+
+.question-block::after {
+    content: "\201D"; /* ” */
+}
+@-moz-document url-prefix() {
+    .question-block {
+        text-wrap: balance;
+    }
+}

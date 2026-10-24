@@ -1,0 +1,119 @@
+{
+  "id": "hist-001",
+  "subject": "GDKT-PL",
+  "title": "Kiểm tra giữa kì I",
+  "blocks": [
+    {
+      "id": 1,
+      "content": "Trong bối cảnh toàn cầu hóa, hai quốc gia giả định là Lumina và Terra có những hướng đi phát triển khác biệt. Quốc gia Lumina đặt mục tiêu duy nhất là tối đa hóa tốc độ tăng trưởng GDP, coi đó là thước đo thành công tối thượng. Chính phủ Lumina đã chấp nhận đánh đổi một số vấn đề về môi trường như ô nhiễm không khí và nguồn nước nghiêm trọng tại các khu công nghiệp, cũng như sự gia tăng chênh lệch giàu nghèo giữa các tầng lớp dân cư do phân phối lợi ích chưa đồng đều. Ngược lại, Quốc gia Terra, sau khi đạt được mức tăng trưởng kinh tế nhất định, đã chuyển hướng sang một lộ trình phát triển toàn diện hơn. Quốc gia này chấp nhận tốc độ tăng trưởng GDP ở mức vừa phải hơn nhưng lại rất chú trọng vào việc xây dựng hệ thống an sinh xã hội vững mạnh, đảm bảo mọi công dân đều có thể tiếp cận giáo dục chất lượng cao, đồng thời đầu tư mạnh vào các giải pháp bảo vệ và phục hồi môi trường tự nhiên, coi đó là nền tảng cho sự thịnh vượng lâu dài.",
+      "includes": [
+        1,2        
+      ]
+    },
+    {
+      "id": 2,
+      "content": "Việt Nam chưa tham gia vào bất kỳ liên minh kinh tế nào, nhưng đã gia nhập các tổ chức như ASEAN và WTO để thúc đẩy hội nhập kinh tế sâu hơn. Xuất khẩu của Việt Nam đang tăng mạnh với các mặt hàng như dệt may, điện tử và nông sản (gạo, cà phê) nhờ vào các hiệp định thương mại tự do. Đặc biệt, các tập đoàn lớn như Samsung, LG và Intel đã đầu tư lớn vào Việt Nam, biến quốc gia này thành trung tâm sản xuất điện tử quan trọng của khu vực Đông Nam Á. Cuối cùng, du lịch và kiều hối đóng vai trò là những nguồn thu ngoại tệ quan trọng cho Việt Nam, với doanh thu từ du lịch đạt gần 18 tỷ USD và kiều hối vượt hơn 16 tỷ USD trong năm 2019.",
+      "includes": [
+        2,3
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "Thông tin nào chưa đề cập đến chỉ tiêu nào trong phát triển kinh tế Việt Nam?",
+      "options": [
+        "Sự gia tăng của các chỉ tiêu tăng trưởng kinh tế",
+        "Chuyển dịch cơ cấu ngành kinh tế theo hướng tiến bộ, hợp lí",
+        "Sự gia tăng chỉ số phát triển con người",
+        "Sự thay đổi chỉ số bất bình đẳng xã hội"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "Tổng sản phẩm quốc nội (GDP) phản ánh tổng giá trị của tất cả hàng hóa và dịch vụ cuối cùng được sản xuất ở đâu?",
+      "options": [
+        "Trong phạm vi lãnh thổ quốc gia",
+        "Bởi công dân của quốc gia đó, dù ở trong hay ngoài nước",
+        "Chỉ trong các doanh nghiệp nhà nước",
+        "Chỉ trong khu vực dịch vụ"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "Chỉ số Phát triển Con người (HDI) đo lường sự phát triển của con người dựa trên các yếu tố nào?",
+      "options": [
+        "Tỷ lệ sinh, tỷ lệ tử vong và tỷ lệ biết chữ.",
+        "Tuổi thọ, trình độ học vấn và mức sống.",
+        "Thu nhập, chi tiêu và tiết kiệm.",
+        "Sản xuất, tiêu dùng và đầu tư."
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "Hệ số Gini được sử dụng để đo lường khía cạnh nào của nền kinh tế?",
+      "options": [
+        "Tốc độ tăng trưởng GDP.",
+        "Mức độ bất bình đẳng trong phân phối thu nhập.",
+        "Tổng kim ngạch xuất nhập khẩu.",
+        "Tỷ lệ lạm phát hàng năm."
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "Phát triển bền vững là quá trình phát triển hài hòa giữa ba yếu tố nào?",
+      "options": [
+        "Kinh tế, chính trị và văn hóa.",
+        "Kinh tế, xã hội và môi trường.",
+        "Tăng trưởng, đầu tư và tiêu dùng.",
+        "Công nghiệp, nông nghiệp và dịch vụ."
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "Theo tài liệu, yếu tố nào là điều kiện cần để có nguồn lực thực hiện các mục tiêu kinh tế - xã hội và bảo vệ môi trường?",
+      "options": [
+        "Tỷ lệ lạm phát thấp.",
+        "Tăng trưởng kinh tế.",
+        "Hệ thống chính trị ổn định.",
+        "Mức độ bình đẳng thu nhập cao."
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "Hội nhập quốc tế tạo ra cơ hội gì cho người dân?",
+      "options": [
+        "Tăng thu nhập và tạo ra nhiều cơ hội việc làm.",
+        "Làm giảm số lượng ngành công nghiệp.",
+        "Tăng thuế cho các ngành dịch vụ.",
+        "Giảm sự tham gia của người dân trong nền kinh tế."
+      ],
+      "answer": 0
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "Hội nhập đa phương đặc trưng bởi điều gì?",
+      "options": [
+        "Hợp tác giữa hai quốc gia.",
+        "Hợp tác giữa ba quốc gia trở lên.",
+        "Hợp tác trong một khu vực địa lý.",
+        "Hợp tác chỉ trong lĩnh vực quân sự."
+      ],
+      "answer": 1
+    }
+    ]
+}

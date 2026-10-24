@@ -1,97 +1,306 @@
 
 const fs = require("node:fs");
+const readline = require("node:readline/promises");
+const { stdin, stdout } = require("node:process");
 
-const input = fs.readFileSync("input.txt", "utf8");
-
-const exam = {
-  id: "geo-002",
-  subject: "Địa Lý",
-  title: "Kiểm tra giữa kì II",
-  questions: []
-};
-
-// Supports: Câu 1., Cau 1., Question 1., etc.
-const blocks = input
-  .split(/(?=^\s*(?:Câu|Cau|Question)\s+\d+\s*[.:)]?)/gim)
-  .map(block => block.trim())
-  .filter(Boolean);
-
-for (const block of blocks) {
-  const heading = block.match(
-    /^\s*(?:Câu|Cau|Question)\s+(\d+)\s*[.:)]?\s*/i
-  );
-
-  if (!heading) continue;
-
-  const id = Number(heading[1]);
-  const content = block.slice(heading[0].length);
-
-  // Supports A. A) a. a), with * before the label.
-  const optionRegex = /^\s*(\*)?\s*([A-Da-d])[.)]\s*/gm;
-  const matches = [...content.matchAll(optionRegex)];
-
-  if (matches.length < 2) {
-    throw new Error(`Question ${id}: Not enough options.`);
-  }
-
-  const question = content.slice(0, matches[0].index).trim();
-
-  const rawOptions = matches.map((match, i) => {
-    const start = match.index + match[0].length;
-    const end = matches[i + 1]?.index ?? content.length;
-
-    return {
-      label: match[2],
-      text: content.slice(start, end).trim(),
-      marked: Boolean(match[1])
-    };
-  });
-
-  // Uppercase labels = multiple choice.
-  // Lowercase labels = correctness question.
-  const isCorrectness = /^[a-z]$/.test(rawOptions[0].label);
-  const type = isCorrectness ? "correctness" : "multiple_choice";
-
-  // Ensure every option uses the same label case.
-  if (rawOptions.some(option =>
-    /^[a-z]$/.test(option.label) !== isCorrectness
-  )) {
-    throw new Error(`Question ${id}: Mixed uppercase/lowercase labels.`);
-  }
-
-  const options = rawOptions.map(option => option.text);
-
-  const answers = rawOptions
-    .map((option, index) => option.marked ? index : -1)
-    .filter(index => index !== -1);
-
-  if (answers.length === 0) {
-    throw new Error(`Question ${id}: No option marked with *.`);
-  }
-
-  if (type === "multiple_choice" && answers.length !== 1) {
-    throw new Error(
-      `Question ${id}: Multiple choice must have exactly one * answer.`
-    );
-  }
-
-  exam.questions.push({
-    id,
-    type,
-    question,
-    options,
-    answer: type === "correctness" ? answers : answers[0]
-  });
+// 1. Normalize text and put headings/options on separate lines.
+function formatInput(input) {
+    return input
+        .replace(/\r\n?/g, "\n")
+        .replace(/[\u200B-\u200D\uFEFF]/g, "")
+        .replace(/\u00A0/g, " ")
+        .replace(/^\s*\[\s*$/gm, "")
+        .replace(/^\s*\]\s*$/gm, "")
+        .replace(/^\s*Enter one correct label:.*$/gim, "")
+        .replace(
+            /([^\n])\s*((?:Câu|Cau|Question)\s+\d+\s*[.:)]?)/gi,
+            "$1\n$2"
+        )
+        .replace(
+            /([^\n])\s+(\*?\s*[A-Da-d][.)]\s+)/g,
+            "$1\n$2"
+        )
+        .replace(/^\s*\[?\s*Marker\s*:/gim, "Marker:")
+        .trim();
 }
 
-exam.questions.sort((a, b) => a.id - b.id);
+function findEvents(input) {
+    const events = [];
 
-fs.writeFileSync(
-  "output.json",
-  JSON.stringify(exam, null, 2),
-  "utf8"
-);
+    const regex =
+      /^[ \t]*(Marker\s*:|(?:Câu|Cau|Question)\s+\d+\s*[.:)]?)/gim;
 
-console.log(
-  `Successfully converted ${exam.questions.length} questions to output.json`
-);
+    for (const match of input.matchAll(regex)) {
+        const isMarker = /^Marker\s*:/i.test(match[1]);
+
+        events.push({
+            type: isMarker ? "marker" : "question",
+            start: match.index,
+            end: match.index + match[0].length
+        });
+    }
+
+    return events;
+}
+
+// 3. Parse a question heading.
+function parseHeading(block) {
+    const heading = block.match(
+        /^\s*(?:Câu|Cau|Question)\s+(\d+)\s*[.:)]?\s*/i
+    );
+
+    if (!heading) return null;
+
+    return {
+        id: Number(heading[1]),
+        content: block.slice(heading[0].length)
+    };
+}
+
+// 4. Extract the question text and options.
+function parseOptions(content, id) {
+    const regex = /^\s*(\*)?\s*([A-Da-d])[.)]\s*/gm;
+    const matches = [...content.matchAll(regex)];
+
+    if (matches.length < 2) {
+        throw new Error(`Question ${id}: Not enough options.`);
+    }
+
+    const question = content.slice(0, matches[0].index).trim();
+
+    const options = matches.map((match, i) => {
+        const start = match.index + match[0].length;
+        const end = matches[i + 1]?.index ?? content.length;
+
+        return {
+            label: match[2],
+            text: content.slice(start, end).trim(),
+            marked: Boolean(match[1])
+        };
+    });
+
+    return { question, options };
+}
+
+// 5. Determine question type.
+function determineType(options, id) {
+    const isCorrectness = /^[a-z]$/.test(options[0].label);
+
+    if (options.some(option =>
+        /^[a-z]$/.test(option.label) !== isCorrectness
+    )) {
+        throw new Error(`Question ${id}: Mixed option label cases.`);
+    }
+
+    return isCorrectness ? "correctness" : "multiple_choice";
+}
+
+// 6. Read answers marked with *.
+function getMarkedAnswers(options, type, id) {
+    const answers = options
+        .map((option, index) => option.marked ? index : -1)
+        .filter(index => index !== -1);
+
+    if (type === "multiple_choice" && answers.length > 1) {
+        throw new Error(`Question ${id}: Multiple marked answers.`);
+    }
+
+    return answers;
+}
+
+// 7. Parse the entire input, including shared passages.
+function parseExam(input) {
+    const events = findEvents(input);
+    const questions = [];
+    const blocks = [];
+
+    let activeBlock = null;
+
+    for (let i = 0; i < events.length; i++) {
+        const event = events[i];
+        const next = events[i + 1];
+        const end = next ? next.start : input.length;
+
+        if (event.type === "marker") {
+            const content = input.slice(event.end, end)
+                .replace(/^\s*\[|\]\s*$/g, "")
+                .trim();
+
+            if (!content) {
+                throw new Error("Found an empty Marker section.");
+            }
+
+            const match = content.match(
+                /câu hỏi?\s+([\d\s, và]+)/i
+            );
+
+            const includes = match
+                ? [...match[1].matchAll(/\d+/g)].map(m => Number(m[0]))
+                : [];
+
+            activeBlock = {
+                id: blocks.length + 1,
+                content: content.replace(
+                    /^Đọc thông tin và trả lời.*?:\s*/i,
+                    ""
+                ).trim(),
+                includes
+            };
+
+            blocks.push(activeBlock);
+            continue;
+        }
+
+        const parsed = parseHeading(input.slice(event.start, end));
+        if (!parsed) continue;
+
+        const { id, content } = parsed;
+        const result = parseOptions(content, id);
+        const type = determineType(result.options, id);
+
+        const question = {
+            id,
+            type,
+            question: result.question,
+            options: result.options,
+            answer: getMarkedAnswers(result.options, type, id)
+        };
+
+        questions.push(question);
+    }
+
+    questions.sort((a, b) => a.id - b.id);
+    blocks.forEach(block => {
+        block.includes.sort((a, b) => a - b);
+    });
+
+    return { questions, blocks };
+}
+
+// 8. Ask the user to enter answers.
+async function inputAnswers(questions) {
+    const rl = readline.createInterface({ input: stdin, output: stdout });
+
+    try {
+        for (const q of questions) {
+            const labels = q.options.map(option => option.label);
+            const marked = q.answer.map(index => labels[index]);
+
+            console.log(`\nQuestion ${q.id}: ${q.question}`);
+
+            q.options.forEach(option => {
+                console.log(`  ${option.label}. ${option.text}`);
+            });
+
+            while (true) {
+                const hint = q.type === "correctness"
+                    ? "Enter correct labels separated by commas"
+                    : "Enter one correct label";
+
+                const existing = marked.length
+                    ? ` [marked: ${marked.join(", ")}; Enter to keep]`
+                    : "";
+
+                const input = (await rl.question(
+                    `${hint}${existing}: `
+                )).trim();
+
+                let answers;
+
+                if (!input && marked.length) {
+                    answers = marked;
+                } else if (input) {
+                    answers = input.split(",").map(s => s.trim());
+                } else {
+                    console.log("Please enter an answer.");
+                    continue;
+                }
+
+                const indexes = answers.map(label =>
+                    labels.findIndex(
+                        option => option.toLowerCase() === label.toLowerCase()
+                    )
+                );
+
+                if (indexes.some(index => index === -1)) {
+                    console.log(`Choose: ${labels.join(", ")}`);
+                    continue;
+                }
+
+                if (new Set(indexes).size !== indexes.length) {
+                    console.log("Duplicate answers are not allowed.");
+                    continue;
+                }
+
+                if (q.type === "multiple_choice" && indexes.length !== 1) {
+                    console.log("Enter exactly one answer.");
+                    continue;
+                }
+
+                q.answer = indexes;
+                break;
+            }
+        }
+    } finally {
+        rl.close();
+    }
+}
+
+// 9. Build the final JSON.
+function buildExam(questions, blocks, metadata) {
+    return {
+        ...metadata,
+
+        blocks: blocks.map(block => ({
+            id: block.id,
+            content: block.content,
+            includes: block.includes
+        })),
+
+        questions: questions.map(q => ({
+            id: q.id,
+            type: q.type,
+            question: q.question,
+            options: q.options.map(option => option.text),
+            answer: q.type === "correctness"
+                ? q.answer
+                : q.answer[0]
+        }))
+    };
+}
+
+// 10. Run the converter.
+async function main() {
+    const input = fs.readFileSync("input.txt", "utf8");
+    const formatted = formatInput(input);
+
+    const { questions, blocks } = parseExam(formatted);
+
+    if (!questions.length) {
+        throw new Error("No questions found in input.txt.");
+    }
+
+    await inputAnswers(questions);
+
+    const exam = buildExam(questions, blocks, {
+        id: "geo-002",
+        subject: "Địa Lý",
+        title: "Kiểm tra giữa kì II"
+    });
+
+    fs.writeFileSync(
+        "output.json",
+        JSON.stringify(exam, null, 2),
+        "utf8"
+    );
+
+    console.log(
+        `\nSuccessfully converted ${questions.length} questions and ` +
+        `${blocks.length} blocks to output.json`
+    );
+}
+
+main().catch(error => {
+    console.error("\nConversion failed:", error.message);
+    process.exitCode = 1;
+});
