@@ -24,6 +24,8 @@ const timerInterval = setInterval(() => {
 
 
 let questions = []
+let correctnessAmount = 0;
+let multipleChoiceAmount = 0;
 
 const id = window.location.href.split("/").at(-1)
 async function getExam() {
@@ -32,24 +34,26 @@ async function getExam() {
 
     questions = convertExam(data);
     questions = questions.filter((q) => !settings.skip.includes(q.type))
+    let multipleChoiceQuestions = questions.filter((q) => q.type === "multiple_choice");
+    let correctnessQuestions = questions.filter((q) => q.type === "correctness");
     if(settings.shuffleQuestions) {
-        questions = shuffleQuestions(questions);
+        multipleChoiceQuestions = shuffleQuestions(multipleChoiceQuestions);
+        correctnessQuestions = shuffleQuestions(correctnessQuestions);
     }
     if(settings.shuffleChoices) {
-        questions = shuffleChoices(questions);
+        multipleChoiceQuestions = shuffleChoices(multipleChoiceQuestions);
+        correctnessQuestions = shuffleChoices(correctnessQuestions);
     }
+    questions = [...multipleChoiceQuestions, ...correctnessQuestions];
 
     document.getElementById("exam-name").textContent = data.subject + " - " + data.title;
-
-    let correctnessAmount = 0;
-    let multipleChoiceAmount = 0;
 
     questions.forEach((question) => {
         if(question.type === "correctness") correctnessAmount++;
         if(question.type === "multiple_choice") multipleChoiceAmount++;
     });
 
-    if(multipleChoiceAmount > 0) document.getElementById("question-amount").textContent += `${multipleChoiceAmount} Câu trắc nghiệm`;
+    if(multipleChoiceAmount > 0) document.getElementById("question-amount").textContent += `${multipleChoiceAmount} Câu trắc nghiệm `;
     if(correctnessAmount > 0) document.getElementById("question-amount").textContent += `${correctnessAmount} Câu đúng sai`;
 
     render()
@@ -116,6 +120,7 @@ function render() {
 }
 
 function multiple_choice() {
+    $("questionTypeLabel").textContent = "Trắc Nghiệm"
     $("check").classList.remove("active")
     const item = questions[current];
 
@@ -161,6 +166,7 @@ function multiple_choice() {
     })
 }
 function correctness() {
+    $("questionTypeLabel").textContent = "Đúng Sai"
     $("check").classList.add("active")
     const item = questions[current]
     const selected = new Set();
