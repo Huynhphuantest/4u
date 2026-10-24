@@ -16,12 +16,12 @@ const db = new Pool({
     ssl: { rejectUnauthorized: false }
 });
 
-async function initDB() {
+async function initDB() {    
     await db.query(`
         CREATE TABLE IF NOT EXISTS pfps (
-            id BIGINT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
-            image BYTEA NOT NULL UNIQUE
-        );
+            id BIGSERIAL PRIMARY KEY,
+            image BYTEA NOT NULL
+        )
 
         CREATE TABLE IF NOT EXISTS completions (
             id BIGINT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
@@ -163,13 +163,10 @@ app.post("/api/exams/:id/complete", async (req, res) => {
         if (avatar) {
             const image = Buffer.from(avatar, "base64");
 
-            // Reuse an identical image, or insert it if it is new.
             const pfp = await client.query(
                 `INSERT INTO pfps (image)
-                 VALUES ($1)
-                 ON CONFLICT (image)
-                 DO UPDATE SET image = EXCLUDED.image
-                 RETURNING id`,
+                VALUES ($1)
+                RETURNING id`,
                 [image]
             );
 
