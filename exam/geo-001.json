@@ -5,7 +5,7 @@
   "questions": [
     {
       "id": 1,
-      "type": "correctness",
+      "type": "multiple_choice",
       "question": "Ở nước ta, vào nửa sau mùa đông, gió mùa Đông Bắc thổi lệch qua biển mang lại khối lượng ẩm lớn gây ra hiện tượng thời tiết đặc trưng nào cho vùng đồng bằng Bắc Bộ?",
       "options": [
         "Khô hanh, trời rét buốt kèm theo sương muối.",
@@ -13,9 +13,7 @@
         "Nắng nóng gay gắt và có giông bão lớn.",
         "Mưa rào kèm theo sập lở đất ở vùng đồi núi."
       ],
-      "answer": [
-        1
-      ]
+      "answer": 1
     },
     {
       "id": 2,
@@ -27,7 +25,7 @@
         "Độ nông - sâu của thềm lục địa ở hai đầu đất nước.",
         "Tốc độ lan truyền của thủy triều dọc theo bờ biển."
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "id": 3,
@@ -39,7 +37,7 @@
         "Từ 2600 m trở lên.",
         "Dưới 1000 m so với mực nước biển."
       ],
-      "answer": 1
+      "answer": 2
     },
     {
       "id": 4,
@@ -51,7 +49,7 @@
         "Khô nóng quanh năm giống khí hậu các hoang mạc.",
         "Nhiệt đới ẩm gió mùa, mang tính hải dương sâu sắc."
       ],
-      "answer": 1
+      "answer": 3
     },
     {
       "id": 5,
@@ -63,7 +61,7 @@
         "Khối khí lạnh xuất phát từ vùng áp cao Xi-bia.",
         "Khối khí mậu dịch di chuyển dọc theo đai cận chí tuyến."
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 6,
@@ -88,6 +86,478 @@
         "Biến nước ta thành quốc gia độc canh cây công nghiệp dài ngày."
       ],
       "answer": 0
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "Đặc điểm nào sau đây phản ánh đúng về mạng lưới đô thị nước ta hiện nay?",
+      "options": [
+        "Chỉ tập trung duy nhất ở vùng Đồng bằng sông Hồng.",
+        "Phần lớn là các đô thị có quy mô vừa và nhỏ, phân bố chưa đồng đều.",
+        "Các đô thị lớn đang có xu hướng giảm nhanh về số lượng dân cư.",
+        "Hệ thống đô thị hoàn toàn vắng bóng ở các tỉnh miền núi phía Bắc."
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "Quá trình đô thị hóa ở nước ta hiện nay có đặc điểm nổi bật nào dưới đây?",
+      "options": [
+        "Tỉ lệ dân thành thị tăng nhanh nhưng trình độ đô thị hóa nhìn chung còn thấp.",
+        "Mạng lưới đô thị phân bố hoàn toàn đồng đều giữa các vùng miền núi và đồng bằng.",
+        "Các đô thị lớn đang có xu hướng giải thể để dịch chuyển lao động về quê sản xuất.",
+        "Đô thị hóa diễn ra hoàn toàn độc lập, không gắn liền với quá trình công nghiệp hóa."
+      ],
+      "answer": 0
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "Việc phát triển các đô thị vệ tinh xung quanh các siêu đô thị như Hà Nội hay TP. Hồ Chí Minh nhằm mục đích chủ yếu là:",
+      "options": [
+        "Gom toàn bộ các nhà máy công nghiệp thô sơ vào lõi trung tâm thành phố.",
+        "Giảm tải áp lực về dân số, hạ tầng, nhà ở và môi trường cho đô thị trung tâm.",
+        "Biến tất cả các vùng nông thôn lân cận thành đất trồng rừng đặc dụng.",
+        "Xóa bỏ hoàn toàn hoạt động của ngành dịch vụ thương mại ở vùng ngoại ô."
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "Để nâng cao năng lực cạnh tranh và phát triển kinh tế đô thị bền vững, các thành phố lớn ở nước ta cần ưu tiên phát triển nhóm ngành nào?",
+      "options": [
+        "Công nghiệp khai khoáng thô sơ thâm dụng lao động lớn.",
+        "Các ngành dịch vụ chất lượng cao, công nghiệp công nghệ cao và kinh tế số.",
+        "Nông nghiệp tự cung tự cấp truyền thống ở vùng lõi trung tâm.",
+        "Các ngành tiểu thủ công nghiệp sử dụng nhiên liệu hóa thạch thô."
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "Đai cao cận nhiệt đới gió mùa trên núi ở nước ta xuất hiện phổ biến ở miền Bắc từ độ cao nào trở lên?",
+      "options": [
+        "Từ 600 - 700 m trở lên.",
+        "Từ 1000 m đến 2000 m.",
+        "Từ 2600 m trở lên.",
+        "Dưới mốc 300 m so với mực nước biển."
+      ],
+      "answer": 0
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "Biện pháp nào sau đây có ý nghĩa hàng đầu trong việc bảo vệ tài nguyên rừng phòng hộ ở vùng đồi núi nước ta?",
+      "options": [
+        "Khai thác triệt để gỗ quý để lấy diện tích trồng cây ăn quả.",
+        "Bảo vệ nghiêm ngặt, trồng rừng kết hợp với khoanh nuôi tái sinh tự nhiên.",
+        "Chuyển đổi toàn bộ đất rừng phòng hộ sang đất làm hồ thủy điện.",
+        "Giao khoán đất rừng cho các tập đoàn nước ngoài đầu tư công nghiệp."
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "Để phòng chống xói mòn, rửa trôi đất ở vùng đồi núi dốc nước ta, biện pháp canh tác nông nghiệp nào là phù hợp nhất?",
+      "options": [
+        "Làm ruộng bậc thang, trồng cây theo băng.",
+        "Bón thật nhiều phân hóa học và tăng cường cày lật đất vào mùa mưa.",
+        "Chặt hạ cây lâu năm để ưu tiên canh tác lúa nước ngắn ngày.",
+        "Tưới ngập nước thường xuyên trên bề mặt các đồi dốc trọc."
+      ],
+      "answer": 0
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "Quy mô dân số nước ta hiện nay có đặc điểm nổi bật nào dưới đây?",
+      "options": [
+        "Quy mô dân số rất nhỏ và đang giảm sút nghiêm trọng.",
+        "Quy mô dân số lớn, nước ta là một trong những quốc gia đông dân trên thế giới.",
+        "Dân số tăng nhanh đồng đều ở tất cả các tỉnh miền núi cao.",
+        "Tỉ lệ gia tăng dân số tự nhiên luôn duy trì ở mức trên 3% mỗi năm."
+      ],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "Sự phân bố dân cư nước ta hiện nay nhìn chung còn chưa hợp lý giữa:",
+      "options": [
+        "Các tỉnh ở đồng bằng Nam Bộ với nhau.",
+        "Vùng đồng bằng (mật độ rất cao) và vùng miền núi, trung du (mật độ thấp).",
+        "Các huyện đảo ven bờ phía Bắc với bờ biển phía Nam.",
+        "Nhóm dân số theo độ tuổi lao động kỹ thuật cao."
+      ],
+      "answer": 1
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "Do nước ta nằm trong vùng chịu ảnh hưởng của các áp cao cận chí tuyến và các luồng gió mùa hoạt động luân phiên theo mùa nên:",
+      "options": [
+        "Lượng mưa trung bình năm luôn đạt mức thấp nhất Đông Nam Á.",
+        "Khí hậu phân chia thành các mùa rõ rệt tùy theo từng khu vực địa lý.",
+        "Nước ta quanh năm lạnh giá giống như vùng nội địa Bắc Á.",
+        "Sông ngòi nước ta không có dòng chảy vào mùa hạ."
+      ],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "Việc khai thác và sử dụng hợp lý tài nguyên khoáng sản ở nước ta hiện nay cần gắn liền với:",
+      "options": [
+        "Việc đẩy mạnh xuất khẩu khoáng sản thô với khối lượng càng lớn càng tốt.",
+        "Việc ứng dụng công nghệ hiện đại, khai thác tiết kiệm và bảo vệ môi trường.",
+        "Việc đóng cửa toàn bộ các mỏ khai khoáng trong nước để nhập khẩu 100%.",
+        "Việc chỉ tập trung khai thác các mỏ khoáng sản nằm sâu dưới thềm lục địa."
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "Vị trí địa lý nằm trong vùng nội chí tuyến Bắc bán cầu quy định đặc tính cốt lõi nào của thiên nhiên Việt Nam?",
+      "options": [
+        "Quanh năm chịu tác động của gió Tây ôn đới hải dương.",
+        "Có nền nhiệt độ cao và tổng số giờ nắng lớn trong năm.",
+        "Thường xuyên xảy ra động đất và phun trào núi lửa.",
+        "Sông ngòi chảy theo hướng tây bắc - đông nam ổn định."
+      ],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "question": "Nước ta nằm hoàn toàn trong múi giờ thứ 7 (GMT+7) mang lại thuận lợi nào sau đây cho đời sống và sản xuất?",
+      "options": [
+        "Giúp khí hậu phân hóa rõ rệt thành hai mùa mưa - khô.",
+        "Thống nhất quản lý các hoạt động kinh tế, thời gian trên toàn quốc.",
+        "Triệt tiêu hoàn toàn sự chênh lệch giờ địa phương giữa các kinh tuyến.",
+        "Ngăn chặn sự xâm nhập của các khối khí lạnh từ vùng cực."
+      ],
+      "answer": 1
+    },
+    {
+      "id": 21,
+      "type": "multiple_choice",
+      "question": "Cơ cấu dân số theo độ tuổi của nước ta hiện nay đang có xu hướng dịch chuyển như thế nào?",
+      "options": [
+        "Tỉ trọng nhóm tuổi dưới lao động tăng nhanh vượt bậc.",
+        "Tỉ trọng nhóm tuổi trong và trên lao động tăng, nước ta đang trong giai đoạn già hóa dân số.",
+        "Nhóm tuổi từ 0 đến 14 tuổi chiếm ưu thế tuyệt đối trên 50% dân số.",
+        "Không có bất kỳ sự thay đổi nào về tỉ trọng các nhóm tuổi qua các thập kỷ."
+      ],
+      "answer": 1
+    },
+    {
+      "id": 22,
+      "type": "multiple_choice",
+      "question": "Biện pháp chủ yếu để giải quyết vấn đề thiếu hụt việc làm ở khu vực nông thôn nước ta hiện nay là:",
+      "options": [
+        "Đẩy mạnh việc di dân tự phát ra các vùng biên giới, hải đảo.",
+        "Đa dạng hóa các hoạt động kinh tế, phát triển ngành nghề nông thôn và dịch vụ.",
+        "Ngừng toàn bộ việc cơ giới hóa trong khâu sản xuất nông nghiệp.",
+        "Tập trung toàn bộ nguồn lao động vào việc độc canh cây lúa nước."
+      ],
+      "answer": 1
+    },
+    {
+      "id": 23,
+      "type": "multiple_choice",
+      "question": "Biển Đông mang lại cho khí hậu nước ta nguồn ẩm dồi dào chủ yếu nhờ đặc điểm nào sau đây của vùng biển này?",
+      "options": [
+        "Diện tích rộng lớn, tương đối kín và có nhiệt độ nước biển cao.",
+        "Có nhiều dòng hải lưu lạnh hoạt động mạnh mẽ suốt mùa đông.",
+        "Thềm lục địa sâu, thu hẹp đột ngột ở vùng biển miền Trung.",
+        "Phía đông và đông nam được bao bọc bởi các dãy núi cao."
+      ],
+      "answer": 0
+    },
+    {
+      "id": 24,
+      "type": "multiple_choice",
+      "question": "Vào mùa hạ, loại gió nào sau đây là nguyên nhân trực tiếp gây ra thời tiết khô nóng, có hiệu ứng phơn gay gắt cho vùng đồng bằng ven biển Trung Bộ?",
+      "options": [
+        "Gió mùa Tây Nam bị biến tính khi vượt qua hệ thống núi Trường Sơn.",
+        "Gió Tín phong bán cầu Bắc thổi mạnh từ áp cao cận chí tuyến.",
+        "Gió mùa Đông Bắc di chuyển lệch về phía nam của đất nước.",
+        "Gió đất từ nội địa thổi ra biển vào ban đêm."
+      ],
+      "answer": 0
+    },
+    {
+      "id": 25,
+      "type": "multiple_choice",
+      "question": "Do tác động phối hợp giữa gió mùa Đông Bắc và hướng địa hình của dãy Bạch Mã nên khí hậu miền Nam nước ta (từ dãy Bạch Mã trở vào) có đặc điểm là:",
+      "options": [
+        "Quanh năm lạnh giá và có mưa phùn kéo dài.",
+        "Nhiệt độ trung bình năm cao, không có mùa đông lạnh.",
+        "Phân chia thành hai mùa rõ rệt là mùa hạ và mùa đông.",
+        "Lượng mưa trung bình năm thấp nhất trên toàn lãnh thổ."
+      ],
+      "answer": 1
+    },
+    {
+      "id": 26,
+      "type": "multiple_choice",
+      "question": "Nguyên nhân chủ yếu làm cho đất feralit ở vùng đồi núi nước ta thường có màu đỏ vàng đặc trưng là do:",
+      "options": [
+        "Quá trình tích tụ cát và sét diễn ra quá mạnh mẽ.",
+        "Tác động hòa tan và tích lũy chất hữu cơ của rễ cây bụi.",
+        "Sự tích tụ oxit sắt (Fe₂O₃) và oxit nhôm (Al₂O₃) do rửa trôi mạnh.",
+        "Lượng phù sa sông ngòi bồi đắp hằng năm vào mùa lũ."
+      ],
+      "answer": 2
+    },
+    {
+      "id": 27,
+      "type": "multiple_choice",
+      "question": "Loại rừng nào sau đây ở nước ta được giao cho các cơ quan chức năng bảo vệ nghiêm ngặt nhằm duy trì nguồn gen sinh vật quý hiếm và nghiên cứu khoa học?",
+      "options": [
+        "Rừng sản xuất cây công nghiệp ngắn ngày.",
+        "Rừng phòng hộ đầu nguồn các dòng sông.",
+        "Rừng đặc dụng (các vườn quốc gia, khu bảo tồn).",
+        "Rừng trồng cây nguyên liệu giấy lấy gỗ."
+      ],
+      "answer": 2
+    },
+    {
+      "id": 28,
+      "type": "multiple_choice",
+      "question": "Để hạn chế tình trạng ngập lụt cục bộ vào mùa mưa tại các vùng đồng bằng hạ lưu sông nước ta, biện pháp công trình nào có ý nghĩa quan trọng nhất?",
+      "options": [
+        "Trồng thêm nhiều hàng cây xanh dọc theo các tuyến đường đô thị.",
+        "Xây dựng hệ thống đê điều ổn định, hồ chứa nước thượng nguồn và nạo vét kênh mương.",
+        "Chuyển đổi toàn bộ đất trồng lúa sang nuôi trồng thủy sản nước lợ.",
+        "Di dời toàn bộ cư dân đồng bằng lên định cư ở các vùng núi cao."
+      ],
+      "answer": 1
+    },
+    {
+      "id": 29,
+      "type": "multiple_choice",
+      "question": "Đặc điểm nào sau đây phản ánh đúng tình trạng phân bố dân cư của nước ta hiện nay?",
+      "options": [
+        "Mật độ dân số ở vùng trung du và miền núi cao hơn nhiều so với đồng bằng.",
+        "Dân cư phân bố không đều, tập trung đông đúc ở đồng bằng và thưa thớt ở miền núi.",
+        "Tất cả các tỉnh ven biển đều có quy mô dân số ngang bằng nhau.",
+        "Dân số đô thị hiện nay chiếm tỉ trọng lớn hơn nhiều so với dân số nông thôn."
+      ],
+      "answer": 1
+    },
+    {
+      "id": 30,
+      "type": "multiple_choice",
+      "question": "Một trong những tác động tích cực của xu hướng \"già hóa dân số\" đối với lực lượng lao động hiện nay ở nước ta là:",
+      "options": [
+        "Làm tăng nhanh chóng tỉ lệ lao động trẻ tuổi chưa có kinh nghiệm.",
+        "Nguồn lao động có nhiều kinh nghiệm sản xuất và kỹ năng tích lũy tốt.",
+        "Giảm bớt hoàn toàn áp lực về giải quyết việc làm ở thành thị.",
+        "Tự động nâng cao trình độ công nghệ thông tin cho người lao động."
+      ],
+      "answer": 1
+    },
+    {
+      "id": 31,
+      "type": "multiple_choice",
+      "question": "Nguyên nhân chủ yếu khiến tình trạng thất nghiệp ở khu vực thành thị nước ta còn ở mức cao là do:",
+      "options": [
+        "Quy mô các ngành công nghiệp và dịch vụ ở thành phố thu hẹp tuyệt đối.",
+        "Tốc độ phát triển kinh tế chưa đáp ứng đủ nhu cầu việc làm của lực lượng lao động tăng thêm.",
+        "Người lao động thành thị không muốn làm việc trong các nhà máy.",
+        "Nhà nước cấm hoàn toàn hoạt động của các doanh nghiệp tư nhân."
+      ],
+      "answer": 1
+    },
+    {
+      "id": 32,
+      "type": "multiple_choice",
+      "question": "Chế độ dòng chảy sông ngòi nước ta phân hóa thành hai mùa (mùa lũ và mùa cạn) rõ rệt chủ yếu là do:",
+      "options": [
+        "Sự chênh lệch về độ cao địa hình giữa thượng lưu và hạ lưu.",
+        "Chế độ mưa của khí hậu nhiệt đới ẩm gió mùa chi phối trực tiếp.",
+        "Hoạt động đắp đê ngăn lũ của người dân ở vùng hạ lưu sông.",
+        "Sự xuất hiện của các dòng hải lưu nóng hoạt động ngoài khơi."
+      ],
+      "answer": 1
+    },
+    {
+      "id": 33,
+      "type": "multiple_choice",
+      "question": "Việc đẩy mạnh công tác giao đất giao rừng cho người dân ở vùng đồi núi nước ta nhằm mục đích chủ yếu nào?",
+      "options": [
+        "Khuyến khích người dân chặt phá rừng tự nhiên để trồng cây lương thực.",
+        "Tăng cường trách nhiệm quản lý, bảo vệ và nâng cao sinh kế bền vững từ kinh tế rừng.",
+        "Thu hồi toàn bộ quyền sở hữu đất đai của đồng bào dân tộc thiểu số.",
+        "Biến tất cả các vùng đồi núi thành khu công nghiệp chế biến khoáng sản."
+      ],
+      "answer": 1
+    },
+    {
+      "id": 34,
+      "type": "multiple_choice",
+      "question": "Lãnh thổ nước ta nằm hoàn toàn trong vùng nội chí tuyến nên có đặc điểm nào sau đây?",
+      "options": [
+        "Nhiệt độ trung bình năm cao, tổng bức xạ lớn.",
+        "Chịu tác động sâu sắc của các dòng hải lưu lạnh quanh năm.",
+        "Có mạng lưới sông ngòi ngắn, dốc và rất ít phù sa.",
+        "Thảm thực vật chủ yếu là rừng lá kim ôn đới đai cao."
+      ],
+      "answer": 0
+    },
+    {
+      "id": 35,
+      "type": "multiple_choice",
+      "question": "Nước ta nằm ở vị trí tiếp giáp giữa lục địa và đại dương, trên đường di lưu của nhiều luồng sinh vật nên có:",
+      "options": [
+        "Các vành đai động đất, núi lửa hoạt động mạnh nhất thế giới.",
+        "Tài nguyên sinh vật phong phú và sinh cảnh đa dạng.",
+        "Khí hậu ôn đới hải dương điều hòa quanh năm.",
+        "Khoáng sản thạch anh và than đá quy mô lớn nhất toàn cầu."
+      ],
+      "answer": 1
+    },
+    {
+      "id": 36,
+      "type": "multiple_choice",
+      "question": "Loại gió nào sau đây là nguyên nhân chính gây ra mùa khô sâu sắc ở Nam Bộ và Tây Nguyên nước ta vào nửa đầu mùa đông?",
+      "options": [
+        "Gió mùa Đông Bắc.",
+        "Gió Tín phong bán cầu Bắc.",
+        "Gió Tây nam từ vịnh Băng-gal.",
+        "Gió đất và gió biển cục bộ."
+      ],
+      "answer": 1
+    },
+    {
+      "id": 37,
+      "type": "correctness",
+      "question": "Nhận định về phạm vi lãnh thổ và chủ quyền biển đảo Việt Nam:",
+      "options": [
+        "Lãnh hải nước ta là vùng biển có chiều rộng 12 hải lý tính từ đường cơ sở ra phía ngoài, được coi như ranh giới quốc gia trên biển.",
+        "Vùng đặc quyền kinh tế là vùng biển tiếp liền và nằm ngoài lãnh hải, rộng 200 hải lý tính từ ranh giới phía ngoài của lãnh hải.",
+        "Nhà nước ta có chủ quyền hoàn toàn về kinh tế, quyền tài phán quốc gia tại vùng đặc quyền kinh tế và thềm lục địa theo Luật Biển Quốc tế 1982.",
+        "Hai quần đảo Hoàng Sa và Trường Sa là bộ phận không thể tách rời, có ý nghĩa chiến lược tối cao về kinh tế và quốc phòng của nước ta trên Biển Đông."
+      ],
+      "answer": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "id": 38,
+      "type": "correctness",
+      "question": "Nhận định về tài nguyên thiên nhiên và bảo vệ môi trường nước ta:",
+      "options": [
+        "Độ che phủ rừng của nước ta đang có xu hướng tăng trở lại nhờ các chính sách trồng và bảo vệ rừng, tuy nhiên chất lượng rừng tự nhiên vẫn còn thấp.",
+        "Tình trạng ô nhiễm môi trường nước và không khí hiện nay chủ yếu diễn ra ở các vùng núi cao do hoạt động canh tác nương rẫy của đồng bào dân tộc thiểu số.",
+        "Biến đổi khí hậu đang làm gia tăng tần suất và cường độ các thiên tai như bão, hạn hán, xâm nhập mặn ở vùng Đồng bằng sông Cửu Long.",
+        "Khai thác tài nguyên thiên nhiên quá mức mà không có biện pháp phục hồi là nguyên nhân trực tiếp làm suy giảm đa dạng sinh học."
+      ],
+      "answer": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "id": 39,
+      "type": "correctness",
+      "question": "Nhận định về đặc điểm lao động và đô thị hóa ở nước ta hiện nay:",
+      "options": [
+        "Nguồn lao động nước ta dồi dào, có kinh nghiệm sản xuất phong phú, đáp ứng hoàn toàn 100% nhu cầu lao động kỹ thuật cao của mọi ngành công nghệ cốt lõi.",
+        "Cơ cấu lao động theo các ngành kinh tế ở nước ta đang dịch chuyển tích cực theo hướng giảm tỉ trọng ngành nông - lâm - thủy sản, tăng tỉ trọng ngành công nghiệp - xây dựng và dịch vụ.",
+        "Tốc độ đô thị hóa nhanh tạo ra thị trường tiêu thụ hàng hóa lớn và thu hút mạnh mẽ các nguồn vốn đầu tư trong và ngoài nước.",
+        "Các đô thị lớn ở nước ta hiện nay đã giải quyết triệt để hoàn toàn được bài toán về ùn tắc giao thông, ô nhiễm tiếng ồn và rác thải đô thị."
+      ],
+      "answer": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 40,
+      "type": "correctness",
+      "question": "Nhận định về ảnh hưởng của gió mùa đến khí hậu và thiên nhiên nước ta:",
+      "options": [
+        "Gió mùa Đông Bắc khi di chuyển xuống phía nam gặp dãy núi Trường Sơn Nam bị chặn lại hoàn toàn, tạo nên mùa mưa lớn cho Tây Nguyên.",
+        "Thời tiết \"nắng hanh, trời rét\" vào nửa đầu mùa đông ở miền Bắc chủ yếu do khối khí lạnh từ áp cao Xi-bia di chuyển qua lục địa trực tiếp thổi đến.",
+        "Do nằm trong khu vực hoạt động của gió mùa nên lượng mưa ở nước ta phân bố hoàn toàn đồng đều giữa tất cả các tháng trong năm.",
+        "Thiên nhiên nước ta có sự phân hóa Đông - Tây rõ rệt giữa hai sườn của dãy núi Trường Sơn do ảnh hưởng của các luồng gió hướng đông bắc và tây nam."
+      ],
+      "answer": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 41,
+      "type": "correctness",
+      "question": "Nhận định về suy giảm đa dạng sinh học và các biện pháp bảo vệ ở nước ta:",
+      "options": [
+        "Sự suy giảm đa dạng sinh học ở nước ta biểu hiện rõ qua việc suy giảm số lượng loài, nguồn gen quý hiếm và các hệ sinh thái tự nhiên.",
+        "Việc mở rộng diện tích đất canh tác nông nghiệp bằng mọi giá là giải pháp tối ưu giúp bảo vệ đa dạng sinh học hệ sinh thái rừng.",
+        "Hệ thống các khu bảo tồn thiên nhiên và vườn quốc gia đóng vai trò là những hạt nhân cốt lõi để bảo tồn tại chỗ các nguồn gen sinh vật nguy cấp.",
+        "Việc thực hiện nghiêm chỉnh Luật Lâm nghiệp và cấm săn bắt, buôn bán động vật hoang dã trái phép là trách nhiệm của mọi tổ chức, cá nhân."
+      ],
+      "answer": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "id": 42,
+      "type": "correctness",
+      "question": "Nhận định về vị trí địa lý và phạm vi lãnh thổ nước ta:",
+      "options": [
+        "Đường bờ biển nước ta dài 3260 km, chạy từ Móng Cái (Quảng Ninh) đến Hà Tiên (Kiên Giang).",
+        "Vùng biển thuộc chủ quyền quốc gia trên Biển Đông của nước ta bao gồm các bộ phận: nội thủy, lãnh hải, vùng tiếp giáp lãnh hải, vùng đặc quyền kinh tế và thềm lục địa.",
+        "Vị trí địa lý nằm ở ngã tư đường hàng hải và hàng không quốc tế tạo điều kiện thuận lợi cho giao lưu quốc tế mà không gây ra bất kỳ thách thức nào về an ninh quốc phòng.",
+        "Nước ta có múi giờ số 7, điều này có nghĩa là mọi địa điểm từ Tây sang Đông trên đất liền nước ta đều đón ánh sáng mặt trời cùng một thời điểm vào lúc 5 giờ sáng quanh năm."
+      ],
+      "answer": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": 43,
+      "type": "correctness",
+      "question": "Nhận định về đặc điểm lao động và xu hướng phát triển kinh tế nông thôn Việt Nam:",
+      "options": [
+        "Tỉ lệ lao động đã qua đào tạo của nước ta đang tăng nhanh hằng năm, đáp ứng trọn vẹn mọi vị trí công việc yêu cầu kỹ thuật tự động hóa tiên tiến nhất.",
+        "Cơ cấu lao động phân theo thành thị và nông thôn đang dịch chuyển theo hướng tăng nhanh tỉ trọng lao động ở thành thị, giảm ở nông thôn.",
+        "Việc chuyển dịch cơ cấu kinh tế nông thôn theo hướng tăng tỉ trọng ngành dịch vụ, tiểu thủ công nghiệp giúp tạo ra nhiều việc làm tại chỗ cho người dân.",
+        "Năng suất lao động xã hội ở nước ta nhìn chung luôn đạt mức cao nhất Đông Nam Á do có quy mô lao động dồi dào."
+      ],
+      "answer": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 44,
+      "type": "correctness",
+      "question": "Cho các nhận định về đặc điểm khí hậu nhiệt đới ẩm gió mùa của Việt Nam:",
+      "options": [
+        "Khí hậu nước ta có sự phân hóa phức tạp theo chiều Bắc - Nam, Đông - Tây và theo độ cao địa hình.",
+        "Miền Bắc có một mùa đông lạnh chủ yếu do tác động trực tiếp của gió mùa Đông Bắc xuất phát từ áp cao Xi-bia.",
+        "Gió mùa Tây Nam hoạt động vào giữa và cuối mùa hạ là nguyên nhân chính gây mưa lớn diện rộng cho cả hai miền Nam, Bắc.",
+        "Do tính chất gió mùa nên biên độ nhiệt độ trung bình năm ở các trạm khí tượng miền Nam luôn lớn hơn nhiều so với miền Bắc."
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
     }
   ]
 }
