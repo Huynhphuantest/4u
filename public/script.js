@@ -37,7 +37,11 @@ async function loadTab() {
     const response = await fetch("/api/completions");
     const pfps = await (await fetch("/api/pfps")).json();
     const data = await response.json();
-    data.sort((a, b) => b.score - a.score)
+    data.sort((a, b) => {
+        let score = b.score - a.score;
+        if(score === 0) return a.duration - b.duration;
+        return score;
+    });
 
     tabs.forEach((tab, i) => {
         const main = tabArr[i];
