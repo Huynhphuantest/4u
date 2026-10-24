@@ -21,7 +21,7 @@ async function initDB() {
         CREATE TABLE IF NOT EXISTS pfps (
             id BIGSERIAL PRIMARY KEY,
             image BYTEA NOT NULL
-        )
+        );
 
         CREATE TABLE IF NOT EXISTS completions (
             id BIGINT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
