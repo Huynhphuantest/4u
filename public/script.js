@@ -46,8 +46,12 @@ async function loadTab() {
     tabs.forEach((tab, i) => {
         const main = tabArr[i];
         const rankList = main.querySelector(".ranking");
-        data.forEach((rank) => {
-            if(rank.exam.split("-")[0] !== tabs[i]) return;
+        let ranks = data.filter(rank => rank.exam.split("-")[0] === tabs[i]);
+        let position = ranks.filter((rank, index, arr) =>
+            arr.findIndex(r => r.username === rank.username) === index
+        ).slice(0, 3);
+        //ranks = ranks.filter(rank => !position.includes(rank));
+        ranks.forEach((rank) => {
             let pfp = pfps.find(o => o.id === rank.pfp_id);
             if(pfp) pfp = `data:image/jpeg;base64,` + pfp.image;
             else pfp = `assets/default_pfp.jpeg`;
