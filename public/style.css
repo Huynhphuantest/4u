@@ -246,7 +246,7 @@ main:not(.active) {
   height: 100%;
 }
 .ranking:empty:not(.loading)::before {
-  content: 'Chưa làm xong ae ơ ):';
+  content: 'Chưa có người nào kiểm tra';
   font-size:1.5rem;
   display:flex;
   align-items: center;
@@ -257,7 +257,7 @@ main:not(.active) {
   border: 1px solid var(--border);
 }
 .ranking:empty:not(.loading)::after {
-  content: 'file_copy_off';
+  content: 'no_sim';
   font-family: 'Material Symbols Outlined';
   font-size:15rem;
   position: absolute;
