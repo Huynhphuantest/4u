@@ -166,6 +166,7 @@ function multiple_choice() {
     })
 }
 function correctness() {
+    if(correctnessAmount > 0 && multipleChoiceAmount > 0) $("questionLabel").textContent = `Câu ${current - multipleChoiceAmount + 1}`;
     $("questionTypeLabel").textContent = "Đúng Sai"
     $("check").classList.add("active")
     const item = questions[current]
