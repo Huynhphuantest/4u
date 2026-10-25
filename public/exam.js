@@ -92,6 +92,7 @@ async function getExam() {
 
     const exam = await response.json();
     blocks = exam.blocks;
+    if(blocks === undefined) blocks = [];
 
     questions = prepareQuestions(exam);
 
