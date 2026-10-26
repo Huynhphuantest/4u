@@ -293,7 +293,8 @@ async function main() {
     const exam = buildExam(questions, blocks, {
         id: "geo-002",
         subject: "Địa Lý",
-        title: "Kiểm tra giữa kì II"
+        title: "Kiểm tra giữa kì II",
+        outdated: false
     });
 
     fs.writeFileSync(

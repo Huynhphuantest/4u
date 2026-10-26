@@ -155,8 +155,9 @@ async function loadExams() {
             const type = file.id.split("-")[0];
             if(type !== examList.id && examList.id !== "") return;
             // Nguy hiem kinh khung khiep
+            console.log(file)
             examList.innerHTML += `
-            <div class="exam-option" onclick='redirect("${file.id}")'>
+            <div class="exam-option ${file.outdated ? "outdated" : ""}" onclick='redirect("${file.id}")'>
                 <div class="exam-icon icon">${tab_icons[tabs.findIndex(t => type === t)]}</div>
                 <div style="display:flex;flex-direction:column;">
                     <div class="exam-name">${file.title}</div>

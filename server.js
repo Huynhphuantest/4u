@@ -91,7 +91,8 @@ app.get("/api/exams", async (req, res) => {
                     return {
                         id: exam.id,
                         title: exam.title,
-                        subject: exam.subject
+                        subject: exam.subject,
+                        outdated: exam.outdated
                     };
                 })
         );
