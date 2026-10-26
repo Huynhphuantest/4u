@@ -28,6 +28,8 @@ async function loadTab() {
         const ranking = document.createElement("div");
         ranking.classList = "ranking loading";
         main.appendChild(ranking);
+
+        ranking.innerHTML = `<div class="temp">Đang bảo trì! Để chiều về sửa</div>`
         
         tabArr.push(main);
     });
@@ -35,7 +37,8 @@ async function loadTab() {
     loadAside();
 
     const response = await fetch("/api/completions");
-    const pfps = await (await fetch("/api/pfps")).json();
+    //const pfps = await (await fetch("/api/pfps")).json();
+    const pfps = []
     const data = await response.json();
     data.sort((a, b) => {
         let score = b.score - a.score;
@@ -121,13 +124,6 @@ async function getCompletions() {
     return data;
 }
 getCompletions();
-
-async function getPfps() {
-    const response = await fetch("/api/pfps");
-    const pfps = await response.json();
-    return pfps;
-}
-getPfps();
 
 async function loadExams() {
     const response = await fetch("/api/exams");
