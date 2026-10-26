@@ -145,12 +145,16 @@ function render() {
 
     $("questionText").textContent = question.q;
     $("options").replaceChildren();
-    const previousOfSameType = questions
+    if(!settings.shuffleChoices) {
+        const previousOfSameType = questions
         .slice(0, current)
         .filter(item => item.type === question.type).length;
 
-    $("questionLabel").textContent = `Câu ${previousOfSameType + 1}`;
-
+        $("questionLabel").textContent = `Câu ${previousOfSameType + 1}`;
+    } else {
+        $("questionLabel").textContent = `Câu ${current + 1}`;
+    }
+    
     if (question.type === "multiple_choice") {
         renderMultipleChoice(question);
     } else {
