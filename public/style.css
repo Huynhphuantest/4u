@@ -373,7 +373,6 @@ main:not(.active) {
   width:100%;
   display: flex;
   align-items: center;
-  gap: 14px;
   min-width: 0;
 }
 .rank-username {
@@ -388,6 +387,7 @@ main:not(.active) {
 }
 
 .rank-indentity img {
+  margin-right:14px;
   width: 56px;
   height: 56px;
   flex-shrink: 0;
