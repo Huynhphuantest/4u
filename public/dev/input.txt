@@ -1,226 +1,275 @@
-Câu 1. Các nucleotide giữa hai mạch của phân tử DNA liên kết với nhau bằng loại liên kết nào sau đây? 
-A. liên kết peptide. 
-B. liên kết phosphodiester. 
-C. liên kết hydrogen. 
-D. liên kết glycosidic.
-Câu 2. DNA được cấu trúc theo nguyên tắc đa phân, gồm 4 loại đơn phân là các nucleotide gồm 
-A. A, T, G, C
-B. A, U, C, G
-C. U, T, C, G
-D. A, T, G, U
-Câu 3. Khi nói về đặc điểm giúp phân tử DNA có cấu trúc bền vững, phát biểu nào sau đây sai? 
-A. DNA có cấu trúc không gian là chuỗi xoắn kép gồm hai mạch polynucleotide song song nhau. 
-B. Các nucleotide giữa hai mạch polynucleotide liên kết với nhau theo nguyên tắc bổ sung. 
-C. Các nucleotide trong mỗi mạch liên kết với nhau bằng liên kết phosphodiester. 
-D. Mỗi nucleotide được cấu tạo từ 1 phân tử đường deoxyribose liên kết với 3 gốc phosphate.
-Câu 4: Nguyên tắc bổ sung được thể hiện trong quá trình tái bản DNA là 
-A. A liên kết với C bằng 2 liên kết hydrogen và ngược lại, T liên kết với G bằng 3 liên kết hydrogen và ngược lại. 
-B. A liên kết với U bằng 2 liên kết hydrogen và ngược lại, G liên kết với C bằng 3 liên kết hydrogen và ngược lại. 
-C. A liên kết với G bằng 2 liên kết hydrogen và ngược lại, T liên kết với C bằng 3 liên kết hydrogen và ngược lại. 
-D. A liên kết với T bằng 2 liên kết hydrogen và ngược lại, G liên kết với C bằng 3 liên kết hydrogen và ngược lại.
-Câu 5: Việc kết cặp đặc hiệu giữa các cặp nucleotide theo nguyên tắc bổ sung có ý nghĩa 
-A. đảm bảo cấu trúc phân tử DNA bền vững và thông tin di truyền được truyền đạt chính xác. 
-B. giúp cấu trúc phân tử DNA trở nên lỏng lẻo, tạo điều kiện phát sinh các đột biến gene có lợi. 
-C. giúp phân tử DNA tồn tại ở dạng mạch đơn một cách ổn định mà không bị phân hủy bởi nhiệt. 
-D. giúp trình tự các nucleotide trên mỗi mạch của phân tử DNA giống hệt nhau ở các loài.
-Câu 6: Ở sinh vật nhân sơ, loại enzyme nào sau đây tham gia trực tiếp vào quá trình tái bản DNA? 
-A. DNA polymerase. 
-B. RNA polymerase. 
-C. Restrictase. 
-D. Ligase.
-Câu 7. Trong thành phần cấu trúc của một gene điển hình gồm có các phần:
-A. Vùng điều hòa, vùng mã hóa và vùng kết thúc
-B. Vùng cấu trúc, vùng mã hóa và vùng kết thúc
-C. Vùng khởi động, vùng vận hành và vùng cấu trúc
-D. Vùng khởi động, vùng mã hóa và vùng kết thúc
-Câu 8. Gene phân mảnh có đặc tính là:
-A. Chia thành nhiều mảnh, mỗi mảnh một nơi.
-B. Gồm các nucleotide không nối liên tục.
-C. Đoạn mã hóa xen lẫn các đoạn không mã hóa.
-D. Do các đoạn Okazaki gắn lại.
-Câu 9. Các loại base nitơ có trong cấu trúc của phân tử RNA là:
-A. Adenine, Cytosine, Thymine, Guanine.
-B. Adenine, Cytosine, Uracil, Thymine.
-C. Adenine, Cytosine, Uracil, Guanine.
-D. Cytosine, Uracil, Thymine, Guanine.
-Câu 10. Một đoạn mạch mã gốc của gene có trình tự các Nucleotide như sau:
-3’… AAATTGAGC…5’
-Biết quá trình phiên mã bình thường, trình tự các Nucleotide của đoạn mRNA tương ứng là
-A. 5’…UUUAACUCG…3’		B. 3’…GCUCAAUUU…5	
-C. 5’…TTTAACTGG…3’		D. 5’…TTTAACTCG…3’
-Câu 11. Một đoạn polypeptide gồm 4 amino acid có trình tự lần lượt là Val – Trp – Lys – Pro. Biết rằng các codon mã hóa các amino acid tương ứng như sau: Trp – UGG; Val – GUU; Lys – AAG; Pro – CCA. Đoạn mạch gốc của gene mang thông tin mã hóa cho đoạn polypeptide nói trên có trình tự nucleotide là:
-A. 5’ GTT – TGG – AAG – CCA 3’.	B. 5’ TGG – CTT – CCA – AAC 3’
-C. 5’ CAA – ACC – TTC – GGT 3’	D. 5’ GUU – UGG – AAG – CCA 3’
-Câu 12: Loại phân tử nucleic acid nào sau đây mang các codon mã hóa cho các amino acid? 
-A. DNA 
-B. rRNA 
-C. tRNA 
-D. mRNA
-Câu 13. Codon nào sau đây không mang tín hiệu kết thúc quá trình dịch mã? 
-A. 5'UAA3'. 
-B. 5'GUC3'. 
-C. 5'UAG3'. 
-D. 5'UGA3'.
-Câu 14. Mã di truyền được hiểu là 
-A. trình tự các amino acid trên phân tử protein quy định các tính trạng có lợi của cơ thể. 
-B. một bộ các bộ ba amino acid trên ribosome quy định trình tự các nucleotide trên gene. 
-C. trình tự các nucleotide trên mạch bổ sung của gene quy định trình tự nucleotide trên mRNA. 
-D. một bộ các bộ ba nucleotide trên mRNA quy định các amino acid trong protein.
-Câu 15. Ở sinh vật nhân thực, amino acid mở đầu của chuỗi polypeptide là 
-A. alanine. 
-B. glutamine. 
-C. methionine. 
-D. asparagine.
-Câu 16. Gene được hiểu là 
-A. một đoạn của phân tử DNA chứa thông tin quy định sản phẩm là chuỗi polypeptide hoặc RNA
-B. một đơn phân của phân tử protein có chức năng quy định các tính trạng của cơ thể 
-C. một đoạn của phân tử tRNA mang amino acid tới ribosome để thực hiện quá trình dịch mã
-D. một đại phân tử gồm nhiều đơn phân là chuỗi polypeptide có chức năng di truyền xác định.
-Câu 17. Trình tự các thành phần của một Operon là
-A. vùng vận hành - vùng khởi động - nhóm gene cấu trúc.
-B. vùng khởi động - vùng vận hành - nhóm gene cấu trúc.
-C. nhóm gene cấu trúc - vùng vận hành - vùng khởi động.
-D. nhóm gene cấu trúc - vùng khởi động - vùng vận hành.
-Câu 18. Trong cơ chế điều hoà hoạt động các gene của operon Lac, sự kiện nào sau đây chỉ diễn ra khi môi trường không có lactose?
-A. Các phân tử mARN của các gene cấu trúc Z, Y, A được dịch mã tạo ra các enzyme phân giải đường lactose.
-B. Một số phân tử lactose liên kết với protein ức chế làm biến đổi cấu hình không gian ba chiều của nó.
-C. Protein ức chế liên kết với vùng vận hành ngăn cản quá trình phiên mã của các gene cấu trúc.
-D. RNA polymerase liên kết với vùng khởi động để tiến hành phiên mã.
-Câu 19. Điều gì sẽ xảy ra nếu một protein ức chế của một operon cảm ứng bị đột biến làm cho nó không còn khả năng bám vào vùng vận hành?
-A. Các gene của operon được phiên mã liên tục.
-B. Một cơ chất trong con đường chuyển hóa được điều khiển bởi operon đó được tích lũy.
-C. Sự phiên mã các gene của operon giảm đi.
-D. Nó sẽ liên kết vĩnh viễn vào promoter.
-Câu 20. Thành phần nào sau đây không thuộc cấu trúc của operon lac? 
-A. Gene điều hòa lacI. 
-B. Trình tự P (promoter). 
-C. Trình tự O (operator). 
-D. Gene cấu trúc.
-Câu 21. Trong cơ chế điều hòa biểu hiện gene của operon lac khi môi trường không có lactose, protein ức chế (lacI) sẽ liên kết với thành phần nào sau đây?
-A. Trình tự P (promoter)
-B. Trình tự O (operator)
-C. Gene cấu trúc lacZ
-D. Gene cấu trúc lacA
-Câu 22. Ba gene cấu trúc có vai trò gì trong cơ chế điều hòa biểu hiện gene của operon lac? 
-A. Quy định tổng hợp các enzyme chuyển hóa và phân giải đường lactose. 
-B. Tổng hợp các enzyme chuyển hóa và phân giải protein ức chế. 
-C. Điều hòa quá trình phiên mã để tổng hợp nên đường lactose. 
-D. Điều hòa quá trình dịch mã để tổng hợp nên protein ức chế.
-Câu 23. Khi nói về đột biến gene, phát biểu nào sau đây là không đúng?
-A. Mức độ gây hại của allele đột biến phụ thuộc vào môi trường và tổ hợp gene.
-B. Gene đột biến khi phát sinh chắc chắn được biểu hiện ngay ra kiểu hình.
-C. Đột biến gene có thể gây hại nhưng cũng có thể vô hại hoặc có lợi đối với thể đột biến.
-D. Đột biến gene làm thay đổi chức năng của protein thường có hại cho thể đột biến.
-Câu 24. Loại đột biến điểm nào xảy ra làm tăng 2 liên kết hydrogen của gene?
-A. Thêm 1 cặp nucleotide A - T
-B. Thay thế 1 cặp A - T bằng 1 cặp G - C
-C. Thay thế 2 cặp A - T bằng 2 cặp T - A
-D. Mất 1 cặp nucleotide A – T
-Câu 25 Có bao nhiêu việc làm sau đây giúp phòng tránh và hạn chế các bệnh do đột biến gene ở người? 
-I. Hạn chế tối đa việc tiếp xúc với các tác nhân đột biến. 
-II. Hút thuốc lá điện tử thường xuyên, thay thế cho thuốc lá truyền thống. 
-III. Không sử dụng các loại thực phẩm đã bị ôi thiu, mốc ẩm. 
-IV. Luyện tập thể dục thể thao tăng cường sức đề kháng, tăng khả năng miễn dịch. 
-V. Khi mắc các bệnh về virus cần chữa kịp thời, hạn chế tối đa sự nhân lên của virus trong tế bào. 
-A. 2. 
-B. 3. 
-C. 4. 
-D. 5.
-Câu 26 Đột biến gene được hiểu là 
-A. những thay đổi xảy ra trong cấu trúc của gene, liên quan đến một hoặc một vài cặp nucleotide. 
-B. những thay đổi xảy ra ở kiểu hình do tác động môi trường mà không ảnh hưởng đến kiểu gene. 
-C. những thay đổi xảy ra trong cấu trúc của nhiễm sắc thể, liên quan đến một cặp gene. 
-D. những thay đổi về số lượng của nhiễm sắc thể, liên quan đến nhiều cặp gene.
-Câu 27. Điều nào sau đây là đúng khi nói về sự cuộn xoắn của nhiễm sắc thể?
-A. Giúp cho các NST tồn tại thành từng cặp tương đồng
-B. Giúp cho sự vận động của NST và sự vận động của các gene trong quá trình sinh sản ở sinh vật diễn ra một cách ổn định
-C. Giúp giải thích được cơ sở tế bào học cho sự di truyền của các gene quy định tính trạng từ bố mẹ sang các cá thể con
-D. Giúp cho NST được xếp gọn trong nhân tế bào và đảm bảo cho sự phân li, tổ hợp các NST trong quá trình phân bào
-Câu 28. Trong các mức cấu trúc siêu hiển vi của nhiễm sắc thể điển hình ở sinh vật nhân thực, chromatid có đường kính bằng bao nhiêu nanomet?
-A. 30nm		B. 300nm		C. 700nm		D. 1400nm
-Câu 29. Ở loài sinh sản vô tính, bộ NST của loài được ổn định qua các thế hệ nhờ quá trình nào sau đây?
-A. Nguyên phân, giảm phân, thụ tinh
-B. Nguyên phân và giảm phân
-C. Giảm phân
-D. Nguyên phân
-Câu 30. Trên NST mỗi gene định vị tại một vị trí xác định được gọi là:
-A. Locus
-B. taxon
-C. allele	
-D. Chromatid
-Câu 31. Nhờ đặc điểm nào sau đây mà NST có khả năng bảo vệ thông tin di truyền?
-A. NST nằm trong nhân tế bào
-B. NST có khả năng tự nhân đôi, có khả năng giãn xoắn, đóng xoắn
-C. NST mang vật chất di truyền
-D. Các gene trên NST liên kết với protein histon và có các mức xoắn khác nhau
-Câu 32. Ở sinh vật sinh sản hữu tính, sự xuất hiện tính trạng mới ở thế hệ con là do
-A. sự vận động và phân li của các nhiễm sắc thể trong nguyên phân.
-B. sự vận động và phân li của các nhiễm sắc thể trong giảm phân.
-C. sự vận động và phân li của các nhiễm sắc thể trong nguyên phân và giảm phân.
-D. sự vận động và phân li của các nhiễm sắc thể trong giảm phân và thụ tinh.
-Câu 33. Cơ thể có kiểu gene nào sau đây gọi là thể dị hợp 2 cặp gene?
-A. aaBb.
-B. AaBb.
-C. Aabb.
-D. AAbb.
-Câu 34. Ở đậu hà lan, allele quy định kiểu hình hạt trơn và allele quy định kiểu hình nào sau đây được gọi là một cặp allele?
-A. Quả vàng
-B. Thân cao.
-C. Hạt nhăn.
-D. Hoa trắng.
-Câu 35. Mendel đã sử dụng đối tượng nghiên cứu nào sau đây khi tiến hành thí nghiệm phát hiện quy luật phân li độc lập?
-A. Cải bắp.            
-B. Đậu Hà Lan.      
-C. Cây hoa phấn.   
-D. Ruồi giấm.
-Câu 36. Cơ thể có kiểu gene nào sau đây được gọi là thể đồng hợp 2 cặp gene?
-A. AAbb	B. AaBb	C. AABb                 D. AaBB
+Câu 1: Thông tin nào chưa đề cập đến chỉ tiêu nào trong phát triển kinh tế Việt Nam?
+ A. Sự gia tăng của các chỉ tiêu tăng trưởng kinh tế            
+ B. Chuyển dịch cơ cấu ngành kinh tế theo hướng tiến bộ, hợp lí
+ C. Sự gia tăng chỉ số phát triển con người                        
+ D. Sự thay đổi chỉ số bất bình đẳng xã hội
+Câu 2: Tổng sản phẩm quốc nội (GDP) phản ánh tổng giá trị của tất cả hàng hóa và dịch vụ cuối cùng được sản xuất ở đâu?
+ A. Trong phạm vi lãnh thổ quốc gia
+ B. Bởi công dân của quốc gia đó, dù ở trong hay ngoài nước
+ C. Chỉ trong các doanh nghiệp nhà nước
+ D. Chỉ trong khu vực dịch vụ
+Câu 3: Chỉ số Phát triển Con người (HDI) đo lường sự phát triển của con người dựa trên các yếu tố nào?
+ A. Tỷ lệ sinh, tỷ lệ tử vong và tỷ lệ biết chữ.       B. Tuổi thọ, trình độ học vấn và mức sống.
+ C. Thu nhập, chi tiêu và tiết kiệm.                        D. Sản xuất, tiêu dùng và đầu tư.
+Câu 4: Hệ số Gini được sử dụng để đo lường khía cạnh nào của nền kinh tế?
+ A. Tốc độ tăng trưởng GDP.                      B. Mức độ bất bình đẳng trong phân phối thu nhập.
+ C. Tổng kim ngạch xuất nhập khẩu.         D. Tỷ lệ lạm phát hàng năm.
+Câu 5: Phát triển bền vững là quá trình phát triển hài hòa giữa ba yếu tố nào?
+ A. Kinh tế, chính trị và văn hóa.                       B. Kinh tế, xã hội và môi trường.
+ C. Tăng trưởng, đầu tư và tiêu dùng.                D. Công nghiệp, nông nghiệp và dịch vụ.
+Câu 6: Theo tài liệu, yếu tố nào là điều kiện cần để có nguồn lực thực hiện các mục tiêu kinh tế - xã hội và bảo vệ môi trường?
+ A. Tỷ lệ lạm phát thấp.                                    B. Tăng trưởng kinh tế.
+ C. Hệ thống chính trị ổn định.                         D. Mức độ bình đẳng thu nhập cao.
+Câu 7: Hội nhập quốc tế tạo ra cơ hội gì cho người dân?
+ A. Tăng thu nhập và tạo ra nhiều cơ hội việc làm.
+ B. Làm giảm số lượng ngành công nghiệp.
+ C. Tăng thuế cho các ngành dịch vụ.
+ D. Giảm sự tham gia của người dân trong nền kinh tế.
+Câu 8: Hội nhập đa phương đặc trưng bởi điều gì?
+ A. Hợp tác giữa hai quốc gia.                           B. Hợp tác giữa ba quốc gia trở lên.
+ C. Hợp tác trong một khu vực địa lý.               D. Hợp tác chỉ trong lĩnh vực quân sự.
+Câu 9: Hội nhập khu vực là gì?
+ A. Sự hợp tác giữa hai quốc gia.
+ B. Sự hợp tác giữa ba quốc gia trở lên.
+ C. Sự hợp tác kinh tế trong một khu vực địa lý cụ thể.
+ D. Sự hợp tác toàn cầu.
+Câu 10: Một trong những mục tiêu của hội nhập kinh tế quốc tế là gì?
+ A. Tăng cường cạnh tranh giữa các quốc gia.
+ B. Giảm thu hút đầu tư.
+ C. Thúc đẩy tăng trưởng và phát triển kinh tế.
+ D. Tạo ra khó khăn cho người tiêu dùng.
+Câu 11: Các hoạt động kinh tế đối ngoại của quốc gia không gồm hoạt động nào?
+ A. Thương mại quốc tế                                     B. Đầu tư quốc tế
+ C. Dịch vụ thu ngoại tệ                                     D. Thương mại nội địa
+Câu 12: Hiệp định Đối tác Toàn diện và Tiến bộ xuyên Thái Bình Dương (CPTPP) là hình thức hội nhập nào?
+ A. Hội nhập song phương                                  B. Hội nhập đa phương
+ C. Hội nhập khu vực                                          D. Hội nhập toàn cầu
+Câu 13: Hỗ trợ người dân tiếp cận các dịch vụ xã hội cơ bản như giáo dục, y tế, nhà ở, nước sạch,... thuộc chính sách nào của hệ thống an sinh xã hội?
+ A. Chính sách bảo hiểm.
+ B. Chính sách trợ giúp xã hội.
+ C. Chính sách bảo đảm các dịch vụ xã hội cơ bản.
+ D. Chính sách hỗ trợ việc làm, thu nhập và giảm nghèo.
+Câu 14: Chính sách thu nhập và giảm nghèo tập trung vào điều gì?
+ A. Cung cấp giáo dục miễn phí cho trẻ em.
+ B. Cải thiện thu nhập và giảm tỷ lệ nghèo
+ C. Bảo vệ quyền lợi của người lao động.
+ D. Cung cấp dịch vụ y tế cho người dân.
+Câu 15: Chính sách việc làm không nhằm mục đích gì?
+ A. Tạo ra việc làm cho người lao động.
+ B. Hỗ trợ người thất nghiệp tìm kiếm việc làm.
+ C. Cung cấp dịch vụ xã hội cho người cao tuổi.
+ D. Nâng cao kỹ năng nghề nghiệp cho người lao động.
+Câu 16: Chính sách bảo hiểm xã hội không bảo vệ quyền lợi cho ai trong trường hợp nào?
+ A. Người lao động trong trường hợp thai sản.
+ B. Người lao động trong trường hợp tai nạn lao động.
+ C. Người nghèo trong trường hợp ốm đau.
+ D. Người lao động trong trường hợp hưu trí.
+ Câu 17: Một trong các yếu tố quan trọng nhất để bảo hiểm hoạt động là gì?
+  A. Sự đóng góp của cộng đồng tham gia bảo hiểm
+  B. Số lượng nhân viên của công ty bảo hiểm
+  C.Mức độ rủi ro của mỗi cá nhân
+  D. Lợi nhuận của công ty bảo hiểm
+ Câu 18: Mục đích chính của bảo hiểm là gì?
+  A. Tăng lợi nhuận cho công ty bảo hiểm
+  B. Bảo vệ tài chính cho người tham gia khi gặp rủi ro
+  C. Giúp người tham gia tiết kiệm tiền
+  D.Tránh nghĩa vụ pháp lý
+ Câu 19: Phát biểu nào sau đây là sai khi nói về bảo hiểm y tế?
+  A. Bảo hiểm y tế giúp người dân giảm bớt chi phí y tế khi gặp phải rủi ro bệnh tật
+  B. Bảo hiểm y tế chỉ chi trả toàn bộ chi phí khám chữa bệnh mà không có hạn mức
+  C. Bảo hiểm y tế có thể là bảo hiểm bắt buộc hoặc tự nguyện tùy thuộc vào đối tượng
+  D. Bảo hiểm y tế bảo vệ sức khỏe người dân thông qua việc hỗ trợ chi phí khám chữa bệnh
+ Câu 20: Phát biểu nào sau đây là sai khi nói về bảo hiểm thất nghiệp?
+  A. Bảo hiểm thất nghiệp cung cấp hỗ trợ tài chính cho người lao động khi mất việc
+  B. Bảo hiểm thất nghiệp chỉ áp dụng cho người lao động có hợp đồng dài hạn
+  C. Bảo hiểm thất nghiệp cung cấp các dịch vụ tư vấn và giới thiệu việc làm
+  D. Bảo hiểm thất nghiệp là một loại hình bảo hiểm bắt buộc
 [
-    Marker: img
-    Câu 37. Khi nghiên cứu DNA của 4 chủng vi khuẩn thu được bảng sau:
-    Dựa vào thông tin của bảng trên. Các nhận xét dưới đây là đúng hay sai?
-a) Tổng số nucleotide của chủng I nhiều hơn chủng II.
-b) Chủng I và chủng IV có chiều dài phân tử bằng nhau.
-c) Phân tử DNA của Chủng II có số liên kết hidrogene ít hơn phân tử DNA của chủng IV.
-d) Phân tử DNA của chủng IV có nhiệt độ nóng chảy cao nhất.
-]
-Câu 38. Đột biến gene là những biến đổi liên quan đến cấu trúc của gene. Mỗi nhận định dưới đây về đột biến gene là đúng hay sai?
-a) Đột biến thay thế một cặp nucleotide luôn dẫn đến kết thúc sớm quá trình dịch mã.
-b) Đột biến gene tạo ra các allele mới làm phong phú vốn gene của quần thể.
-c) Đột biến gene có thể có lợi, có hại hoặc trung tính đối với thể đột biến.
-d) Mức độ gây hại của allele đột biến phụ thuộc vào tổ hợp gene và điều kiện môi trường.
-Câu 39. Monod và Jacob đã tiến hành thí nghiệm tìm hiểu cơ chế lactose có thể gây cảm ứng khiến tế bào tổng hợp các enzyme phân giải lactose. Hai nhà khoa học sử dụng các dòng đột biến gene ở vi khuẩn E.coli và nuôi cấy chúng trong điều kiện môi trường không có lactose (lô đối chứng) và có lactose (lô thí nghiệm). Sau đó đem định lượng ba loại enzyme tham gia vào quá trình phân giải lactose trong tế bào. Kết quả ở lô đối chứng, ba loại enzyme xuất hiện với lượng không đáng kể trong khi ở lô thí nghiệm, lượng các loại enzyme này trong tế bào tăng mạnh. Sau nhiều thí nghiệm di truyền khác, Monod và Jacob đã đề xuất giả thuyết operon giải thích cơ chế điều hòa biểu hiện của các gene ở vi khuẩn E.coli. Sơ đồ dưới đây mô tả hoạt động của operon lac khi môi trường không có lactose: 
-
-a) Ba gene tổng hợp ba enzyme chuyển hóa lactose đều có chung cơ chế điều hòa. 
-b) Giả sử nếu môi trường không có lactose nhưng operon lac vẫn hoạt động được thì sai hỏng có thể xảy ra ở vùng trình tự O (operator) hoặc protein ức chế. 
-c) Lactose đã ức chế đồng thời cả ba gene lacZ, lacY, lacA ngừng hoạt động. 
-d) Theo lí thuyết, khi tăng nồng độ lactose thì lượng các enzyme phân giải lactose trong tế bào vi khuẩn E.coli giảm mạnh.
-Câu 40. Hình ảnh dưới đây mô tả các dạng đột biến điểm. Đoạn gene (1) thuộc một gene chưa biến đổi. Các đoạn (2), (3), (4) biểu thị một số dạng biến đổi của đoạn gene nói trên. 
-
-a) Tên các dạng đột biến (2), (3), (4) lần lượt là mất một cặp nucleotide, thêm một cặp nucleotide, thay thế cặp nucleotide này bằng cặp nucleotide khác. 
-b) Dạng đột biến (2) và (3) thường gây hậu quả nghiêm trọng hơn so với dạng đột biến (4). 
-c) Đa số các đột biến gene là lặn, nếu dẫn tới thay đổi chức năng của protein thì thường có hại cho thể đột biến. 
-d) Đột biến thay thế cặp A – T thành cặp G – C luôn làm giảm độ bền vững của gene.
-Câu 41. Ở một loài thực vật lưỡng bội, allele A quy định thân cao trội hoàn toàn so với allele a quy định thân thấp; allele B quy định hoa đỏ trội hoàn toàn so với allele b quy định hoa trắng, các gene phân li độc lập. Biết không xảy ra đột biến. 
-Theo lí thuyết, mỗi nhận định sau đây là Đúng hay Sai về phép lai giữa các tính trạng của loài thực vật trên?
-a) Phép lai Bb × BB cho đời con có 100% hoa đỏ
-b) Kiểu gene Aa cho 1 loại giao tử A
-c) Kiểu gen AABb là kiểu gen thuần chủng
-d) Khi cho hoa đỏ thuần chủng lai với hoa trắng kết quả thu được 100% hoa đỏ
-[
-    Marker: img
-    Câu 42. Xét một chủng vi khuẩn E.coli kiểu dại (bình thường) và ba chủng đột biến. Người ta phân tích mức độ hoạt động của operon lac thông qua lượng mRNA của các gene cấu trúc được tạo ra trong trường hợp không có lactose và có lactose, số liệu được mô tả trong bảng dưới đây:
-Mỗi nhận định sau đây là Đúng hay Sai về thí nghiệm này?
-a) Operon lac gồm vùng điều hòa promoter, operator và be gene cấu trúc.
-b) Chủng (I) có thể hoạt động được ngay cả khi môi trường không có lactose và có lactose.
-c) Chủng (III) không bị đột biến 
-d) Chủng (I) và (II) có thể do cùng một dạng đột biến tạo ra.
+Marker: Đọc thông tin và trả lời câu hỏi 21, 22:
+Trong bối cảnh toàn cầu hóa, hai quốc gia giả định là Lumina và Terra có những hướng đi phát triển khác biệt. Quốc gia Lumina đặt mục tiêu duy nhất là tối đa hóa tốc độ tăng trưởng GDP, coi đó là thước đo thành công tối thượng. Chính phủ Lumina đã chấp nhận đánh đổi một số vấn đề về môi trường như ô nhiễm không khí và nguồn nước nghiêm trọng tại các khu công nghiệp, cũng như sự gia tăng chênh lệch giàu nghèo giữa các tầng lớp dân cư do phân phối lợi ích chưa đồng đều. Ngược lại, Quốc gia Terra, sau khi đạt được mức tăng trưởng kinh tế nhất định, đã chuyển hướng sang một lộ trình phát triển toàn diện hơn. Quốc gia này chấp nhận tốc độ tăng trưởng GDP ở mức vừa phải hơn nhưng lại rất chú trọng vào việc xây dựng hệ thống an sinh xã hội vững mạnh, đảm bảo mọi công dân đều có thể tiếp cận giáo dục chất lượng cao, đồng thời đầu tư mạnh vào các giải pháp bảo vệ và phục hồi môi trường tự nhiên, coi đó là nền tảng cho sự thịnh vượng lâu dài.
+Câu 21: Dựa vào thông tin trên, hướng đi của Quốc gia Lumina minh họa cho khái niệm nào trong kinh tế học?
+ A. Phát triển bền vững.                                B. Phát triển kinh tế.
+ C. Tăng trưởng kinh tế.                               D. Nâng cao Chỉ số Phát triển Con người (HDI).
+Câu 22: Nếu Quốc gia Lumina muốn điều chỉnh hướng phát triển của mình để trở nên cân bằng hơn như Quốc gia Terra, họ cần thực hiện thay đổi cơ bản nào trong chính sách?
+ A. Tiếp tục ưu tiên tăng GDP làm mục tiêu hàng đầu, bỏ qua các chỉ số khác.
+ B. Dừng hoàn toàn mọi hoạt động công nghiệp để khắc phục ô nhiễm môi trường.
+ C. Bổ sung các chính sách về bảo vệ môi trường, cải thiện an sinh xã hội và giảm bất bình đẳng, đồng thời vẫn duy trì tăng trưởng kinh tế hợp lý.
+ D. Tập trung toàn bộ nguồn lực vào việc phát triển nông nghiệp để đảm bảo an ninh lương thực.
 ]
 [
-    Marker: img
-    Câu 43: Sơ đồ dưới đây mô tả khái quát một quá trình tổng hợp ở sinh vật nhân sơ. 
-    a) Đây là quá trình tái bản DNA. 
-b) DNA polymerase chỉ tổng hợp mạch mới theo 2 chiều 5' - 3' và 3’ – 5’.
-c) Nếu phân tử DNA mẹ chứa 15N được chuyển sang nuôi cấy trong môi trường 14N thì sau 1 lần nhân đôi sẽ tạo ra 2 DNA con, mỗi DNA luôn có 2 mạch chứa 14N.
-d) Kết quả tái bản từ 1 DNA mẹ cho ra 2 DNA con giống nhau và giống mẹ.
+Marker: Đọc thông tin và trả lời các câu hỏi 23,24: Việt Nam chưa tham gia vào bất kỳ liên minh kinh tế nào, nhưng đã gia nhập các tổ chức như ASEAN và WTO để thúc đẩy hội nhập kinh tế sâu hơn. Xuất khẩu của Việt Nam đang tăng mạnh với các mặt hàng như dệt may, điện tử và nông sản (gạo, cà phê) nhờ vào các hiệp định thương mại tự do. Đặc biệt, các tập đoàn lớn như Samsung, LG và Intel đã đầu tư lớn vào Việt Nam, biến quốc gia này thành trung tâm sản xuất điện tử quan trọng của khu vực Đông Nam Á. Cuối cùng, du lịch và kiều hối đóng vai trò là những nguồn thu ngoại tệ quan trọng cho Việt Nam, với doanh thu từ du lịch đạt gần 18 tỷ USD và kiều hối vượt hơn 16 tỷ USD trong năm 2019.
+Câu 23: Hiệp định thương mại tự do Việt Nam - Chile (VCFTA) thuộc mức độ liên kết nào trong hội nhập kinh tế quốc tế?
+A. Liên minh thuế quan                                       B. Hiệp định thương mại tự do (FTA)
+C. Cộng đồng kinh tế ASEAN (AEC)                 D. Thương mại quốc tế
+Câu 24: Cộng đồng Kinh tế ASEAN (AEC) đại diện cho mức độ liên kết nào trong hội nhập kinh tế quốc tế?
+A. Thị trường chung                                             B. Liên minh kinh tế
+C. Đầu tư quốc tế                                                 D. Thỏa thuận thương mại ưu đãi (PTA)
 ]
+Câu 25: Chỉ tiêu nào được tính bằng GDP chia cho tổng dân số, phản ánh thu nhập bình quân của mỗi người dân trong phạm vi lãnh thổ quốc gia?
+ A. GNI bình quân đầu người                             B. GDP bình quân đầu người
+ C. Chỉ số nghèo đói                                           D. Hệ số Gini
+Câu 26: Tổng thu nhập quốc dân (GNI) khác GDP ở điểm nào chính?
+ A. GNI chỉ tính thu nhập từ nông nghiệp.
+ B. GNI bao gồm thu nhập của công dân từ nước ngoài, trừ thu nhập của người nước ngoài tại Việt Nam.
+ C. GNI chỉ tính sản phẩm và dịch vụ được chính phủ sản xuất.
+ D. GNI chỉ tập trung vào chi tiêu của hộ gia đình.
+Câu 27: Chỉ số nào phản ánh tỷ lệ dân số sống dưới ngưỡng nghèo?
+ A. Chỉ số Phát triển Con người (HDI)               B. Hệ số Gini
+ C. Chỉ số nghèo đói                                           D. GNI bình quân đầu người
+Câu 28: Trong bối cảnh phát triển bền vững, yếu tố nào được coi là một "trụ cột quan trọng"?
+ A. Tối đa hóa sản lượng nông nghiệp.               B. Bảo vệ môi trường.
+ C. Giảm thiểu chi tiêu quốc phòng.                   D. Tăng cường nhập khẩu.
+Câu 29: Mục tiêu cuối cùng của sự phát triển kinh tế của mỗi quốc gia được xác định là gì?
+ A. Chỉ đạt được mức GDP cao nhất có thể.
+ B. Tăng cường sự phụ thuộc vào các nền kinh tế lớn
+ C. Duy trì cơ cấu kinh tế ổn định.
+ D. Sự tiến bộ xã hội cho con người.
+Câu 30: Tăng trưởng kinh tế có vai trò gì trong việc cải thiện chất lượng cuộc sống của người dân?
+ A. Chỉ làm tăng thu nhập mà không ảnh hưởng đến các dịch vụ.
+ B. Giúp tăng thu nhập và cải thiện tiếp cận dịch vụ y tế, giáo dục, cơ sở hạ tầng.
+ C. Chỉ tạo ra việc làm tạm thời.
+ D. Không liên quan trực tiếp đến chất lượng cuộc sống.
+Câu 31: Hội nhập song phương là gì?
+ A. Hợp tác giữa hai quốc gia.                           B. Hợp tác giữa nhiều quốc gia.
+ C. Hợp tác trong một khu vực địa lý.                D. Hợp tác trên toàn cầu.
+Câu 32: Hội nhập toàn cầu mang lại cơ hội gì?
+ A. Thúc đẩy sự phát triển của chuỗi cung ứng toàn cầu.
+ B. Giảm sự giao lưu thương mại giữa các quốc gia.
+ C. Chỉ ảnh hưởng đến các nước phát triển.
+ D. Ngăn cản đầu tư nước ngoài.
+Câu 33: ASEAN (Hiệp hội Các quốc gia Đông Nam Á) là hình thức hội nhập nào?
+ A. Hội nhập song phương                      B. Hội nhập đa phương
+ C. Hội nhập khu vực                              D. Hội nhập toàn cầu
+Câu 34: Tham gia Tổ chức Thương mại Thế giới (WTO) là hình thức hội nhập nào?
+ A. Hội nhập song phương                     B. Hội nhập đa phương
+ C. Hội nhập khu vực                             D. Hội nhập toàn cầu
+Câu 35: Hiệp định Thương mại tự do Việt Nam - Hàn Quốc (VKFTA) khác với Hiệp định Đối tác Toàn diện và Tiến bộ xuyên Thái Bình Dương (CPTPP) như thế nào về hình thức hội nhập?
+ A. VKFTA là hội nhập đa phương, CPTPP là hội nhập song phương.
+ B. VKFTA là hội nhập song phương, CPTPP là hội nhập đa phương.
+ C. Cả hai đều là hội nhập khu vực.
+ D. Cả hai đều là hội nhập toàn cầu.
+Câu 36: Sự khác biệt cơ bản giữa ASEAN và Tổ chức Thương mại Thế giới (WTO) là gì?
+ A. ASEAN là hội nhập toàn cầu, WTO là hội nhập khu vực.
+ B. ASEAN là hội nhập đa phương, WTO là hội nhập song phương.
+ C. ASEAN là hội nhập khu vực, WTO là hội nhập toàn cầu.
+ D. ASEAN là hội nhập song phương, WTO là hội nhập đa phương.
+Câu 37: Chính sách dịch vụ xã hội cơ bản không tập trung vào điều gì?
+ A. Cung cấp dịch vụ giáo dục cho trẻ em.   
+ B. Tạo ra việc làm cho người lao động.
+ C. Đảm bảo dịch vụ y tế cho người dân.     
+ D. Cung cấp nhà ở cho đối tượng yếu thế.
+Câu 38: Chính sách an sinh xã hội có vai trò gì đối với sự phát triển kinh tế xã hội?
+ A. Giảm tỷ lệ thất nghiệp.                    
+ B. Thúc đẩy công bằng xã hội và ổn định chính trị.
+ C. Tăng cường đầu tư nước ngoài.       
+ D. Cải thiện chất lượng sản phẩm.
+Câu 39: Đối với nhà nước, vai trò của chính sách an sinh xã hội là gì?
+ A. Giảm áp lực tài chính cho ngân sách nhà nước.
+ B. Đảm bảo quyền an sinh xã hội của người dân.
+ C. Tăng cường quyền lực cho chính phủ.
+ D. Giải quyết các vấn đề về môi trường.
+Câu 40: Điều nào sau đây không phải là phạm vi của chính sách an sinh xã hội?
+ A. Trợ cấp nghèo.                             B. Chăm sóc y tế miễn phí.
+ C. Bảo hiểm xe cộ.                           D. Giáo dục miễn phí.
+Câu 41: Mức độ hội nhập nào cho phép tự do di chuyển hàng hóa, dịch vụ, vốn và lao động?
+ A. Thương mại quốc tế.                     B. Liên minh kinh tế.
+ C. Thị trường chung.                         D. Đầu tư quốc tế.
+Câu 42: Liên minh kinh tế có đặc điểm gì nổi bật nhất?
+ A. Các quốc gia chỉ hợp tác về thương mại.
+ B. Các quốc gia không có chính sách chung về kinh tế và tài khóa.
+ C. Các quốc gia chia sẻ chính sách kinh tế và tài khóa.
+ D. Chỉ có sự tham gia của các quốc gia phát triển.
+ Câu 43: Phát biểu nào sau đây là sai khi nói về bảo hiểm y tế?
+ A. Bảo hiểm y tế chỉ bảo vệ người dân khi gặp tai nạn giao thông
+ B. Bảo hiểm y tế giúp giảm chi phí khám chữa bệnh
+ C. Bảo hiểm y tế có thể là bắt buộc hoặc tự nguyện tùy vào từng đối tượng
+ D. Bảo hiểm y tế hỗ trợ người dân khi gặp các rủi ro về sức khỏe
+ Câu 44: Phát biểu nào sau đây là sai khi nói về bảo hiểm xã hội?
+ A. Bảo hiểm xã hội áp dụng cho người lao động và được chia thành nhiều loại hình như bảo hiểm hưu trí, bảo hiểm tai nạn lao động, bảo hiểm thai sản
+ B. Cả người lao động và người sử dụng lao động đều đóng góp vào quỹ bảo hiểm xã hội
+ C. Người lao động chỉ cần đóng bảo hiểm xã hội khi đã nghỉ hưu
+ D. Bảo hiểm xã hội bảo vệ người lao động trước các rủi ro như tai nạn lao động, bệnh nghề nghiệp, và mất sức lao động
+Câu 45: Phát biểu nào sau đây là sai khi nói về bảo hiểm y tế?
+ A. Người tham gia bảo hiểm y tế đóng phí hàng năm
+ B. Bảo hiểm y tế giúp giảm chi phí mua thuốc men tại các cơ sở y tế theo quy định
+ C. Bảo hiểm y tế chỉ áp dụng cho những người đang đi làm
+ D. Bảo hiểm y tế có thể là bắt buộc hoặc tự nguyện tùy vào từng đối tượng
+Câu 46: Phát biểu nào sau đây là đúng khi nói về bảo hiểm thất nghiệp?
+ A. Bảo hiểm thất nghiệp chỉ áp dụng cho người lao động tự do
+ B. Người lao động có thể nhận trợ cấp thất nghiệp khi mất việc làm
+ C. Bảo hiểm thất nghiệp là loại bảo hiểm tự nguyện, không bắt buộc
+ D. Bảo hiểm thất nghiệp không hỗ trợ người lao động về tài chính
+[
+Marker: Đọc thông tin và trả lời câu hỏi 47, 48:
+Quốc gia Z đã công bố số liệu GDP bình quân đầu người tăng liên tục trong 5 năm qua, đạt mức cao nhất từ trước đến nay. Đây là một dấu hiệu tích cực về mặt tăng trưởng kinh tế và tổng thu nhập bình quân của người dân. Tuy nhiên, cùng kỳ, các báo cáo từ chính phủ và các tổ chức xã hội lại chỉ ra một xu hướng đáng lo ngại: tỷ lệ bất bình đẳng thu nhập, được đo bằng Hệ số Gini, có xu hướng gia tăng đáng kể, đồng nghĩa với việc khoảng cách giữa người giàu và người nghèo ngày càng mở rộng. Bên cạnh đó, chỉ số nghèo đói vẫn còn ở mức cao ở một số vùng sâu, vùng xa, và các nhóm dân cư yếu thế vẫn gặp khó khăn trong việc tiếp cận các dịch vụ cơ bản. Tình hình này cho thấy sự cần thiết của việc xem xét lại cách thức phân phối thành quả tăng trưởng kinh tế để đảm bảo một xã hội công bằng và bền vững hơn.
+Câu 47: Để giải quyết vấn đề bất bình đẳng thu nhập và giảm nghèo đói, chính phủ quốc gia Z nên ưu tiên thực hiện nhóm chính sách nào?
+ A. Tiếp tục khuyến khích tăng trưởng GDP bằng mọi giá mà không thay đổi cách phân phối.
+ B. Chỉ tập trung vào việc thu hút đầu tư nước ngoài vào các thành phố lớn.
+ C. Triển khai các chương trình an sinh xã hội rộng khắp, đầu tư vào giáo dục và đào tạo nghề cho người nghèo, đồng thời cải cách chính sách thuế theo hướng lũy tiến.
+ D. Giảm chi tiêu cho các dịch vụ công như y tế và giáo dục để tiết kiệm ngân sách.
+Câu 48: Với tư cách là một công dân có ý thức về sự phát triển xã hội, bạn nhận thấy vấn đề bất bình đẳng thu nhập đang ngày càng nghiêm trọng. Bạn sẽ sử dụng những chỉ số nào để làm cơ sở cho các kiến nghị của mình gửi đến cơ quan chức năng hoặc cộng đồng?
+ A. Tốc độ tăng trưởng GDP và tổng kim ngạch xuất khẩu.
+ B. GDP bình quân đầu người và GNI bình quân đầu người.
+ C. Hệ số Gini và Chỉ số nghèo đói.
+ D. Tỷ lệ tăng trưởng của ngành công nghiệp và dịch vụ.
+]
+Câu 49: Tỉnh K tổ chức Hội nghị tham vấn ý kiến cộng đồng về Đề án phát triển du lịch sinh thái gắn với bảo tồn rừng ngập mặn. Tại hội nghị, đa số người dân địa phương và các doanh nghiệp nhất trí với đề án nhưng kiến nghị chính quyền cần khống chế lượng du khách tối đa mỗi ngày, đồng thời trích một phần doanh thu từ vé tham quan để chi trả dịch vụ môi trường rừng và hỗ trợ sinh kế cho ngư dân ven biển. Nhóm sinh viên thực tập môn Kinh tế phát triển đã ghi nhận dữ liệu này để đề xuất giải pháp giảm thiểu tác động tiêu cực của du lịch đối với hệ sinh thái địa phương.
+a) Việc người dân và doanh nghiệp góp ý chính sách phản ánh hoạt động tìm hiểu và đóng góp ý kiến thực tiễn nhằm đảm bảo sự phát triển kinh tế đi đôi với bảo vệ môi trường. 
+b) Kiến nghị hỗ trợ sinh kế cho ngư dân từ doanh thu du lịch thể hiện việc chủ động tham gia đề xuất các giải pháp gắn tăng trưởng kinh tế với công bằng xã hội. 
+c) Đề xuất khống chế lượng du khách sẽ làm giảm bớt thu nhập trước mắt của du lịch nhưng giúp hạn chế suy thoái môi trường, đảm bảo sự phát triển bền vững dài hạn. 
+d) Học sinh không có quyền hạn pháp lý nên không thể thực hiện bất kỳ hành động nào để tìm hiểu hay đóng góp vào việc bảo vệ môi trường kinh thái tại địa phương. 
+Câu 50: Nhằm đáp ứng xu hướng "kinh tế tuần hoàn" và tiêu chuẩn xanh hóa xuất khẩu, Công ty dệt may B quyết định chuyển đổi 30% dây chuyền sản xuất sang sử dụng sợi bông tái chế và năng lượng mặt trời mái nhà. Để tìm hiểu rõ hơn về tính khả thi của mô hình này, Ban chấp hành Đoàn thanh niên công ty đã chủ động phối hợp với Tổ kĩ thuật khảo sát mức độ tiết kiệm năng lượng và thu thập phản hồi của công nhân về môi trường làm việc mới, từ đó phát động phong trào "Sáng kiến xanh" trong toàn thể đoàn viên, người lao động.
+a) Việc Đoàn thanh niên khảo sát và phát động phong trào "Sáng kiến xanh" là minh chứng cho sự tham gia tích cực của lực lượng trẻ vào quá trình chuyển đổi xanh của doanh nghiệp.
+b) Việc chuyển đổi sang năng lượng mặt trời và nguyên liệu tái chế của Công ty B chỉ làm gia tăng chi phí mà không mang lại giá trị nào cho chỉ tiêu phát triển kinh tế
+c) Hành động khảo sát thực tế của Đoàn thanh niên thể hiện năng lực tìm hiểu, đánh giá các hiện tượng và hoạt động kinh tế - xã hội tại nơi làm việc
+d) Việc người lao động đưa ra các sáng kiến cải tiến kỹ thuật tiết kiệm nguyên liệu là hành vi trực tiếp đóng góp vào việc nâng cao chất lượng tăng trưởng kinh tế của doanh nghiệp.
+Câu 51: Công ty TNHH S là một doanh nghiệp chuyên sản xuất sản phẩm nhựa sinh học thân thiện với môi trường. Nhận thấy nhu cầu lớn từ thị trường châu Âu sau khi Hiệp định Thương mại tự do Việt Nam - EU (EVFTA) có hiệu lực, công ty đã điều chỉnh chiến lược kinh doanh để đáp ứng các tiêu chuẩn khắt khe của EU. Họ đầu tư công nghệ sản xuất xanh, mở rộng hợp tác với các nhà cung cấp nguyên liệu đạt chuẩn quốc tế và đào tạo đội ngũ nhân sự về tiêu chuẩn xuất khẩu. Đồng thời, công ty cũng nghiên cứu thị trường, đánh giá rủi ro về biến động giá nguyên liệu và các chính sách thuế quan của EU để đảm bảo sự cạnh tranh lâu dài.
+a) Việc công ty TNHH S tận dụng cơ hội từ Hiệp định EVFTA để mở rộng kinh doanh là một biểu hiện của hội nhập kinh tế quốc tế.
+b) Các tiêu chuẩn khắt khe của EU không ảnh hưởng đến hoạt động sản xuất của doanh nghiệp Việt Nam.
+c) Việc nghiên cứu thị trường và đánh giá rủi ro thuộc một trong những bước lập kế hoạch kinh doanh.
+d) Mở rộng hợp tác với các nhà cung cấp nguyên liệu đạt chuẩn giúp công ty nâng cao năng lực cạnh tranh trên thị trường quốc tế.
+Câu 52: Có ý kiến cho rằng chính sách đối ngoại giữ vững độc lập, tự chủ trong hội nhập quốc tế của Đảng Cộng sản Việt Nam là hão huyền, phi thực tế, cho rằng "không thể có độc lập, tự chủ trong hội nhập quốc tế được"; "đã độc lập, tự chủ thì không thể hội nhập quốc tế và ngược lại, đã hội nhập quốc tế thì không thể có độc lập, tự chủ"; và cho rằng thể chế chính trị của Việt Nam là khác biệt, không phù hợp với chuẩn mực chung của quốc tế, với một đảng duy nhất cầm quyền, càng không thể hội nhập quốc tế. (Nguồn: Bài viết đăng tải trên Ấn phẩm Tạp chí Nghiên cứu lập pháp số 18(298), tháng 9/2015)
+a) Ý kiến trên phản ánh chưa đúng về sự cần thiết của hội nhập kinh tế quốc tế.
+b) Quan điểm giữ vững độc lập, tự chủ trong hội nhập quốc tế của Đảng sẽ cản trở quá trình hội nhập kinh tế quốc tế của Việt Nam.
+c) Độc lập, tự chủ là cơ sở, điều kiện, tiền đề để chủ động, tích cực hội nhập quốc tế.
+d) Khi hội nhập quốc tế, Việt Nam không thể giữ vững độc lập, tự chủ.
+Câu 53: Nhờ tận dụng các hiệp định thương mại tự do thế hệ mới (như EVFTA, CPTPP), doanh nghiệp xuất khẩu thủy sản X tại miền Tây đã gia tăng đáng kể sản lượng hàng xuất khẩu sang thị trường Châu Âu với mức thuế suất ưu đãi 0%. Nhận thấy thị trường quốc tế đòi hỏi khắt khe về truy xuất nguồn gốc và tiêu chuẩn môi trường (chứng nhận ASC/MSC), Đoàn Thanh niên của doanh nghiệp đã chủ động tìm hiểu các quy định thương mại quốc tế, tổ chức nhóm "Sáng kiến hội nhập" nhằm tuyên truyền, hướng dẫn người dân ven biển và công nhân thực hiện nghiêm túc nhật ký khai thác, không sử dụng hóa chất cấm trong nuôi trồng.
+a) Việc doanh nghiệp X tận dụng thuế suất 0% từ EVFTA và CPTPP thể hiện cơ hội chủ động khai thác lợi ích từ tiến trình hội nhập kinh tế quốc tế
+b) Hoạt động tìm hiểu các tiêu chuẩn quốc tế và hướng dẫn công nhân/ngư dân của Đoàn Thanh niên là minh chứng cho năng lực tìm hiểu và chủ động tham gia vào các hoạt động kinh tế - xã hội thích ứng với hội nhập. 
+c) Các quy định khắt khe về truy xuất nguồn gốc và tiêu chuẩn môi trường của thị trường Châu Âu là rào cản mang tính chất áp đặt, hoàn toàn bất lợi và Việt Nam nên né tránh các thị trường này. 
+d) Học sinh phổ thông có thể tham gia vào tiến trình hội nhập kinh tế bằng việc tìm hiểu các quy định thương mại quốc tế căn bản, nâng cao năng lực ngoại ngữ và tuyên truyền tiêu dùng sản phẩm đạt chuẩn xuất khẩu của địa phương. 
+Câu 54: Khi thị trường nhập khẩu A áp thuế chống bán phá giá đối với mặt hàng tôn mạ màu xuất khẩu của Việt Nam, Công ty cổ phần thép Y đứng trước nguy cơ sụt giảm doanh thu nghiêm trọng. Nhóm chuyên viên trẻ thuộc Phòng Pháp chế và Kinh doanh quốc tế của công ty đã chủ động tìm hiểu các quy định của Tổ chức Thương mại Thế giới (WTO), thu thập đầy đủ chứng cứ về chi phí sản xuất, minh bạch hóa sổ sách kế toán để phối hợp với Bộ Công Thương tham gia vụ kiện điều tra phòng vệ thương mại, bảo vệ quyền lợi hợp pháp của doanh nghiệp.
+a) Việc công ty Y phối hợp thu thập chứng cứ phản tố vụ kiện thể hiện sự chủ động tìm hiểu và tham gia giải quyết các tranh chấp thương mại quốc tế theo đúng thông lệ và luật pháp quốc tế. 
+b) Biện pháp chống bán phá giá của thị trường A là một hình thức rào cản thương mại mà doanh nghiệp xuất khẩu phải chủ động nghiên cứu để ứng phó khi tham gia hội nhập. 
+c) Để tránh các rủi ro bị điều tra phòng vệ thương mại, giải pháp tốt nhất là doanh nghiệp Việt Nam đóng cửa sản xuất, ngừng hoàn toàn việc xuất khẩu ra thị trường quốc tế. 
+d) Thông qua việc tìm hiểu cơ chế giải quyết tranh chấp của WTO, công dân và người lao động có thể nhận thức đúng đắn về những thách thức và tính phức tạp của tiến trình hội nhập kinh tế toàn cầu. 
+Câu 55: Ngày 15/3/2022, anh T tham gia hợp đồng bảo hiểm tại công ty bảo hiểm Manulife Việt Nam. Tháng 2/2023, anh T xảy ra tai nạn và bị xử lý bởi đội Cảnh sát giao thông phường B Tháng 3/2023, công ty bảo hiểm thanh toán bồi thường quyền lợi tai nạn cho anh T sau khi nhận được yêu cầu bồi thường từ anh.
+a) Bảo hiểm anh T tham gia thuộc bảo hiểm thương mại
+b) Bảo hiểm thương mại là một kênh huy động vốn rất quan trọng trong đầu tư phát triển kinh tế - xã hội
+c) Anh T đã chuyển giao rủi ro của mình cho bên tổ chức bảo hiểm thông qua tham gia hợp đồng bảo hiểm
+d) Bảo hiểm thương mại mang yếu tố nhân đạo, hỗ trợ tài chính và tinh thần đối với người tham gia bảo hiểm
+Câu 56: Đọc đoạn thông tin sau: Doanh nghiệp X chuyên sản xuất hàng may mặc và đã mua bảo hiểm cháy nổ. Ngoài ra, doanh nghiệp cũng tham gia bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp cho người lao động. Tháng 7/2023, do chập điện, xưởng sản xuất của doanh nghiệp bị cháy nổ và thiệt hại nặng nề. Doanh nghiệp không thể hoạt động ngay nên người lao động bị buộc thôi việc. Do mua bảo hiểm, doanh nghiệp được bồi thường thiệt hại cháy nổ, và người lao động nhận trợ cấp thất nghiệp trong thời gian bị mất việc.
+a) Bảo hiểm cháy nổ mà doanh nghiệp X tham gia thuộc lĩnh vực bảo hiểm xã hội
+b) Công nhân của doanh nghiệp X đã được bù đắp một phần thu nhập khi bị mất việc
+c) Doanh nghiệp X nhận được bồi thường tổn thất cháy nổ do doanh nghiệp đã tham gia bảo hiểm cháy nổ
+d) Việc doanh nghiệp X tham gia bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp cho người lao động là tự nguyện
+Câu 57: Cho đoạn thông tin sau: Các chính sách, chương trình giảm nghèo được thực hiện khá toàn diện và tương đối đầy đủ, đời sống của hộ nghèo từng bước được cải thiện, nâng cao. Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025, trong đó, tập trung giải ngân vốn của Chương trình năm 2023 với kinh phí đã phân bổ từ ngân sách trung ương là 12.692 tỷ đồng, ngân sách địa phương là hơn 3.526 tỷ đồng. Kinh phí thực hiện các chính sách giảm nghèo thường xuyên bố trí từ ngân sách trung ương năm 2023 ước trên 20.000 tỷ đồng. Ước tỉ lệ hộ nghèo theo chuẩn nghèo đa chiều năm 2023 còn 2,93%, (giảm 1,1% so với cuối năm 2022); tỉ lệ hộ nghèo tại các huyện nghèo còn khoảng 33% (giảm 5,62%); tỉ lệ hộ nghèo dân tộc thiểu số còn khoảng 17,82% (giảm 3,2%), đạt mục tiêu.
+a) Ngân sách trung ương chủ yếu tập trung vào xóa đói giảm nghèo.
+b) Tỷ lệ nghèo đa chiều đã giảm rõ rệt.
+c) Giảm nghèo phụ thuộc vào sự hỗ trợ từ ngân sách trung ương.
+d) Nhà nước đã có nhiều giải pháp quan tâm các đối tượng yếu thế trong xã hội.
+Câu 58: Quốc hội và Chính phủ Việt Nam đã thông qua, phê duyệt 03 Chương trình mục tiêu quốc gia: Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025, Chương trình mục tiêu quốc gia xây dựng nông thôn mới giai đoạn 2021-2025 và Chương trình mục tiêu quốc gia phát triển kinh tế - xã hội vùng đồng bào dân tộc thiểu số và miền núi giai đoạn 2021-2030. Nhằm cụ thể hóa 3 chương trình trên, Thủ tướng Chính phủ đã ban hành một số quyết định quan trọng như: Quyết định số 24/2021/QĐ-TTg ngày 16/7/2021 của Thủ tướng Chính phủ quy định quy trình rà soát hộ nghèo, hộ cận nghèo hàng năm và quy trình xác định hộ làm nông nghiệp, lâm nghiệp, ngư nghiệp và diêm nghiệp có mức sống trung bình giai đoạn 2022-2025; Quyết định 1942/QĐ-TTg ngày 18/11/2021 phê duyệt Chương trình nâng cao chất lượng bảo vệ, chăm sóc sức khỏe người có công với cách mạng, người cao tuổi, trẻ em, người khuyết tật và các đối tượng cần trợ giúp xã hội giai đoạn 2021-2030; Quyết định 112/QĐ-TTg ngày 22/01/2021 ban hành chương trình phát triển công tác xã hội giai đoạn 2021-2030.
+  a) 3 Chương trình mục tiêu quốc gia là chính sách hỗ trợ việc làm, thu nhập và giảm nghèo.
+  b) 3 Chương trình mục tiêu quốc gia và các quyết định của Thủ tướng Chính phủ đã thể hiện nguyên tắc đảm bảo thực hiện “quyền được bảo đảm an sinh xã hội” của Nhà nước.
+  c) 3 Chương trình mục tiêu quốc gia không có sự tham gia của Chính phủ trong việc thực hiện.
+  d) Quyết định của Thủ tướng Chính phủ ban hành về Chương trình nâng cao chất lượng bảo vệ, chăm sóc sức khoẻ người có công, người cao tuổi, trẻ em, người khuyết tật và các đối tượng cần trợ giúp xã hội đã thể hiện sự quan tâm của Đảng và Nhà nước trong việc thực hiện chính sách an sinh xã hội.
+Câu 59: Anh K (24 tuổi) mới ký hợp đồng lao động chính thức tại một công ty sản xuất. Khi nhân sự hướng dẫn kê khai các khoản bảo hiểm bắt buộc và thuế thu nhập, anh K cho rằng mình còn trẻ, sức khỏe tốt nên đề nghị công ty không phải đóng bảo hiểm xã hội (BHXH) và bảo hiểm y tế (BHYT) cho mình, đồng thời cộng dồn số tiền đó vào tiền lương nhận hằng tháng để tiêu dùng thoải mái hơn.
+a) Đề nghị của anh K thể hiện sự hiểu biết đầy đủ và đúng đắn về quyền lợi an sinh xã hội dài hạn của người lao động. 
+b) Hành vi yêu cầu không đóng BHXH, BHYT để nhận tiền mặt ngắn hạn của anh K là hành vi chưa tuân thủ đúng quy định pháp luật lao động về an sinh xã hội bắt buộc. 
+c) Nếu người sử dụng lao động đồng ý với đề nghị của anh K thì cả doanh nghiệp và người lao động đều không vi phạm pháp luật về bảo hiểm xã hội
+d) Để điều chỉnh hành vi phù hợp với pháp luật và bảo vệ tương lai của chính mình, anh K nên từ bỏ ý định nhận tiền mặt và yêu cầu công ty trích nộp đầy đủ các loại bảo hiểm bắt buộc theo quy định. 
+Câu 60: Chị M có hoàn cảnh gia đình khó khăn, thuộc diện hộ cận nghèo tại địa phương. Vừa qua, xã triển khai chính sách hỗ trợ thẻ Bảo hiểm y tế (BHYT) miễn phí và hỗ trợ một phần tiền đóng Bảo hiểm xã hội (BHXH) tự nguyện cho hộ cận nghèo. Tuy nhiên, do nghe theo lời xúi giục của một số người quen rằng "đóng tiền bảo hiểm dài hạn vừa mất tiền vừa lâu được dùng", chị M định bỏ không nhận thẻ BHYT và không tham gia lưới an sinh. Khi được tổ trưởng dân phố giải thích về ý nghĩa bù đắp rủi ro sức khỏe và chia sẻ gánh nặng tài chính của Nhà nước, chị M đã thay đổi suy nghĩ, đăng ký nhận thẻ và tham gia tích lũy BHXH tự nguyện.
+a) Hành vi định từ chối nhận thẻ BHYT và các chính sách hỗ trợ an sinh của chị M ban đầu cho thấy chị chưa hiểu đúng về ý nghĩa thiết thực của các chính sách an sinh xã hội đối với người có hoàn cảnh khó khăn. 
+b) Việc tổ trưởng dân phố giải thích giúp chị M nhận ra tầm quan trọng của BHYT và BHXH tự nguyện, từ đó có cơ sở để điều chỉnh hành vi từ từ chối sang tích cực tham gia. 
+c) Quyết định thay đổi, nhận thẻ BHYT và tham gia BHXH tự nguyện của chị M là hành vi tự giác tuân thủ và biết tận dụng các chính sách an sinh xã hội để bảo vệ tài chính, sức khỏe gia đình. 
+d) Người thuộc diện hộ cận nghèo như chị M không có quyền tham gia các chính sách an sinh xã hội tự nguyện do Nhà nước quy định

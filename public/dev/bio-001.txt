@@ -1,0 +1,226 @@
+Câu 1. Các nucleotide giữa hai mạch của phân tử DNA liên kết với nhau bằng loại liên kết nào sau đây? 
+A. liên kết peptide. 
+B. liên kết phosphodiester. 
+C. liên kết hydrogen. 
+D. liên kết glycosidic.
+Câu 2. DNA được cấu trúc theo nguyên tắc đa phân, gồm 4 loại đơn phân là các nucleotide gồm 
+A. A, T, G, C
+B. A, U, C, G
+C. U, T, C, G
+D. A, T, G, U
+Câu 3. Khi nói về đặc điểm giúp phân tử DNA có cấu trúc bền vững, phát biểu nào sau đây sai? 
+A. DNA có cấu trúc không gian là chuỗi xoắn kép gồm hai mạch polynucleotide song song nhau. 
+B. Các nucleotide giữa hai mạch polynucleotide liên kết với nhau theo nguyên tắc bổ sung. 
+C. Các nucleotide trong mỗi mạch liên kết với nhau bằng liên kết phosphodiester. 
+D. Mỗi nucleotide được cấu tạo từ 1 phân tử đường deoxyribose liên kết với 3 gốc phosphate.
+Câu 4: Nguyên tắc bổ sung được thể hiện trong quá trình tái bản DNA là 
+A. A liên kết với C bằng 2 liên kết hydrogen và ngược lại, T liên kết với G bằng 3 liên kết hydrogen và ngược lại. 
+B. A liên kết với U bằng 2 liên kết hydrogen và ngược lại, G liên kết với C bằng 3 liên kết hydrogen và ngược lại. 
+C. A liên kết với G bằng 2 liên kết hydrogen và ngược lại, T liên kết với C bằng 3 liên kết hydrogen và ngược lại. 
+D. A liên kết với T bằng 2 liên kết hydrogen và ngược lại, G liên kết với C bằng 3 liên kết hydrogen và ngược lại.
+Câu 5: Việc kết cặp đặc hiệu giữa các cặp nucleotide theo nguyên tắc bổ sung có ý nghĩa 
+A. đảm bảo cấu trúc phân tử DNA bền vững và thông tin di truyền được truyền đạt chính xác. 
+B. giúp cấu trúc phân tử DNA trở nên lỏng lẻo, tạo điều kiện phát sinh các đột biến gene có lợi. 
+C. giúp phân tử DNA tồn tại ở dạng mạch đơn một cách ổn định mà không bị phân hủy bởi nhiệt. 
+D. giúp trình tự các nucleotide trên mỗi mạch của phân tử DNA giống hệt nhau ở các loài.
+Câu 6: Ở sinh vật nhân sơ, loại enzyme nào sau đây tham gia trực tiếp vào quá trình tái bản DNA? 
+A. DNA polymerase. 
+B. RNA polymerase. 
+C. Restrictase. 
+D. Ligase.
+Câu 7. Trong thành phần cấu trúc của một gene điển hình gồm có các phần:
+A. Vùng điều hòa, vùng mã hóa và vùng kết thúc
+B. Vùng cấu trúc, vùng mã hóa và vùng kết thúc
+C. Vùng khởi động, vùng vận hành và vùng cấu trúc
+D. Vùng khởi động, vùng mã hóa và vùng kết thúc
+Câu 8. Gene phân mảnh có đặc tính là:
+A. Chia thành nhiều mảnh, mỗi mảnh một nơi.
+B. Gồm các nucleotide không nối liên tục.
+C. Đoạn mã hóa xen lẫn các đoạn không mã hóa.
+D. Do các đoạn Okazaki gắn lại.
+Câu 9. Các loại base nitơ có trong cấu trúc của phân tử RNA là:
+A. Adenine, Cytosine, Thymine, Guanine.
+B. Adenine, Cytosine, Uracil, Thymine.
+C. Adenine, Cytosine, Uracil, Guanine.
+D. Cytosine, Uracil, Thymine, Guanine.
+Câu 10. Một đoạn mạch mã gốc của gene có trình tự các Nucleotide như sau:
+3’… AAATTGAGC…5’
+Biết quá trình phiên mã bình thường, trình tự các Nucleotide của đoạn mRNA tương ứng là
+A. 5’…UUUAACUCG…3’		B. 3’…GCUCAAUUU…5	
+C. 5’…TTTAACTGG…3’		D. 5’…TTTAACTCG…3’
+Câu 11. Một đoạn polypeptide gồm 4 amino acid có trình tự lần lượt là Val – Trp – Lys – Pro. Biết rằng các codon mã hóa các amino acid tương ứng như sau: Trp – UGG; Val – GUU; Lys – AAG; Pro – CCA. Đoạn mạch gốc của gene mang thông tin mã hóa cho đoạn polypeptide nói trên có trình tự nucleotide là:
+A. 5’ GTT – TGG – AAG – CCA 3’.	B. 5’ TGG – CTT – CCA – AAC 3’
+C. 5’ CAA – ACC – TTC – GGT 3’	D. 5’ GUU – UGG – AAG – CCA 3’
+Câu 12: Loại phân tử nucleic acid nào sau đây mang các codon mã hóa cho các amino acid? 
+A. DNA 
+B. rRNA 
+C. tRNA 
+D. mRNA
+Câu 13. Codon nào sau đây không mang tín hiệu kết thúc quá trình dịch mã? 
+A. 5'UAA3'. 
+B. 5'GUC3'. 
+C. 5'UAG3'. 
+D. 5'UGA3'.
+Câu 14. Mã di truyền được hiểu là 
+A. trình tự các amino acid trên phân tử protein quy định các tính trạng có lợi của cơ thể. 
+B. một bộ các bộ ba amino acid trên ribosome quy định trình tự các nucleotide trên gene. 
+C. trình tự các nucleotide trên mạch bổ sung của gene quy định trình tự nucleotide trên mRNA. 
+D. một bộ các bộ ba nucleotide trên mRNA quy định các amino acid trong protein.
+Câu 15. Ở sinh vật nhân thực, amino acid mở đầu của chuỗi polypeptide là 
+A. alanine. 
+B. glutamine. 
+C. methionine. 
+D. asparagine.
+Câu 16. Gene được hiểu là 
+A. một đoạn của phân tử DNA chứa thông tin quy định sản phẩm là chuỗi polypeptide hoặc RNA
+B. một đơn phân của phân tử protein có chức năng quy định các tính trạng của cơ thể 
+C. một đoạn của phân tử tRNA mang amino acid tới ribosome để thực hiện quá trình dịch mã
+D. một đại phân tử gồm nhiều đơn phân là chuỗi polypeptide có chức năng di truyền xác định.
+Câu 17. Trình tự các thành phần của một Operon là
+A. vùng vận hành - vùng khởi động - nhóm gene cấu trúc.
+B. vùng khởi động - vùng vận hành - nhóm gene cấu trúc.
+C. nhóm gene cấu trúc - vùng vận hành - vùng khởi động.
+D. nhóm gene cấu trúc - vùng khởi động - vùng vận hành.
+Câu 18. Trong cơ chế điều hoà hoạt động các gene của operon Lac, sự kiện nào sau đây chỉ diễn ra khi môi trường không có lactose?
+A. Các phân tử mARN của các gene cấu trúc Z, Y, A được dịch mã tạo ra các enzyme phân giải đường lactose.
+B. Một số phân tử lactose liên kết với protein ức chế làm biến đổi cấu hình không gian ba chiều của nó.
+C. Protein ức chế liên kết với vùng vận hành ngăn cản quá trình phiên mã của các gene cấu trúc.
+D. RNA polymerase liên kết với vùng khởi động để tiến hành phiên mã.
+Câu 19. Điều gì sẽ xảy ra nếu một protein ức chế của một operon cảm ứng bị đột biến làm cho nó không còn khả năng bám vào vùng vận hành?
+A. Các gene của operon được phiên mã liên tục.
+B. Một cơ chất trong con đường chuyển hóa được điều khiển bởi operon đó được tích lũy.
+C. Sự phiên mã các gene của operon giảm đi.
+D. Nó sẽ liên kết vĩnh viễn vào promoter.
+Câu 20. Thành phần nào sau đây không thuộc cấu trúc của operon lac? 
+A. Gene điều hòa lacI. 
+B. Trình tự P (promoter). 
+C. Trình tự O (operator). 
+D. Gene cấu trúc.
+Câu 21. Trong cơ chế điều hòa biểu hiện gene của operon lac khi môi trường không có lactose, protein ức chế (lacI) sẽ liên kết với thành phần nào sau đây?
+A. Trình tự P (promoter)
+B. Trình tự O (operator)
+C. Gene cấu trúc lacZ
+D. Gene cấu trúc lacA
+Câu 22. Ba gene cấu trúc có vai trò gì trong cơ chế điều hòa biểu hiện gene của operon lac? 
+A. Quy định tổng hợp các enzyme chuyển hóa và phân giải đường lactose. 
+B. Tổng hợp các enzyme chuyển hóa và phân giải protein ức chế. 
+C. Điều hòa quá trình phiên mã để tổng hợp nên đường lactose. 
+D. Điều hòa quá trình dịch mã để tổng hợp nên protein ức chế.
+Câu 23. Khi nói về đột biến gene, phát biểu nào sau đây là không đúng?
+A. Mức độ gây hại của allele đột biến phụ thuộc vào môi trường và tổ hợp gene.
+B. Gene đột biến khi phát sinh chắc chắn được biểu hiện ngay ra kiểu hình.
+C. Đột biến gene có thể gây hại nhưng cũng có thể vô hại hoặc có lợi đối với thể đột biến.
+D. Đột biến gene làm thay đổi chức năng của protein thường có hại cho thể đột biến.
+Câu 24. Loại đột biến điểm nào xảy ra làm tăng 2 liên kết hydrogen của gene?
+A. Thêm 1 cặp nucleotide A - T
+B. Thay thế 1 cặp A - T bằng 1 cặp G - C
+C. Thay thế 2 cặp A - T bằng 2 cặp T - A
+D. Mất 1 cặp nucleotide A – T
+Câu 25 Có bao nhiêu việc làm sau đây giúp phòng tránh và hạn chế các bệnh do đột biến gene ở người? 
+I. Hạn chế tối đa việc tiếp xúc với các tác nhân đột biến. 
+II. Hút thuốc lá điện tử thường xuyên, thay thế cho thuốc lá truyền thống. 
+III. Không sử dụng các loại thực phẩm đã bị ôi thiu, mốc ẩm. 
+IV. Luyện tập thể dục thể thao tăng cường sức đề kháng, tăng khả năng miễn dịch. 
+V. Khi mắc các bệnh về virus cần chữa kịp thời, hạn chế tối đa sự nhân lên của virus trong tế bào. 
+A. 2. 
+B. 3. 
+C. 4. 
+D. 5.
+Câu 26 Đột biến gene được hiểu là 
+A. những thay đổi xảy ra trong cấu trúc của gene, liên quan đến một hoặc một vài cặp nucleotide. 
+B. những thay đổi xảy ra ở kiểu hình do tác động môi trường mà không ảnh hưởng đến kiểu gene. 
+C. những thay đổi xảy ra trong cấu trúc của nhiễm sắc thể, liên quan đến một cặp gene. 
+D. những thay đổi về số lượng của nhiễm sắc thể, liên quan đến nhiều cặp gene.
+Câu 27. Điều nào sau đây là đúng khi nói về sự cuộn xoắn của nhiễm sắc thể?
+A. Giúp cho các NST tồn tại thành từng cặp tương đồng
+B. Giúp cho sự vận động của NST và sự vận động của các gene trong quá trình sinh sản ở sinh vật diễn ra một cách ổn định
+C. Giúp giải thích được cơ sở tế bào học cho sự di truyền của các gene quy định tính trạng từ bố mẹ sang các cá thể con
+D. Giúp cho NST được xếp gọn trong nhân tế bào và đảm bảo cho sự phân li, tổ hợp các NST trong quá trình phân bào
+Câu 28. Trong các mức cấu trúc siêu hiển vi của nhiễm sắc thể điển hình ở sinh vật nhân thực, chromatid có đường kính bằng bao nhiêu nanomet?
+A. 30nm		B. 300nm		C. 700nm		D. 1400nm
+Câu 29. Ở loài sinh sản vô tính, bộ NST của loài được ổn định qua các thế hệ nhờ quá trình nào sau đây?
+A. Nguyên phân, giảm phân, thụ tinh
+B. Nguyên phân và giảm phân
+C. Giảm phân
+D. Nguyên phân
+Câu 30. Trên NST mỗi gene định vị tại một vị trí xác định được gọi là:
+A. Locus
+B. taxon
+C. allele	
+D. Chromatid
+Câu 31. Nhờ đặc điểm nào sau đây mà NST có khả năng bảo vệ thông tin di truyền?
+A. NST nằm trong nhân tế bào
+B. NST có khả năng tự nhân đôi, có khả năng giãn xoắn, đóng xoắn
+C. NST mang vật chất di truyền
+D. Các gene trên NST liên kết với protein histon và có các mức xoắn khác nhau
+Câu 32. Ở sinh vật sinh sản hữu tính, sự xuất hiện tính trạng mới ở thế hệ con là do
+A. sự vận động và phân li của các nhiễm sắc thể trong nguyên phân.
+B. sự vận động và phân li của các nhiễm sắc thể trong giảm phân.
+C. sự vận động và phân li của các nhiễm sắc thể trong nguyên phân và giảm phân.
+D. sự vận động và phân li của các nhiễm sắc thể trong giảm phân và thụ tinh.
+Câu 33. Cơ thể có kiểu gene nào sau đây gọi là thể dị hợp 2 cặp gene?
+A. aaBb.
+B. AaBb.
+C. Aabb.
+D. AAbb.
+Câu 34. Ở đậu hà lan, allele quy định kiểu hình hạt trơn và allele quy định kiểu hình nào sau đây được gọi là một cặp allele?
+A. Quả vàng
+B. Thân cao.
+C. Hạt nhăn.
+D. Hoa trắng.
+Câu 35. Mendel đã sử dụng đối tượng nghiên cứu nào sau đây khi tiến hành thí nghiệm phát hiện quy luật phân li độc lập?
+A. Cải bắp.            
+B. Đậu Hà Lan.      
+C. Cây hoa phấn.   
+D. Ruồi giấm.
+Câu 36. Cơ thể có kiểu gene nào sau đây được gọi là thể đồng hợp 2 cặp gene?
+A. AAbb	B. AaBb	C. AABb                 D. AaBB
+[
+    Marker: img
+    Câu 37. Khi nghiên cứu DNA của 4 chủng vi khuẩn thu được bảng sau:
+    Dựa vào thông tin của bảng trên. Các nhận xét dưới đây là đúng hay sai?
+a) Tổng số nucleotide của chủng I nhiều hơn chủng II.
+b) Chủng I và chủng IV có chiều dài phân tử bằng nhau.
+c) Phân tử DNA của Chủng II có số liên kết hidrogene ít hơn phân tử DNA của chủng IV.
+d) Phân tử DNA của chủng IV có nhiệt độ nóng chảy cao nhất.
+]
+Câu 38. Đột biến gene là những biến đổi liên quan đến cấu trúc của gene. Mỗi nhận định dưới đây về đột biến gene là đúng hay sai?
+a) Đột biến thay thế một cặp nucleotide luôn dẫn đến kết thúc sớm quá trình dịch mã.
+b) Đột biến gene tạo ra các allele mới làm phong phú vốn gene của quần thể.
+c) Đột biến gene có thể có lợi, có hại hoặc trung tính đối với thể đột biến.
+d) Mức độ gây hại của allele đột biến phụ thuộc vào tổ hợp gene và điều kiện môi trường.
+Câu 39. Monod và Jacob đã tiến hành thí nghiệm tìm hiểu cơ chế lactose có thể gây cảm ứng khiến tế bào tổng hợp các enzyme phân giải lactose. Hai nhà khoa học sử dụng các dòng đột biến gene ở vi khuẩn E.coli và nuôi cấy chúng trong điều kiện môi trường không có lactose (lô đối chứng) và có lactose (lô thí nghiệm). Sau đó đem định lượng ba loại enzyme tham gia vào quá trình phân giải lactose trong tế bào. Kết quả ở lô đối chứng, ba loại enzyme xuất hiện với lượng không đáng kể trong khi ở lô thí nghiệm, lượng các loại enzyme này trong tế bào tăng mạnh. Sau nhiều thí nghiệm di truyền khác, Monod và Jacob đã đề xuất giả thuyết operon giải thích cơ chế điều hòa biểu hiện của các gene ở vi khuẩn E.coli. Sơ đồ dưới đây mô tả hoạt động của operon lac khi môi trường không có lactose: 
+
+a) Ba gene tổng hợp ba enzyme chuyển hóa lactose đều có chung cơ chế điều hòa. 
+b) Giả sử nếu môi trường không có lactose nhưng operon lac vẫn hoạt động được thì sai hỏng có thể xảy ra ở vùng trình tự O (operator) hoặc protein ức chế. 
+c) Lactose đã ức chế đồng thời cả ba gene lacZ, lacY, lacA ngừng hoạt động. 
+d) Theo lí thuyết, khi tăng nồng độ lactose thì lượng các enzyme phân giải lactose trong tế bào vi khuẩn E.coli giảm mạnh.
+Câu 40. Hình ảnh dưới đây mô tả các dạng đột biến điểm. Đoạn gene (1) thuộc một gene chưa biến đổi. Các đoạn (2), (3), (4) biểu thị một số dạng biến đổi của đoạn gene nói trên. 
+
+a) Tên các dạng đột biến (2), (3), (4) lần lượt là mất một cặp nucleotide, thêm một cặp nucleotide, thay thế cặp nucleotide này bằng cặp nucleotide khác. 
+b) Dạng đột biến (2) và (3) thường gây hậu quả nghiêm trọng hơn so với dạng đột biến (4). 
+c) Đa số các đột biến gene là lặn, nếu dẫn tới thay đổi chức năng của protein thì thường có hại cho thể đột biến. 
+d) Đột biến thay thế cặp A – T thành cặp G – C luôn làm giảm độ bền vững của gene.
+Câu 41. Ở một loài thực vật lưỡng bội, allele A quy định thân cao trội hoàn toàn so với allele a quy định thân thấp; allele B quy định hoa đỏ trội hoàn toàn so với allele b quy định hoa trắng, các gene phân li độc lập. Biết không xảy ra đột biến. 
+Theo lí thuyết, mỗi nhận định sau đây là Đúng hay Sai về phép lai giữa các tính trạng của loài thực vật trên?
+a) Phép lai Bb × BB cho đời con có 100% hoa đỏ
+b) Kiểu gene Aa cho 1 loại giao tử A
+c) Kiểu gen AABb là kiểu gen thuần chủng
+d) Khi cho hoa đỏ thuần chủng lai với hoa trắng kết quả thu được 100% hoa đỏ
+[
+    Marker: img
+    Câu 42. Xét một chủng vi khuẩn E.coli kiểu dại (bình thường) và ba chủng đột biến. Người ta phân tích mức độ hoạt động của operon lac thông qua lượng mRNA của các gene cấu trúc được tạo ra trong trường hợp không có lactose và có lactose, số liệu được mô tả trong bảng dưới đây:
+Mỗi nhận định sau đây là Đúng hay Sai về thí nghiệm này?
+a) Operon lac gồm vùng điều hòa promoter, operator và be gene cấu trúc.
+b) Chủng (I) có thể hoạt động được ngay cả khi môi trường không có lactose và có lactose.
+c) Chủng (III) không bị đột biến 
+d) Chủng (I) và (II) có thể do cùng một dạng đột biến tạo ra.
+]
+[
+    Marker: img
+    Câu 43: Sơ đồ dưới đây mô tả khái quát một quá trình tổng hợp ở sinh vật nhân sơ. 
+    a) Đây là quá trình tái bản DNA. 
+b) DNA polymerase chỉ tổng hợp mạch mới theo 2 chiều 5' - 3' và 3’ – 5’.
+c) Nếu phân tử DNA mẹ chứa 15N được chuyển sang nuôi cấy trong môi trường 14N thì sau 1 lần nhân đôi sẽ tạo ra 2 DNA con, mỗi DNA luôn có 2 mạch chứa 14N.
+d) Kết quả tái bản từ 1 DNA mẹ cho ra 2 DNA con giống nhau và giống mẹ.
+]

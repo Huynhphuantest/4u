@@ -604,6 +604,193 @@
         "Tỷ lệ tăng trưởng của ngành công nghiệp và dịch vụ."
       ],
       "answer": 2
+    },
+    {
+      "id": 49,
+      "type": "correctness",
+      "question": "Tỉnh K tổ chức Hội nghị tham vấn ý kiến cộng đồng về Đề án phát triển du lịch sinh thái gắn với bảo tồn rừng ngập mặn. Tại hội nghị, đa số người dân địa phương và các doanh nghiệp nhất trí với đề án nhưng kiến nghị chính quyền cần khống chế lượng du khách tối đa mỗi ngày, đồng thời trích một phần doanh thu từ vé tham quan để chi trả dịch vụ môi trường rừng và hỗ trợ sinh kế cho ngư dân ven biển. Nhóm sinh viên thực tập môn Kinh tế phát triển đã ghi nhận dữ liệu này để đề xuất giải pháp giảm thiểu tác động tiêu cực của du lịch đối với hệ sinh thái địa phương.",
+      "options": [
+        "Việc người dân và doanh nghiệp góp ý chính sách phản ánh hoạt động tìm hiểu và đóng góp ý kiến thực tiễn nhằm đảm bảo sự phát triển kinh tế đi đôi với bảo vệ môi trường.",
+        "Kiến nghị hỗ trợ sinh kế cho ngư dân từ doanh thu du lịch thể hiện việc chủ động tham gia đề xuất các giải pháp gắn tăng trưởng kinh tế với công bằng xã hội.",
+        "Đề xuất khống chế lượng du khách sẽ làm giảm bớt thu nhập trước mắt của du lịch nhưng giúp hạn chế suy thoái môi trường, đảm bảo sự phát triển bền vững dài hạn.",
+        "Học sinh không có quyền hạn pháp lý nên không thể thực hiện bất kỳ hành động nào để tìm hiểu hay đóng góp vào việc bảo vệ môi trường kinh thái tại địa phương."
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": 50,
+      "type": "correctness",
+      "question": "Nhằm đáp ứng xu hướng \"kinh tế tuần hoàn\" và tiêu chuẩn xanh hóa xuất khẩu, Công ty dệt may B quyết định chuyển đổi 30% dây chuyền sản xuất sang sử dụng sợi bông tái chế và năng lượng mặt trời mái nhà. Để tìm hiểu rõ hơn về tính khả thi của mô hình này, Ban chấp hành Đoàn thanh niên công ty đã chủ động phối hợp với Tổ kĩ thuật khảo sát mức độ tiết kiệm năng lượng và thu thập phản hồi của công nhân về môi trường làm việc mới, từ đó phát động phong trào \"Sáng kiến xanh\" trong toàn thể đoàn viên, người lao động.",
+      "options": [
+        "Việc Đoàn thanh niên khảo sát và phát động phong trào \"Sáng kiến xanh\" là minh chứng cho sự tham gia tích cực của lực lượng trẻ vào quá trình chuyển đổi xanh của doanh nghiệp.",
+        "Việc chuyển đổi sang năng lượng mặt trời và nguyên liệu tái chế của Công ty B chỉ làm gia tăng chi phí mà không mang lại giá trị nào cho chỉ tiêu phát triển kinh tế",
+        "Hành động khảo sát thực tế của Đoàn thanh niên thể hiện năng lực tìm hiểu, đánh giá các hiện tượng và hoạt động kinh tế - xã hội tại nơi làm việc",
+        "Việc người lao động đưa ra các sáng kiến cải tiến kỹ thuật tiết kiệm nguyên liệu là hành vi trực tiếp đóng góp vào việc nâng cao chất lượng tăng trưởng kinh tế của doanh nghiệp."
+      ],
+      "answer": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "id": 51,
+      "type": "correctness",
+      "question": "Công ty TNHH S là một doanh nghiệp chuyên sản xuất sản phẩm nhựa sinh học thân thiện với môi trường. Nhận thấy nhu cầu lớn từ thị trường châu Âu sau khi Hiệp định Thương mại tự do Việt Nam - EU (EVFTA) có hiệu lực, công ty đã điều chỉnh chiến lược kinh doanh để đáp ứng các tiêu chuẩn khắt khe của EU. Họ đầu tư công nghệ sản xuất xanh, mở rộng hợp tác với các nhà cung cấp nguyên liệu đạt chuẩn quốc tế và đào tạo đội ngũ nhân sự về tiêu chuẩn xuất khẩu. Đồng thời, công ty cũng nghiên cứu thị trường, đánh giá rủi ro về biến động giá nguyên liệu và các chính sách thuế quan của EU để đảm bảo sự cạnh tranh lâu dài.",
+      "options": [
+        "Việc công ty TNHH S tận dụng cơ hội từ Hiệp định EVFTA để mở rộng kinh doanh là một biểu hiện của hội nhập kinh tế quốc tế.",
+        "Các tiêu chuẩn khắt khe của EU không ảnh hưởng đến hoạt động sản xuất của doanh nghiệp Việt Nam.",
+        "Việc nghiên cứu thị trường và đánh giá rủi ro thuộc một trong những bước lập kế hoạch kinh doanh.",
+        "Mở rộng hợp tác với các nhà cung cấp nguyên liệu đạt chuẩn giúp công ty nâng cao năng lực cạnh tranh trên thị trường quốc tế."
+      ],
+      "answer": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "id": 52,
+      "type": "correctness",
+      "question": "Có ý kiến cho rằng chính sách đối ngoại giữ vững độc lập, tự chủ trong hội nhập quốc tế của Đảng Cộng sản Việt Nam là hão huyền, phi thực tế, cho rằng \"không thể có độc lập, tự chủ trong hội nhập quốc tế được\"; \"đã độc lập, tự chủ thì không thể hội nhập quốc tế và ngược lại, đã hội nhập quốc tế thì không thể có độc lập, tự chủ\"; và cho rằng thể chế chính trị của Việt Nam là khác biệt, không phù hợp với chuẩn mực chung của quốc tế, với một đảng duy nhất cầm quyền, càng không thể hội nhập quốc tế. (Nguồn: Bài viết đăng tải trên Ấn phẩm Tạp chí Nghiên cứu lập pháp số 18(298), tháng 9/2015)",
+      "options": [
+        "Ý kiến trên phản ánh chưa đúng về sự cần thiết của hội nhập kinh tế quốc tế.",
+        "Quan điểm giữ vững độc lập, tự chủ trong hội nhập quốc tế của Đảng sẽ cản trở quá trình hội nhập kinh tế quốc tế của Việt Nam.",
+        "Độc lập, tự chủ là cơ sở, điều kiện, tiền đề để chủ động, tích cực hội nhập quốc tế.",
+        "Khi hội nhập quốc tế, Việt Nam không thể giữ vững độc lập, tự chủ."
+      ],
+      "answer": [
+        0,
+        2
+      ]
+    },
+    {
+      "id": 53,
+      "type": "correctness",
+      "question": "Nhờ tận dụng các hiệp định thương mại tự do thế hệ mới (như EVFTA, CPTPP), doanh nghiệp xuất khẩu thủy sản X tại miền Tây đã gia tăng đáng kể sản lượng hàng xuất khẩu sang thị trường Châu Âu với mức thuế suất ưu đãi 0%. Nhận thấy thị trường quốc tế đòi hỏi khắt khe về truy xuất nguồn gốc và tiêu chuẩn môi trường (chứng nhận ASC/MSC), Đoàn Thanh niên của doanh nghiệp đã chủ động tìm hiểu các quy định thương mại quốc tế, tổ chức nhóm \"Sáng kiến hội nhập\" nhằm tuyên truyền, hướng dẫn người dân ven biển và công nhân thực hiện nghiêm túc nhật ký khai thác, không sử dụng hóa chất cấm trong nuôi trồng.",
+      "options": [
+        "Việc doanh nghiệp X tận dụng thuế suất 0% từ EVFTA và CPTPP thể hiện cơ hội chủ động khai thác lợi ích từ tiến trình hội nhập kinh tế quốc tế",
+        "Hoạt động tìm hiểu các tiêu chuẩn quốc tế và hướng dẫn công nhân/ngư dân của Đoàn Thanh niên là minh chứng cho năng lực tìm hiểu và chủ động tham gia vào các hoạt động kinh tế - xã hội thích ứng với hội nhập.",
+        "Các quy định khắt khe về truy xuất nguồn gốc và tiêu chuẩn môi trường của thị trường Châu Âu là rào cản mang tính chất áp đặt, hoàn toàn bất lợi và Việt Nam nên né tránh các thị trường này.",
+        "Học sinh phổ thông có thể tham gia vào tiến trình hội nhập kinh tế bằng việc tìm hiểu các quy định thương mại quốc tế căn bản, nâng cao năng lực ngoại ngữ và tuyên truyền tiêu dùng sản phẩm đạt chuẩn xuất khẩu của địa phương."
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": 54,
+      "type": "correctness",
+      "question": "Khi thị trường nhập khẩu A áp thuế chống bán phá giá đối với mặt hàng tôn mạ màu xuất khẩu của Việt Nam, Công ty cổ phần thép Y đứng trước nguy cơ sụt giảm doanh thu nghiêm trọng. Nhóm chuyên viên trẻ thuộc Phòng Pháp chế và Kinh doanh quốc tế của công ty đã chủ động tìm hiểu các quy định của Tổ chức Thương mại Thế giới (WTO), thu thập đầy đủ chứng cứ về chi phí sản xuất, minh bạch hóa sổ sách kế toán để phối hợp với Bộ Công Thương tham gia vụ kiện điều tra phòng vệ thương mại, bảo vệ quyền lợi hợp pháp của doanh nghiệp.",
+      "options": [
+        "Việc công ty Y phối hợp thu thập chứng cứ phản tố vụ kiện thể hiện sự chủ động tìm hiểu và tham gia giải quyết các tranh chấp thương mại quốc tế theo đúng thông lệ và luật pháp quốc tế.",
+        "Biện pháp chống bán phá giá của thị trường A là một hình thức rào cản thương mại mà doanh nghiệp xuất khẩu phải chủ động nghiên cứu để ứng phó khi tham gia hội nhập.",
+        "Để tránh các rủi ro bị điều tra phòng vệ thương mại, giải pháp tốt nhất là doanh nghiệp Việt Nam đóng cửa sản xuất, ngừng hoàn toàn việc xuất khẩu ra thị trường quốc tế.",
+        "Thông qua việc tìm hiểu cơ chế giải quyết tranh chấp của WTO, công dân và người lao động có thể nhận thức đúng đắn về những thách thức và tính phức tạp của tiến trình hội nhập kinh tế toàn cầu."
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": 55,
+      "type": "correctness",
+      "question": "Ngày 15/3/2022, anh T tham gia hợp đồng bảo hiểm tại công ty bảo hiểm Manulife Việt Nam. Tháng 2/2023, anh T xảy ra tai nạn và bị xử lý bởi đội Cảnh sát giao thông phường B Tháng 3/2023, công ty bảo hiểm thanh toán bồi thường quyền lợi tai nạn cho anh T sau khi nhận được yêu cầu bồi thường từ anh.",
+      "options": [
+        "Bảo hiểm anh T tham gia thuộc bảo hiểm thương mại",
+        "Bảo hiểm thương mại là một kênh huy động vốn rất quan trọng trong đầu tư phát triển kinh tế - xã hội",
+        "Anh T đã chuyển giao rủi ro của mình cho bên tổ chức bảo hiểm thông qua tham gia hợp đồng bảo hiểm",
+        "Bảo hiểm thương mại mang yếu tố nhân đạo, hỗ trợ tài chính và tinh thần đối với người tham gia bảo hiểm"
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": 56,
+      "type": "correctness",
+      "question": "Đọc đoạn thông tin sau: Doanh nghiệp X chuyên sản xuất hàng may mặc và đã mua bảo hiểm cháy nổ. Ngoài ra, doanh nghiệp cũng tham gia bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp cho người lao động. Tháng 7/2023, do chập điện, xưởng sản xuất của doanh nghiệp bị cháy nổ và thiệt hại nặng nề. Doanh nghiệp không thể hoạt động ngay nên người lao động bị buộc thôi việc. Do mua bảo hiểm, doanh nghiệp được bồi thường thiệt hại cháy nổ, và người lao động nhận trợ cấp thất nghiệp trong thời gian bị mất việc.",
+      "options": [
+        "Bảo hiểm cháy nổ mà doanh nghiệp X tham gia thuộc lĩnh vực bảo hiểm xã hội",
+        "Công nhân của doanh nghiệp X đã được bù đắp một phần thu nhập khi bị mất việc",
+        "Doanh nghiệp X nhận được bồi thường tổn thất cháy nổ do doanh nghiệp đã tham gia bảo hiểm cháy nổ",
+        "Việc doanh nghiệp X tham gia bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp cho người lao động là tự nguyện"
+      ],
+      "answer": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 57,
+      "type": "correctness",
+      "question": "Cho đoạn thông tin sau: Các chính sách, chương trình giảm nghèo được thực hiện khá toàn diện và tương đối đầy đủ, đời sống của hộ nghèo từng bước được cải thiện, nâng cao. Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025, trong đó, tập trung giải ngân vốn của Chương trình năm 2023 với kinh phí đã phân bổ từ ngân sách trung ương là 12.692 tỷ đồng, ngân sách địa phương là hơn 3.526 tỷ đồng. Kinh phí thực hiện các chính sách giảm nghèo thường xuyên bố trí từ ngân sách trung ương năm 2023 ước trên 20.000 tỷ đồng. Ước tỉ lệ hộ nghèo theo chuẩn nghèo đa chiều năm 2023 còn 2,93%, (giảm 1,1% so với cuối năm 2022); tỉ lệ hộ nghèo tại các huyện nghèo còn khoảng 33% (giảm 5,62%); tỉ lệ hộ nghèo dân tộc thiểu số còn khoảng 17,82% (giảm 3,2%), đạt mục tiêu.",
+      "options": [
+        "Ngân sách trung ương chủ yếu tập trung vào xóa đói giảm nghèo.",
+        "Tỷ lệ nghèo đa chiều đã giảm rõ rệt.",
+        "Giảm nghèo phụ thuộc vào sự hỗ trợ từ ngân sách trung ương.",
+        "Nhà nước đã có nhiều giải pháp quan tâm các đối tượng yếu thế trong xã hội."
+      ],
+      "answer": [
+        0,
+        3
+      ]
+    },
+    {
+      "id": 58,
+      "type": "correctness",
+      "question": "Quốc hội và Chính phủ Việt Nam đã thông qua, phê duyệt 03 Chương trình mục tiêu quốc gia: Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025, Chương trình mục tiêu quốc gia xây dựng nông thôn mới giai đoạn 2021-2025 và Chương trình mục tiêu quốc gia phát triển kinh tế - xã hội vùng đồng bào dân tộc thiểu số và miền núi giai đoạn 2021-2030. Nhằm cụ thể hóa 3 chương trình trên, Thủ tướng Chính phủ đã ban hành một số quyết định quan trọng như: Quyết định số 24/2021/QĐ-TTg ngày 16/7/2021 của Thủ tướng Chính phủ quy định quy trình rà soát hộ nghèo, hộ cận nghèo hàng năm và quy trình xác định hộ làm nông nghiệp, lâm nghiệp, ngư nghiệp và diêm nghiệp có mức sống trung bình giai đoạn 2022-2025; Quyết định 1942/QĐ-TTg ngày 18/11/2021 phê duyệt Chương trình nâng cao chất lượng bảo vệ, chăm sóc sức khỏe người có công với cách mạng, người cao tuổi, trẻ em, người khuyết tật và các đối tượng cần trợ giúp xã hội giai đoạn 2021-2030; Quyết định 112/QĐ-TTg ngày 22/01/2021 ban hành chương trình phát triển công tác xã hội giai đoạn 2021-2030.",
+      "options": [
+        "3 Chương trình mục tiêu quốc gia là chính sách hỗ trợ việc làm, thu nhập và giảm nghèo.",
+        "3 Chương trình mục tiêu quốc gia và các quyết định của Thủ tướng Chính phủ đã thể hiện nguyên tắc đảm bảo thực hiện “quyền được bảo đảm an sinh xã hội” của Nhà nước.",
+        "3 Chương trình mục tiêu quốc gia không có sự tham gia của Chính phủ trong việc thực hiện.",
+        "Quyết định của Thủ tướng Chính phủ ban hành về Chương trình nâng cao chất lượng bảo vệ, chăm sóc sức khoẻ người có công, người cao tuổi, trẻ em, người khuyết tật và các đối tượng cần trợ giúp xã hội đã thể hiện sự quan tâm của Đảng và Nhà nước trong việc thực hiện chính sách an sinh xã hội."
+      ],
+      "answer": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 59,
+      "type": "correctness",
+      "question": "Anh K (24 tuổi) mới ký hợp đồng lao động chính thức tại một công ty sản xuất. Khi nhân sự hướng dẫn kê khai các khoản bảo hiểm bắt buộc và thuế thu nhập, anh K cho rằng mình còn trẻ, sức khỏe tốt nên đề nghị công ty không phải đóng bảo hiểm xã hội (BHXH) và bảo hiểm y tế (BHYT) cho mình, đồng thời cộng dồn số tiền đó vào tiền lương nhận hằng tháng để tiêu dùng thoải mái hơn.",
+      "options": [
+        "Đề nghị của anh K thể hiện sự hiểu biết đầy đủ và đúng đắn về quyền lợi an sinh xã hội dài hạn của người lao động.",
+        "Hành vi yêu cầu không đóng BHXH, BHYT để nhận tiền mặt ngắn hạn của anh K là hành vi chưa tuân thủ đúng quy định pháp luật lao động về an sinh xã hội bắt buộc.",
+        "Nếu người sử dụng lao động đồng ý với đề nghị của anh K thì cả doanh nghiệp và người lao động đều không vi phạm pháp luật về bảo hiểm xã hội",
+        "Để điều chỉnh hành vi phù hợp với pháp luật và bảo vệ tương lai của chính mình, anh K nên từ bỏ ý định nhận tiền mặt và yêu cầu công ty trích nộp đầy đủ các loại bảo hiểm bắt buộc theo quy định."
+      ],
+      "answer": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 60,
+      "type": "correctness",
+      "question": "Chị M có hoàn cảnh gia đình khó khăn, thuộc diện hộ cận nghèo tại địa phương. Vừa qua, xã triển khai chính sách hỗ trợ thẻ Bảo hiểm y tế (BHYT) miễn phí và hỗ trợ một phần tiền đóng Bảo hiểm xã hội (BHXH) tự nguyện cho hộ cận nghèo. Tuy nhiên, do nghe theo lời xúi giục của một số người quen rằng \"đóng tiền bảo hiểm dài hạn vừa mất tiền vừa lâu được dùng\", chị M định bỏ không nhận thẻ BHYT và không tham gia lưới an sinh. Khi được tổ trưởng dân phố giải thích về ý nghĩa bù đắp rủi ro sức khỏe và chia sẻ gánh nặng tài chính của Nhà nước, chị M đã thay đổi suy nghĩ, đăng ký nhận thẻ và tham gia tích lũy BHXH tự nguyện.",
+      "options": [
+        "Hành vi định từ chối nhận thẻ BHYT và các chính sách hỗ trợ an sinh của chị M ban đầu cho thấy chị chưa hiểu đúng về ý nghĩa thiết thực của các chính sách an sinh xã hội đối với người có hoàn cảnh khó khăn.",
+        "Việc tổ trưởng dân phố giải thích giúp chị M nhận ra tầm quan trọng của BHYT và BHXH tự nguyện, từ đó có cơ sở để điều chỉnh hành vi từ từ chối sang tích cực tham gia.",
+        "Quyết định thay đổi, nhận thẻ BHYT và tham gia BHXH tự nguyện của chị M là hành vi tự giác tuân thủ và biết tận dụng các chính sách an sinh xã hội để bảo vệ tài chính, sức khỏe gia đình.",
+        "Người thuộc diện hộ cận nghèo như chị M không có quyền tham gia các chính sách an sinh xã hội tự nguyện do Nhà nước quy định"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
     }
   ]
 }

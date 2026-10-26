@@ -176,8 +176,6 @@ function parseExam(input) {
 
     return { questions, blocks };
 }
-
-// 8. Ask the user to enter answers.
 async function inputAnswers(questions) {
     const rl = readline.createInterface({ input: stdin, output: stdout });
 
@@ -210,7 +208,17 @@ async function inputAnswers(questions) {
                 if (!input && marked.length) {
                     answers = marked;
                 } else if (input) {
-                    answers = input.split(",").map(s => s.trim());
+                    answers = q.type === "correctness"
+                        ? [...input.replace(/[\s,]+/g, "").toUpperCase()]
+                            .map(char => /^[1-4]$/.test(char)
+                                ? String.fromCharCode(64 + Number(char))
+                                : char)
+                        : input.split(",").map(s => {
+                            const value = s.trim();
+                            return /^[1-4]$/.test(value)
+                                ? String.fromCharCode(64 + Number(value))
+                                : value.toUpperCase();
+                        });
                 } else {
                     console.log("Please enter an answer.");
                     continue;
