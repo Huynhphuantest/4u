@@ -137,7 +137,8 @@ function render() {
     $("questionBlock").style.display = "none";
     for(const block of blocks) {
         if(block.includes.includes(question.id)) {
-            $("questionBlock").textContent = block.content;
+            //dangerous
+            $("questionBlock").innerHTML = block.content;
             $("questionBlock").style.display = "block";
             break;
         }

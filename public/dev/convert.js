@@ -3,7 +3,6 @@ const fs = require("node:fs");
 const readline = require("node:readline/promises");
 const { stdin, stdout } = require("node:process");
 
-// 1. Normalize text and put headings/options on separate lines.
 function formatInput(input) {
     return input
         .replace(/\r\n?/g, "\n")
@@ -23,7 +22,6 @@ function formatInput(input) {
         .replace(/^\s*\[?\s*Marker\s*:/gim, "Marker:")
         .trim();
 }
-
 function findEvents(input) {
     const events = [];
 
@@ -42,8 +40,6 @@ function findEvents(input) {
 
     return events;
 }
-
-// 3. Parse a question heading.
 function parseHeading(block) {
     const heading = block.match(
         /^\s*(?:Câu|Cau|Question)\s+(\d+)\s*[.:)]?\s*/i
@@ -56,10 +52,8 @@ function parseHeading(block) {
         content: block.slice(heading[0].length)
     };
 }
-
-// 4. Extract the question text and options.
 function parseOptions(content, id) {
-    const regex = /^\s*(\*)?\s*([A-Da-d])[.)]\s*/gm;
+    const regex = /^\s*(\*)?([A-Da-d])[.)]\s*/gm;
     const matches = [...content.matchAll(regex)];
 
     if (matches.length < 2) {
@@ -81,21 +75,29 @@ function parseOptions(content, id) {
 
     return { question, options };
 }
-
-// 5. Determine question type.
 function determineType(options, id) {
-    const isCorrectness = /^[a-z]$/.test(options[0].label);
+    const firstLabel = options[0].label;
+    console.log(firstLabel, id)
 
-    if (options.some(option =>
-        /^[a-z]$/.test(option.label) !== isCorrectness
-    )) {
-        throw new Error(`Question ${id}: Mixed option label cases.`);
+    if (!/^[A-Da-d]$/.test(firstLabel)) {
+        throw new Error(`Question ${id}: Invalid option label.`);
+    }
+
+    const isCorrectness = firstLabel === firstLabel.toLowerCase();
+
+    if (options.some(option => {
+        const isLowercase = option.label === option.label.toLowerCase();
+        return isLowercase !== isCorrectness;
+    })) {
+        throw new Error(
+            `Question ${id}: Mixed option label cases: ${
+                options.map(option => option.label).join(", ")
+            }`
+        );
     }
 
     return isCorrectness ? "correctness" : "multiple_choice";
 }
-
-// 6. Read answers marked with *.
 function getMarkedAnswers(options, type, id) {
     const answers = options
         .map((option, index) => option.marked ? index : -1)
@@ -107,8 +109,6 @@ function getMarkedAnswers(options, type, id) {
 
     return answers;
 }
-
-// 7. Parse the entire input, including shared passages.
 function parseExam(input) {
     const events = findEvents(input);
     const questions = [];
