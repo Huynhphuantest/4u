@@ -224,7 +224,6 @@ app.get("/api/pfps", async (req, res) => {
         res.status(500).json({ error: "Failed to load profile pictures" });
     }
 });
-
 app.get("/api/pfps/:id", async (req, res) => {
     try {
         const id = Number(req.params.id);
@@ -233,8 +232,8 @@ app.get("/api/pfps/:id", async (req, res) => {
             return res.status(400).json({ error: "Invalid pfp ID" });
         }
 
-        const result = await pool.query(
-            "SELECT image FROM pfps WHERE id = $1",
+        const result = await db.query(
+            "SELECT id, image FROM pfps WHERE id = $1",
             [id]
         );
 
@@ -242,9 +241,8 @@ app.get("/api/pfps/:id", async (req, res) => {
             return res.status(404).json({ error: "Pfp not found" });
         }
 
-        res.set("Content-Type", "image/jpeg");
         res.set("Cache-Control", "public, max-age=86400");
-        res.send(result.rows[0].image);
+        res.send(result.rows[0].image.toString("base64"));
     } catch (err) {
         console.error(err);
         res.status(500).json({ error: "Failed to get pfp" });

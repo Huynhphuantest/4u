@@ -28,8 +28,6 @@ async function loadTab() {
         const ranking = document.createElement("div");
         ranking.classList = "ranking loading";
         main.appendChild(ranking);
-
-        ranking.innerHTML = `<div class="temp">Đang bảo trì! Để chiều về sửa</div>`
         
         tabArr.push(main);
     });
@@ -37,29 +35,42 @@ async function loadTab() {
     loadAside();
 
     const response = await fetch("/api/completions");
-    //const pfps = await (await fetch("/api/pfps")).json();
-    const pfps = []
-    const data = await response.json();
+    let data = await response.json();
     data.sort((a, b) => {
         let score = b.score - a.score;
         if(score === 0) return a.duration - b.duration;
         return score;
     });
 
-    tabs.forEach((tab, i) => {
+    const seen = new Set();
+    data = data.filter(item => {
+        if (seen.has(item.username)) return false;
+        seen.add(item.username);
+        return true;
+    });
+
+    tabs.forEach(async (tab, i) => {
         const main = tabArr[i];
         const rankList = main.querySelector(".ranking");
-        let ranks = data.filter(rank => rank.exam.split("-")[0] === tabs[i]);
-        let position = ranks.filter((rank, index, arr) =>
-            arr.findIndex(r => r.username === rank.username) === index
-        ).slice(0, 3);
-        //ranks = ranks.filter(rank => !position.includes(rank));
-        ranks.forEach((rank) => {
-            let pfp = pfps.find(o => o.id === rank.pfp_id);
-            if(pfp) pfp = `data:image/jpeg;base64,` + pfp.image;
-            else pfp = `assets/default_pfp.jpeg`;
-            let rank_completed_at = rank.completed_at.replace(/[‐‑‒–—−-]/g, "/").replace("T", " ").split(".")[0].split(":");
-            rankList.innerHTML += `
+        const ranks = data.filter(rank => rank.exam.split("-")[0] === tabs[i]);
+        // let position = ranks.filter((rank, index, arr) =>
+        //     arr.findIndex(r => r.username === rank.username) === index
+        // ).slice(0, 3);
+        // //ranks = ranks.filter(rank => !position.includes(rank));
+        const html = await Promise.all(ranks.map(async (rank) => {
+            let pfp = rank.pfp_id
+                ? await getPfp(rank.pfp_id)
+                : "assets/default_pfp.jpeg";
+
+            if (!pfp) pfp = "assets/default_pfp.jpeg";
+
+            const rank_completed_at = rank.completed_at
+                .replace(/[‐‑‒–—−-]/g, "/")
+                .replace("T", " ")
+                .split(".")[0]
+                .split(":");
+
+            return `
                 <div class="rank">
                     <div class="rank-indentity">
                         <img src="${pfp}">
@@ -78,8 +89,10 @@ async function loadTab() {
                         </div>
                     </div>
                 </div>
-            `
-        });
+            `;
+        }));
+
+        rankList.innerHTML = html.join("");
         rankList.classList.remove("loading");
     });
 }
@@ -110,7 +123,13 @@ function loadAside() {
         });
     });
 }
+async function getPfp(id) {
+    const res = await fetch(`/api/pfps/${id}`);
+    if (!res.ok) console.error("Failed to load image "+res);
 
+    const pfp = await res.text();
+    return `data:image/jpeg;base64,${pfp}`;
+}
 
 
 async function getCompletions() {
