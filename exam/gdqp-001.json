@@ -428,8 +428,9 @@
     {
       "id": 33,
       "type": "multiple_choice",
-      "question": "Một trong những chức năng, nhiệm vụ chính của Bộ quốc phòng Quân đội nhân dân Việt Nam là gì?\nA, Thực hiện đấu tranh phòng, chống tội phạm quốc gia",
+      "question": "Một trong những chức năng, nhiệm vụ chính của Bộ quốc phòng Quân đội nhân dân Việt Nam là gì?",
       "options": [
+        "Thực hiện đấu tranh phòng, chống tội phạm quốc gia",
         "Đấu tranh với các loại tội phạm, vi phạm pháp luật về an ninh quốc gia",
         "Quản lí nhà nước về bảo đảm an ninh quốc gia, bảo đàm trật tự, an toàn xã hội",
         "Quản lí nhà nước về lĩnh vực quân sự, quốc phòng trong phạm vi cả nước"
