@@ -240,6 +240,10 @@ main:not(.active) {
   transform: translate(-50%, -50%);
   opacity: 0.5;
 }
+.exam-details {
+    display: flex;
+    flex-direction: column;
+}
 .ranking:empty:not(.loading) {
   position: relative;
   width:100%;

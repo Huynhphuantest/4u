@@ -24,8 +24,12 @@
     </header>
     <div class="layout">
       <aside class="sidebar">
-        <div class="active"><span class="icon">person</span> &nbsp; Tài khoản</div>
-        <div><span class="icon">home</span> &nbsp; Tất cả môn</div>
+        <div class="active"><span class="icon">person</span><span>
+          Tài khoản
+        </span></div>
+        <div><span class="icon">home</span><span>
+          Tất cả môn
+        </span></div>
       </aside>
 
       <main class="active">
@@ -113,5 +117,43 @@
         </div>
       </main>
     </div>
+    <template id="tab-template">
+      <main>
+          <div class="main-top">
+              <h1></h1>
+              <div class="change-page icon">trophy</div>
+          </div>
+
+          <div class="exam-list active loading"></div>
+          <div class="ranking loading"></div>
+      </main>
+    </template>
+
+    <template id="sidebar-button-template">
+        <div>
+            <span class="icon"></span>
+            <span class="name"></span>
+        </div>
+    </template>
+    <template id="exam-card-template">
+      <div class="exam-option">
+          <div class="exam-icon icon"></div>
+          <div class="exam-details">
+              <div class="exam-name"></div>
+              <div class="exam-subject"></div>
+          </div>
+      </div>
+    </template>
+    <template id="rank-card-template">
+      <div class="rank">
+          <div class="rank-indentity">
+              <img alt="">
+              <div class="rank-username"></div>
+              <div class="rank-score"></div>
+          </div>
+          <div class="breaker"></div>
+          <div class="rank-info"></div>
+      </div>
+    </template>
   </body>
 </html>
