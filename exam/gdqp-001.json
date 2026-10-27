@@ -1,0 +1,908 @@
+{
+  "id": "geo-002",
+  "subject": "Địa Lý",
+  "title": "Kiểm tra giữa kì II",
+  "outdated": false,
+  "blocks": [],
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "Hình ảnh sau là",
+      "options": [
+        "Cấp hiệu",
+        "Quân hiệu",
+        "Quốc huy",
+        "Công an hiệu."
+      ],
+      "answer": 3
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "Lực lượng Công an nhân dân Việt Nam gồm những lực lược nào?",
+      "options": [
+        "Lực lượng An ninh kinh tế và An ninh nhân dân địa phương",
+        "Lực lượng dân phòng và Cảnh sát nhân dân",
+        "Lực lượng An ninh nhân dân và Cảnh sát cơ động",
+        "Lực lượng An ninh nhân dân và Cảnh sát nhân dân"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "Bộ trưởng Bộ Công An hiện nay là ai ?",
+      "options": [
+        "Đại tướng Phan Văn Giang",
+        "Đại tướng Lương Tam Quang",
+        "Đại tướng Ngô Xuân Lịch",
+        "Đại tướng Mai Chí Thọ"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "Cho thông tin sau: “Một trong những yêu cầu đối với công tác tuyển sinh, đào tạo trong các trường Quân đội, Công an là: lựa chọn những công dân (.....) vào đào tạo trong các trường Quân đội, Công an đáp ứng yêu cầu nhiệm vụ nâng cao chất lượng nguồn nhân lực, góp phần xây dựng Quân đội nhân dân Việt Nam, Công an nhân dân Việt Nam cách mạng, chính quy, tinh nhuệ, từng bước hiện đại”.\nHãy điền vào chỗ (....) trong câu trên:",
+      "options": [
+        "tự nguyện và có đủ tiêu chuẩn theo quy định",
+        "có đủ tiêu chuẩn",
+        "tự nguyện và có đủ tiêu chuẩn",
+        "tự nguyện"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "Cho thông tin sau: “Trong chiến tranh bảo vệ biên giới Tây Nam của Tổ quốc, ngày (.....), Bộ Chính trị và Quân uỷ Trung ương quyết định phát động chiến tranh nhân dân, kiên quyết phản công và tiến công tập đoàn Pôn Pốt – Iêng Xary một cách chủ động, liên tục bằng mọi lực lượng”. Thông tin cần điền vào chỗ (.....) trong câu trên là:",
+      "options": [
+        "15-6-1976",
+        "15-6-1978",
+        "15-6-1977",
+        "15-6-1979"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "Một trong những chức năng nhiệm vụ của công an cấp tỉnh là?",
+      "options": [
+        "làm nòng cốt trong xây dựng phong trào toàn dân bảo vệ an ninh Tổ quốc ở địa bàn xã, thị trấn",
+        "tham mưu với Bộ Công an, tỉnh ủy, Ủy ban nhân dân tỉnh về bảo vệ an ninh quốc gia và giữ gìn trật tự, an toàn xã hội trên địa bàn tỉnh",
+        "quản lí nhà nước về bảo vệ an ninh quốc gia và giữ gìn trật tự an toàn xã hội trên địa bàn xã, thị trấn",
+        "tham mưu với Bộ Công an, tỉnh ủy, Ủy ban nhân dân tỉnh về bảo vệ an ninh quốc gia và giữ gìn trật tự, an toàn xã hội trên địa bàn huyện."
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "Trong các cơ sở đào tạo sau của Quân đội, cơ sở đào tạo nào không tuyển học sinh trung học phổ thông?",
+      "options": [
+        "Học viện Hậu cần",
+        "Học viện Lục quân",
+        "Học viện Biên phòng",
+        "Học viện Quân y"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "Trong chiến tranh bảo vệ biên giới Tây Nam của Tổ quốc, tập đoàn Pôn Pốt – Iêng Xary mở cuộc tiến công trên toàn tuyến biên giới Tây Nam nước ta vào ngày",
+      "options": [
+        "23-12-1975.",
+        "23-12-1978.",
+        "23-12-1976.",
+        "23-12-1977."
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "Ý nào dưới đây nói đến chức năng, nhiệm vụ của Bộ Tổng Tham mưu quân đội nhân dân Việt Nam?",
+      "options": [
+        "Chỉ huy, điều hành, xây dựng phát triển lực lượng và huấn luyện sẵn sàng chiến đấu, chiến đấu của quân đội nhân dân và dân quân tự vệ",
+        "Quản lí nhà nước về lĩnh vực quân sự, quốc phòng trong phạm vi cả nước",
+        "Chỉ đạo công tác quốc phòng và xây dựng tiềm lực quân sự trong thời bình",
+        "Đảm nhiệm công tác Đảng, công tác chính trị trong toàn quân"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "Quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng thuộc đối tượng tuyển sinh đào tạo cán bộ cấp phân đội trình độ đại học, cao đẳng hệ chính quy trong các trường Quân đội nếu thời gian phục vụ trong Quân đội (tính đến tháng 9 năm tuyển sinh)",
+      "options": [
+        "đủ 6 tháng trở lên.",
+        "đủ 12 tháng trở lên.",
+        "đủ 18 tháng trở lên.",
+        "đủ 24 tháng trở lên."
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "Nhân ngày Thương binh – Liệt sĩ 27/7, người dân thường dâng hương, dâng hoa cho các anh hùng liệt sĩ tại nghĩa trang liệt sĩ ở địa phương. Đây là hành động",
+      "options": [
+        "tri ân với người có công với đất nước.",
+        "sẵn sàng tham gia bảo vệ vững chắc độc lập, chủ quyền của Tổ quốc.",
+        "học tập, tìm hiểu đường lối, chủ trương của Đảng.",
+        "phụng dưỡng bà mẹ Việt Nam anh hùng."
+      ],
+      "answer": 0
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "Trong các phương thức sau, phương thức nào không áp dụng đối với tuyển sinh đào tạo cán bộ cấp phân đội trình độ đại học, cao đẳng hệ chính quy trong các trường Quân đội?",
+      "options": [
+        "Xét tuyển từ kết quả kì thi đánh giá năng lực do các trường đại học nước ngoài tổ chức.",
+        "Xét tuyển từ kết quả kì thi đánh giá năng lực do các trường đại học trong nước tổ chức.",
+        "Xét tuyển từ kì thi đánh giá năng lực do Bộ Quốc phòng tổ chức.",
+        "Xét tuyển dựa vào kì thi tốt nghiệp trung học phổ thông quốc gia do Bộ Giáo dục và Đào tạo tổ chức."
+      ],
+      "answer": 0
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "Vì sao Đảng, Nhà nước ta dùng mọi biện pháp ngoại giao hòa bình đối với các hành động của tập đoàn Pol Pot – leng Sary?",
+      "options": [
+        "Để tránh xảy ra chiến tranh",
+        "Theo yêu cầu của tập đoàn Pol Pot – leng Sary",
+        "Để phù hợp với xu thế của thế giới",
+        "Vì nguyện vọng của người dân Campuchia"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "Ngành nào trong các ngành sau được đào tạo ở Học viện Khoa học Quân sự?",
+      "options": [
+        "Khoa học máy tính",
+        "Trinh sát kĩ thuật",
+        "Chỉ huy, quản lí kĩ thuật",
+        "Kĩ thuật hàng không"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "Mục đích của cuộc chiến tranh bảo vệ biên giới Tây Nam là gì?",
+      "options": [
+        "bảo vệ chủ quyền biển đảo của Tổ quốc.",
+        "bảo vệ biên giới phía Bắc khỏi sự nhòm ngó của các thế lực thù địch.",
+        "bảo vệ vững chắc độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ của Tổ quốc.",
+        "bảo vệ độc lập đồng thời thúc đẩy phát triển kinh tế."
+      ],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "Trong các trường hợp sau, trường hợp nào không thuộc đối tượng tuyển sinh đào tạo trình độ đại học chính quy tuyển mới trong trường Công an?",
+      "options": [
+        "Công dân thường trú tại địa phương nơi đăng kí sơ tuyển",
+        "Học sinh Trường Văn hoá",
+        "Chiến sĩ nghĩa vụ Công an",
+        "Chỉ huy cấp đội trở lên hoặc quy hoạch lãnh đạo, chỉ huy từ cấp đội trở lên thuộc Công an đơn vị, địa phương."
+      ],
+      "answer": 3
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "Trong cuộc chiến đấu bảo vệ biên giới phía Bắc của Tổ quốc, Chủ tịch nước Cộng hoà xã hội chủ nghĩa Việt Nam công bố Lệnh Tổng động viên trong cả nước để bảo vệ Tổ quốc vào ngày",
+      "options": [
+        "05-01-1979.",
+        "05-02-1979.",
+        "05-3-1979.",
+        "05-4-1979."
+      ],
+      "answer": 2
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "Quan sát hình dưới đây và cho biết nó là phù hiệu của Quân binh chủng nào?",
+      "options": [
+        "Bộ binh cơ giới",
+        "Lái xe",
+        "Hoá học",
+        "Công binh"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "Công việc nào trong các công việc sau không có trong nội dung sơ tuyển thí sinh dự tuyển đào tạo trình độ đại học chính quy tuyển mới trong trường Công an?",
+      "options": [
+        "Kiểm tra bằng tốt nghiệp và học bạ trung học phổ thông",
+        "Kiểm tra học bạ tiểu học, học bạ trung học cơ sở",
+        "Kiểm tra sức khoẻ, năng khiếu",
+        "Thẩm tra, xác minh, kết luận tiêu chuẩn chính trị"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "question": "Chính quyền Trung Quốc tuyên bố rút quân khỏi lãnh thổ Việt Nam vào thời gian nào?",
+      "options": [
+        "05-03-1975.",
+        "05-03-1979.",
+        "17-02-1979",
+        "17-02-1975"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 21,
+      "type": "multiple_choice",
+      "question": "Hiện nay, trên toàn lãnh thổ Việt Nam có bao nhiêu quân khu?",
+      "options": [
+        "7 quân khu.",
+        "6 quân khu.",
+        "8 quân khu.",
+        "9 quân khu."
+      ],
+      "answer": 0
+    },
+    {
+      "id": 22,
+      "type": "multiple_choice",
+      "question": "Trường đại học nào dưới đây thuộc hệ thống trường công an nhân dân?",
+      "options": [
+        "Trường đại học Cảnh sát nhân dân.",
+        "Trường sĩ quan Chính trị.",
+        "Trường đại học văn hóa – nghệ thuật quân đội.",
+        "Trường sĩ quan Pháo binh."
+      ],
+      "answer": 0
+    },
+    {
+      "id": 23,
+      "type": "multiple_choice",
+      "question": "Một trong những giá trị lịch sử của cuộc đấu tranh bảo vệ chủ quyền biển, đảo Việt Nam là thể hiện khát vọng hòa bình, …của dân tộc Việt Nam\nTừ/ cụm từ thích hợp điền vào chỗ chấm(…) trong câu trên là gì?",
+      "options": [
+        "coi trọng luật pháp quốc tế",
+        "tôn trọng luật pháp quốc tế",
+        "tự tôn pháp luật",
+        "chấp hành pháp luật quốc tế"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 24,
+      "type": "multiple_choice",
+      "question": "Hệ thống bậc hàm của sĩ quan Quân đội nhân dân Việt Nam bao gồm bao nhiêu cấp, bậc?",
+      "options": [
+        "2 cấp, 7 bậc.",
+        "3 cấp, 12 bậc.",
+        "1 cấp, 4 bậc.",
+        "4 cấp, 16 bậc."
+      ],
+      "answer": 1
+    },
+    {
+      "id": 25,
+      "type": "multiple_choice",
+      "question": "Ngành nào trong các ngành sau được đào tạo ở Học viện An ninh nhân dân?",
+      "options": [
+        "An ninh mạng và phòng chống tội phạm sử dụng công nghệ cao.",
+        "Nghiệp vụ phòng cháy chữa cháy.",
+        "Nghiệp vụ cảnh sát.",
+        "Kĩ thuật Công an nhân dân."
+      ],
+      "answer": 0
+    },
+    {
+      "id": 26,
+      "type": "multiple_choice",
+      "question": "Đấu tranh bảo vệ chủ quyền biển, đảo còn khẳng định:",
+      "options": [
+        "sức mạnh về đấu tranh quân sự, chính trị, kinh tế, ngoại giao của Việt Nam.",
+        "tính chính nghĩa, khát vọng hòa bình, tôn trọng luật pháp quốc tế của dân tộc Việt Nam.",
+        "mối quan hệ của Việt Nam với các nước trên trường quốc tế.",
+        "sự phát triển về kinh tế - chính trị của Việt Nam so với các nước lân cận."
+      ],
+      "answer": 1
+    },
+    {
+      "id": 27,
+      "type": "multiple_choice",
+      "question": "Công an nhân dân Việt Nam là lực lượng nòng cốt của lực lượng vũ trang trong sự nghiệp gì?",
+      "options": [
+        "Trong sự nghiệp quốc phòng, giữ gìn môi trường hòa bình",
+        "Trong sự nghiệp bảo vệ nhân dân và giữ gìn trật tự, an toàn xã hội",
+        "Trong sự nghiệp bảo vệ an ninh quốc gia và giữ gìn trật tự, an toàn xã hội",
+        "Trong sự nghiệp giữ gìn trật tự, an toàn xã hội ở từng địa phương"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 28,
+      "type": "multiple_choice",
+      "question": "Khi dự thi vào các nhà trường Công an, nếu không trúng tuyển, thí sinh có quyền lợi gì?",
+      "options": [
+        "Không được lấy kết quả thi tuyển để xét duyệt vào các trường đại học khối dân sự.",
+        "Được xét tuyển thẳng vào các trường đào tạo công an nhân dân khối trung cấp.",
+        "Được lấy kết quả thi để xét duyệt vào các trường đại học, cao đẳng khối dân sự.",
+        "Được bảo lưu kết quả thi tuyển để xét duyệt vào các đợt tuyển sinh năm sau."
+      ],
+      "answer": 2
+    },
+    {
+      "id": 29,
+      "type": "multiple_choice",
+      "question": "Ý nào sau đây thể hiện trách nhiệm của công dân đối với sự nghiệp củng cố quốc phòng, an ninh?",
+      "options": [
+        "Đăng kí nghĩa vụ quân sự theo đúng quy định của pháp luật.",
+        "Hạn chế tham gia các hoạt động tri ân người có công với đất nước.",
+        "Không tham gia hoạt động đền ơn đáp nghĩa do địa phương tổ chức.",
+        "Chỉ đăng kí nghĩa vụ quân sự khi bị ép buộc."
+      ],
+      "answer": 0
+    },
+    {
+      "id": 30,
+      "type": "multiple_choice",
+      "question": "Quan sát những cấp hiệu quân đội dưới đây và cho biết nó thuộc cấp bậc gì?",
+      "options": [
+        "Trung tướng – Trung tá – Trung úy",
+        "Thiếu úy – Trung tá – Trung tướng",
+        "Trung úy – Trung tá – Trung tướng",
+        "Trung úy – Trung tướng – Trung úy"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 31,
+      "type": "multiple_choice",
+      "question": "Trong bối cảnh tình hình Biển Đông còn tiềm ẩn phức tạp, bài học nào từ cuộc chiến đấu bảo vệ biên giới phía Bắc năm 1979 vẫn còn nguyên giá trị?",
+      "options": [
+        "Giữ vững độc lập, tự chủ, kiên quyết bảo vệ chủ quyền lãnh thổ, đồng thời kiên trì giải quyết tranh chấp bằng biện pháp hòa bình.",
+        "Chỉ nên sử dụng sức mạnh quân sự để khẳng định chủ quyền.",
+        "Không cần quan tâm đến vấn đề chủ quyền nếu không ảnh hưởng trực tiếp.",
+        "Dựa hoàn toàn vào các tổ chức quốc tế."
+      ],
+      "answer": 0
+    },
+    {
+      "id": 32,
+      "type": "multiple_choice",
+      "question": "Giá trị lịch sử cuộc đấu tranh bảo vệ chủ quyền biển, đảo của Việt Nam sau năm 1975 là",
+      "options": [
+        "khẳng định chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa và chủ quyền, quyền chủ quyền, quyền tài phán quốc gia đối với vùng biển của Việt Nam.",
+        "khẳng định sức mạnh quân sự, lòng đoàn kết của nhân dân Việt Nam.",
+        "khẳng định tài ngoại giao của lãnh đạo Việt Nam và các quốc gia yêu chuộng hòa bình trên thế giới.",
+        "khẳng định Việt Nam tôn trọng luật pháp quốc tế, đồng thời cho thế giới biết sức mạnh đoàn kết của nhân dân ta."
+      ],
+      "answer": 0
+    },
+    {
+      "id": 33,
+      "type": "multiple_choice",
+      "question": "Một trong những chức năng, nhiệm vụ chính của Bộ quốc phòng Quân đội nhân dân Việt Nam là gì?\nA, Thực hiện đấu tranh phòng, chống tội phạm quốc gia",
+      "options": [
+        "Đấu tranh với các loại tội phạm, vi phạm pháp luật về an ninh quốc gia",
+        "Quản lí nhà nước về bảo đảm an ninh quốc gia, bảo đàm trật tự, an toàn xã hội",
+        "Quản lí nhà nước về lĩnh vực quân sự, quốc phòng trong phạm vi cả nước"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 34,
+      "type": "multiple_choice",
+      "question": "sinh viên thuộc các trường quân đội nhân dân không được hưởng chế độ đãi ngộ nào dưới đây?",
+      "options": [
+        "Không phải đóng học phí.",
+        "Được quân đội đảm bảo về ăn, mặc, ở.",
+        "Được hưởng phụ cấp hàng tháng.",
+        "Sau khi tốt nghiệp được cấp quyền sở hữu đất ở và đất canh tác."
+      ],
+      "answer": 3
+    },
+    {
+      "id": 35,
+      "type": "multiple_choice",
+      "question": "Nội dung nào sau đây không phải là nguyên tắc tuyển sinh đào tạo đại học trong các trường Công an nhân dân?",
+      "options": [
+        "Hàng năm, căn cứ vào tổng biên chế đã được phê duyệt",
+        "Không tuyển sinh từ nguồn thanh niên, học sinh",
+        "Bộ trưởng Bộ Công an phân bổ chỉ tiêu",
+        "Có hướng dẫn cụ thể trình tự, thủ tục tuyển chọn"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 36,
+      "type": "multiple_choice",
+      "question": "Ra đường em nhìn thấy những chú công an mặc đồng phục sau \n\nTheo em chú công an đó thuộc Cơ quan nào trong Bộ Công an?",
+      "options": [
+        "Cục An ninh mạng và phòng chống tội phạm sử dụng công nghệ cao",
+        "Cục Cảnh sát điều tra tội phạm ma túy",
+        "Cục Cảnh Sát Hình Sự",
+        "Cục Cảnh sát giao thông"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 37,
+      "type": "multiple_choice",
+      "question": "Trong cuộc chiến nào ta đã kết hợp tạo sức mạnh tổng hợp giữa lực lượng vũ trang địa phương, bộ đội chủ lực Việt Nam cùng với nhân dân yêu nước Campuchia?",
+      "options": [
+        "Đấu tranh chống quân Nguyên Mông.",
+        "Đấu tranh bảo vệ chủ quyền biển, đảo.",
+        "Chiến tranh bảo vệ biên giới phía Bắc.",
+        "Chiến tranh bảo vệ biên giới Tây Nam."
+      ],
+      "answer": 3
+    },
+    {
+      "id": 38,
+      "type": "multiple_choice",
+      "question": "Hình ảnh sau là",
+      "options": [
+        "Cấp hiệu",
+        "Quân hiệu",
+        "Quốc huy",
+        "Công an hiệu."
+      ],
+      "answer": 1
+    },
+    {
+      "id": 39,
+      "type": "multiple_choice",
+      "question": "Lực lượng Công an nhân dân Việt Nam gồm những lực lược nào?",
+      "options": [
+        "Lực lượng An ninh kinh tế và An ninh nhân dân địa phương",
+        "Lực lượng dân phòng và Cảnh sát nhân dân",
+        "Lực lượng An ninh nhân dân và Cảnh sát cơ động",
+        "Lực lượng An ninh nhân dân và Cảnh sát nhân dân"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 40,
+      "type": "multiple_choice",
+      "question": "Bộ trưởng Bộ Quốc phòng hiện nay là ai ?",
+      "options": [
+        "Đại tướng Phan Văn Giang",
+        "Đại tướng Lương Tam Quang",
+        "Đại tướng Ngô Xuân Lịch",
+        "Đại tướng Mai Chí Thọ"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 41,
+      "type": "multiple_choice",
+      "question": "Cho thông tin sau: “Trong cuộc chiến đấu bảo vệ biên giới phía Bắc của Tổ\nquốc, bị tổn thất nặng nề và trước sự lên án mạnh mẽ của dư luận tiến bộ trên thế giới cũng như trong nước, ngày (........), chính quyền Trung Quốc tuyên bố rút quân khỏi lãnh thổ Việt Nam”. Em hay điền thời gian cần điền vào chỗ (.......) trong câu trên ?",
+      "options": [
+        "05-3-1979",
+        "05-4-1979",
+        "05-02-1979",
+        "05-01-1979"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 42,
+      "type": "multiple_choice",
+      "question": "Trong chiến tranh bảo vệ biên giới Tây Nam của Tổ quốc, Mặt trận Đoàn kết dân tộc cứu nước Cam-pu-chia được thành lập vào ngày",
+      "options": [
+        "02-12-1976.",
+        "02-12-1977.",
+        "02-12-1978.",
+        "02-12-1979."
+      ],
+      "answer": 2
+    },
+    {
+      "id": 43,
+      "type": "multiple_choice",
+      "question": "Hạ sĩ quan, binh sĩ tại ngũ theo quy định của pháp luật về nghĩa vụ quân sự thuộc đối tượng tuyển sinh đào tạo cán bộ cấp phân đội trình độ đại học, cao đẳng hệ chính quy trong các trường Quân đội nếu thời gian phục vụ tại ngũ (tính đến tháng 4 năm tuyển sinh)",
+      "options": [
+        "đủ 6 tháng trở lên.",
+        "đủ 9 tháng trở lên.",
+        "đủ 12 tháng trở lên.",
+        "đủ 15 tháng trở lên."
+      ],
+      "answer": 2
+    },
+    {
+      "id": 44,
+      "type": "multiple_choice",
+      "question": "Một trong những chức năng, nhiệm vụ của Ban chỉ huy quân sự cấp huyện là?",
+      "options": [
+        "tham mưu cho cấp Uỷ Đảng, chính quyền địa phương cấp huyện về công tác phòng, chống tội phạm.",
+        "trực tiếp chỉ huy bộ đội địa phương xử lí các vi phạm về bảo đảm trật tự, an toàn xã hội.",
+        "trực tiếp chỉ huy bộ đội địa phương, dân quân tự vệ về tổ chức xây dựng lực lượng, huấn luyện, tác chiến và làm các nhiệm vụ khác.",
+        "trực tiếp chỉ huy lực lượng công an cấp huyện thực hiện bảo đảm trật tự, an toàn xã hội tại địa phương."
+      ],
+      "answer": 2
+    },
+    {
+      "id": 45,
+      "type": "multiple_choice",
+      "question": "Quân và dân ta đã tổ chức tổng phản công trên toàn tuyến biên giới tây nam, đẩy tập đoàn Pol Pot – leng Sary ra khỏi lãnh thổ của Tổ quốc vào thời gian nào?",
+      "options": [
+        "Ngày 15/6/1978",
+        "Ngày 23/12/1978",
+        "Ngày 30/4/1977",
+        "Ngày 07/01/1979"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 46,
+      "type": "multiple_choice",
+      "question": "Thanh niên ngoài Quân đội phân đội trình độ đại học, cao đẳng hệ chính quy trong các trường Quân đội phải có độ tuổi (tính đến năm dự tuyển)",
+      "options": [
+        "không quá 20 tuổi.",
+        "không quá 21 tuổi.",
+        "không quá 22 tuổi.",
+        "không quá 23 tuổi."
+      ],
+      "answer": 1
+    },
+    {
+      "id": 47,
+      "type": "multiple_choice",
+      "question": "Khi xâm phạm một số vùng lãnh thổ nước ta, tập doàn Pol Pot – leng Sary đã làm gì đối với nước ta?",
+      "options": [
+        "Lôi kéo người dân Campuchia sang Việt Nam",
+        "Kích động nhân dân ta biểu tình",
+        "Kích động tư tưởng gây hận thù giữa Việt Nam và Campuchia",
+        "Kích động, lôi kéo các nước khác tiến công Việt Nam"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 48,
+      "type": "multiple_choice",
+      "question": "Ý nào dưới đây nói đến chức năng, nhiệm vụ của Quân khu trong Quân đội nhân dân Việt Nam?",
+      "options": [
+        "Chỉ đạo công tác quốc phòng và xây dựng tiềm lực quân sự trong thời bình",
+        "Bảo vệ các địa bàn chiến lược trọng yếu của quốc gia",
+        "Đảm nhiệm công tác Đảng, công tác chính trị trong toàn quân",
+        "Chỉ huy, điều hành, xây dựng phát triển lực lượng và huấn luyện sẵn sàng chiến đấu trong toàn dân"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 49,
+      "type": "multiple_choice",
+      "question": "Thí sinh dự tuyển sinh đào tạo cán bộ cấp phân đội trinh độ đại học, cao đẳng hệ chính quy trong các trường Quân đội",
+      "options": [
+        "đều phải qua sơ tuyển.",
+        "không phải qua sơ tuyển nếu là học sinh giỏi cấp trung học phổ thông.",
+        "không phải qua sơ tuyển nếu có anh (chị) ruột đã vào học một trường trong Quân đội.",
+        "không phải qua sơ tuyển nếu bố (mẹ) đẻ là quân nhân."
+      ],
+      "answer": 0
+    },
+    {
+      "id": 50,
+      "type": "multiple_choice",
+      "question": "Mục đích thành lập của Mặt trận Đoàn kết dân tộc cứu nước Campuchia là",
+      "options": [
+        "liên hợp với các nước khác để giành lại độc lập.",
+        "khôi phục lại chế độ chiếm hữu nô lệ.",
+        "giải phóng dân tộc Campuchia khỏi họa diệt chủng.",
+        "thúc đẩy phát triển kinh tế."
+      ],
+      "answer": 2
+    },
+    {
+      "id": 51,
+      "type": "multiple_choice",
+      "question": "Trong chiến tranh bảo vệ biên giới Tây Nam của Tổ quốc và cùng quân dân Cam-pu-chia chiến thắng chế độ diệt chủng (sau đây gọi tắt là chiến tranh bảo vệ biên giới Tây Nam của Tổ quốc), tập đoàn Pôn Pốt – Iêng Xary phát động chiến tranh xâm lược Việt Nam vào ngày",
+      "options": [
+        "30-4-1975.",
+        "30-4-1976.",
+        "30-4-1977.",
+        "30-4-1978."
+      ],
+      "answer": 2
+    },
+    {
+      "id": 52,
+      "type": "multiple_choice",
+      "question": "Ngành nào trong các ngành sau được đào tạo ở Học viện An ninh nhân dân?",
+      "options": [
+        "An ninh mạng và phòng chống tội phạm sử dụng công nghệ cao",
+        "Nghiệp vụ an ninh",
+        "Nghiệp vụ cảnh sát",
+        "Kĩ thuật Công an nhân dân"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 53,
+      "type": "multiple_choice",
+      "question": "Tại sao nói cuộc chiến tranh bảo vệ biên giới Tây Nam thể hiện tinh thần quốc tế trong sáng, thủy chung của nhân dân Việt Nam và nhân dân Campuchia?",
+      "options": [
+        "Vì nhân dân Việt Nam đã cứu giúp nhân dân Campuchia thoát khỏi thảm họa diệt chủng, giành lại quyền được sống, quyền làm người.",
+        "Vì nhân dân Việt Nam đã giúp nhân dân Campuchia bảo vệ biên giới phía Tây Nam.",
+        "Vì nhân dân Việt Nam đã góp phần giúp nhân dân Campuchia khôi phục nền kinh tế sau chiến tranh.",
+        "Vì nhân dân Việt Nam chia sẻ cho nhân dân Campuchia những kinh nghiệm chống giặc."
+      ],
+      "answer": 0
+    },
+    {
+      "id": 54,
+      "type": "multiple_choice",
+      "question": "Cấp hiệu Quân chủng Phòng không – Không quân Việt Nam có viền màu?",
+      "options": [
+        "xanh hòa bình",
+        "đỏ",
+        "Tím",
+        "xanh"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 55,
+      "type": "multiple_choice",
+      "question": "Trong các tiêu chuẩn sau, tiêu chuẩn nào không thuộc tiêu chuẩn chung đối với thí sinh dự tuyển đào tạo trình độ đại học chính quy tuyển mới trong trường Công an?",
+      "options": [
+        "Bảo đảm các điều kiện theo quy định của pháp luật và của Bộ Giáo dục và Đào tạo",
+        "Có đủ tiêu chuẩn về chính trị, phẩm chất đạo đức, sức khoẻ tuyển vào Công an nhân dân theo quy định hiện hành của Bộ Công an",
+        "Kết quả học tập, rèn luyện trong những năm học ở cấp trung học phổ thông đạt loại giỏi",
+        "Có khả năng giữ bình tĩnh, nhanh nhẹn, có trí nhớ tốt, tư duy logic"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 56,
+      "type": "multiple_choice",
+      "question": "Cho thông tin sau: “Ngày (...), chính quyền Trung Quốc huy động lực lượng lớn tiến công sang lãnh thổ Việt Nam; phối hợp bộ binh, xe tăng, xe bọc thép và pháo binh đánh chiếm một số thị xã, tàn phá cơ sở hạ tầng, bệnh viện, trường học,... gây nhiều tổn thất về người và tài sản ở các tỉnh dọc biên giới phía Bắc nước ta, từ Quảng Ninh đến Lai Châu”.\nThông tin cần điền vào chỗ (.....) trong câu trên là:",
+      "options": [
+        "17-02-1978",
+        "17-3-1978",
+        "17-02-1979",
+        "17-3-1979"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 57,
+      "type": "multiple_choice",
+      "question": "Quân hiệu của Quân đội nhân dân Việt Nam có những loại đường kính nào dưới đây được dập liền với cành tùng kép màu vàng?",
+      "options": [
+        "Đường kính 33mm và 36mm",
+        "Đường kính 41mm và 33mm",
+        "Đường kính 35 mm và 36mm",
+        "Đường kính 41mm và 36mm"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 58,
+      "type": "multiple_choice",
+      "question": "Theo quy định về công tác tuyển sinh trình độ đại học, cao đẳng hệ chính quy vào các trường trong quân đội thí sinh phải bảo đảm tiêu chuẩn về văn hoá (tính đến thời điểm xét tuyến) như thế nào?",
+      "options": [
+        "Đã tốt nghiệp Trung học cơ sở theo quy định của Bộ Giáo dục và Đào tạo.",
+        "Đã tốt nghiệp Trung học phổ thông theo quy định của Bộ Giáo dục và Đào tạo.",
+        "Đã tốt nghiệp trình độ trung cấp theo quy định của Bộ Giáo dục và Đào tạo.",
+        "Phải có bằng tốt nghiệp Trung học phổ thông (chính thức) theo quy định của Bộ Giáo dục và Đào tạo."
+      ],
+      "answer": 1
+    },
+    {
+      "id": 59,
+      "type": "multiple_choice",
+      "question": "Một trong những chức năng, nhiệm vụ của Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao trực thuộc Bộ Công an là?",
+      "options": [
+        "tham mưu, hướng dẫn và thực hiện các biện pháp nghiệp vụ trong phòng ngừa, phát hiện, điều tra, xử lí các tội phạm về trật tự xã hội",
+        "tham mưu, hướng dẫn và thực hiện quản lí hành chính về phòng cháy, chữa cháy",
+        "tham mưu, hướng dẫn và thực hiện quản lí nhà nước về an ninh mạng",
+        "tham mưu, hướng dẫn và thực hiện quản lí hành chính về trật tự xã hội"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 60,
+      "type": "multiple_choice",
+      "question": "Việc phân bổ chỉ tiêu tuyển sinh vào các trường đào tạo thuộc hệ thống trường công an nhân dân do ai quyết định?",
+      "options": [
+        "Bộ trưởng Bộ Giáo dục & Đào tạo.",
+        "Bộ trưởng Bộ Quốc phòng.",
+        "Bộ trưởng Bộ Công an.",
+        "Cục trưởng cục Khảo thí."
+      ],
+      "answer": 2
+    },
+    {
+      "id": 61,
+      "type": "multiple_choice",
+      "question": "Cho thông tin sau: “Trong cuộc chiến đấu bảo vệ biên giới phía Bắc của Tổ quốc, đến ngày (....), về cơ bản, Trung Quốc đã rút quân khỏi nước ta”. Thông tin cần điền vào chỗ (.....) trong câu trên là:",
+      "options": [
+        "15-3-1979",
+        "16-3-1979",
+        "17-3-1979",
+        "18-3-1979"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 62,
+      "type": "multiple_choice",
+      "question": "Quân đội nhân dân Việt Nam hiện nay có mấy Quân Đoàn?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 63,
+      "type": "multiple_choice",
+      "question": "Ý nào không đúng về trách nhiệm của công dân đối với sự nghiệp củng cố quốc phòng, an ninh?",
+      "options": [
+        "chủ động tìm hiểu, học tập nắm chắc đường lối, chủ trương của Đảng, chính sách, pháp luật của Nhà nước nói chung.",
+        "tập trung học tập, hạn chế rèn luyện sức khỏe.",
+        "có trách nhiệm trong các hoạt động phụng dưỡng bà mẹ Việt Nam anh hùng.",
+        "tích cực đấu tranh với các âm mưu, thủ đoạn chia rẽ khối đại đoàn kết toàn dân tộc Việt Nam."
+      ],
+      "answer": 1
+    },
+    {
+      "id": 64,
+      "type": "multiple_choice",
+      "question": "Trường đại học nào dưới đây thuộc hệ thống trường Quân đội nhân dân?",
+      "options": [
+        "Trường Đại học phòng cháy – chữa cháy.",
+        "Trường Sĩ quan Pháo binh.",
+        "Trường đại học Cảnh sát nhân dân.",
+        "Trường đại học Kĩ thuật – hậu cần."
+      ],
+      "answer": 1
+    },
+    {
+      "id": 65,
+      "type": "multiple_choice",
+      "question": "Hệ thống cấp bậc của sĩ quan chuyên môn kỹ thuật trong Công an gồm?",
+      "options": [
+        "2 cấp 7 bậc",
+        "3 cấp 11 bậc",
+        "2 cấp 10 bậc",
+        "2 cấp 8 bậc"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 66,
+      "type": "multiple_choice",
+      "question": "Trong cuộc đấu tranh bảo vệ chủ quyền biển, đảo, Việt Nam nhất quán giải quyết các tranh chấp bằng biện pháp:",
+      "options": [
+        "nhất quán với các chủ trương của Đảng và Nhà nước.",
+        "quyết tử cho Tổ quốc quyết sinh.",
+        "hòa bình, phù hợp với luật pháp quốc tế.",
+        "tuyên bố chủ quyền biển đảo."
+      ],
+      "answer": 2
+    },
+    {
+      "id": 67,
+      "type": "multiple_choice",
+      "question": "Trong bối cảnh tình hình Biển Đông còn tiềm ẩn phức tạp, bài học nào từ cuộc chiến đấu bảo vệ biên giới phía Bắc năm 1979 vẫn còn nguyên giá trị?",
+      "options": [
+        "Giữ vững độc lập, tự chủ, kiên quyết bảo vệ chủ quyền lãnh thổ, đồng thời kiên trì giải quyết tranh chấp bằng biện pháp hòa bình.",
+        "Chỉ nên sử dụng sức mạnh quân sự để khẳng định chủ quyền.",
+        "Không cần quan tâm đến vấn đề chủ quyền nếu không ảnh hưởng trực tiếp.",
+        "Dựa hoàn toàn vào các tổ chức quốc tế."
+      ],
+      "answer": 0
+    },
+    {
+      "id": 68,
+      "type": "multiple_choice",
+      "question": "Nhân ngày Thương binh – Liệt sĩ 27/7, người dân thường dâng hương, dâng hoa cho các anh hùng liệt sĩ tại nghĩa trang liệt sĩ ở địa phương. Đây là hành động",
+      "options": [
+        "tri ân với người có công với đất nước.",
+        "sẵn sàng tham gia bảo vệ vững chắc độc lập, chủ quyền của Tổ quốc.",
+        "học tập, tìm hiểu đường lối, chủ trương của Đảng.",
+        "phụng dưỡng bà mẹ Việt Nam anh hùng."
+      ],
+      "answer": 0
+    },
+    {
+      "id": 69,
+      "type": "multiple_choice",
+      "question": "Một trong những nét chính về nghệ thuật quân sự của cuộc chiến đấu bảo vệ biên giới phía Bắc của Tổ quốc là",
+      "options": [
+        "tác chiến phòng thủ",
+        "xây dựng khu vực phòng thủ",
+        "bảo vệ vững chắc khu vực phòng thủ",
+        "xây dựng thế trận phòng thủ vững chắc"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 70,
+      "type": "multiple_choice",
+      "question": "Giả sử được gọi nhập ngũ vào Lục Quân em sẽ được biên chế vào tổ chức nào và được mang những cấp hiệu gì đầu tiên khi nhập ngũ?",
+      "options": [
+        "Quân chủng Lục quân và mang cấp hiệu binh sĩ.",
+        "Quân chủng Lục quân và mang cấp hiệu binh nhất.",
+        "Quân chủng Lục quân và mang cấp hiệu hạ sĩ.",
+        "Quân chủng Lục quân và mang cấp hiệu binh nhì."
+      ],
+      "answer": 3
+    },
+    {
+      "id": 71,
+      "type": "multiple_choice",
+      "question": "Nội dung nào sau đây không phản ánh đúng tiêu chuẩn và điều kiện tuyển chọn vào Công an nhân dân?",
+      "options": [
+        "Trung thành với Tổ quốc, có phẩm chất, tư cách đạo đức tốt.",
+        "Có lí lịch bản thân và gia đình rõ ràng.",
+        "Thí sinh dự thi là học sinh THPT có tuổi đời không quá 25.",
+        "Có nguyện vọng phục vụ trong lực lượng Công an"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 72,
+      "type": "multiple_choice",
+      "question": "Cho thông tin sau: “Một trong những yêu cầu đối với công tác tuyển sinh, đào tạo trong các trường Quân đội, Công an là: tổ chức tuyển sinh (...); tạo đồng thuận của thí sinh, gia đình thí sinh và xã hội”.\nHãy điền vào chỗ (....) trong câu trên:",
+      "options": [
+        "đúng pháp luật, dân chủ, công khai, minh bạch, chính xác, công bằng",
+        "đúng quy chế, dân chủ, công khai, minh bạch, chính xác, công bằng",
+        "đúng quy định, dân chủ, công tâm, công khai, công bằng, minh bạch",
+        "đúng hướng dẫn, công tâm, công khai, công minh, công bằng, chính xác"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 73,
+      "type": "multiple_choice",
+      "question": "Khi dự thi vào các nhà trường Công an, nếu không trúng tuyển, thí sinh có quyền lợi gì?",
+      "options": [
+        "Không được lấy kết quả thi tuyển để xét duyệt vào các trường đại học khối dân sự.",
+        "Được xét tuyển thẳng vào các trường đào tạo công an nhân dân khối trung cấp.",
+        "Được lấy kết quả thi để xét duyệt vào các trường đại học, cao đẳng khối dân sự.",
+        "Được bảo lưu kết quả thi tuyển để xét duyệt vào các đợt tuyển sinh năm sau."
+      ],
+      "answer": 2
+    },
+    {
+      "id": 74,
+      "type": "multiple_choice",
+      "question": "Quan sát những cấp hiệu công an dưới đây và cho biết nó thuộc cấp bậc gì?",
+      "options": [
+        "Thiếu tá – Thượng tá – Đại úy",
+        "Thiếu tá – Đại úy – Thượng tá",
+        "Đại úy – Thượng tá – Thiếu tá",
+        "Đại úy – Thiếu tá – Thượng tá"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 75,
+      "type": "multiple_choice",
+      "question": "Bố An là bộ đội Lục quân. Bố đeo cấp hiệu như hình sau, theo em cấp hiệu của Bố An là gì?",
+      "options": [
+        "Trung tướng",
+        "Trung úy",
+        "Trung sĩ",
+        "Trung tá"
+      ],
+      "answer": 3
+    }
+  ]
+}

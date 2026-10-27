@@ -154,12 +154,15 @@ function parseExam(input) {
         const parsed = parseHeading(input.slice(event.start, end));
         if (!parsed) continue;
 
-        const { id, content } = parsed;
+        const originalId = parsed.id;
+        const id = questions.length + 1;
+        const { content } = parsed;
         const result = parseOptions(content, id);
         const type = determineType(result.options, id);
 
         const question = {
             id,
+            originalId,
             type,
             question: result.question,
             options: result.options,
@@ -169,7 +172,6 @@ function parseExam(input) {
         questions.push(question);
     }
 
-    questions.sort((a, b) => a.id - b.id);
     blocks.forEach(block => {
         block.includes.sort((a, b) => a - b);
     });
@@ -184,7 +186,7 @@ async function inputAnswers(questions) {
             const labels = q.options.map(option => option.label);
             const marked = q.answer.map(index => labels[index]);
 
-            console.log(`\nQuestion ${q.id}: ${q.question}`);
+            console.log(`\nQuestion ${q.originalId} (${q.id}): ${q.question}`);
 
             q.options.forEach(option => {
                 console.log(`  ${option.label}. ${option.text}`);
