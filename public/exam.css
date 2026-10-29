@@ -102,11 +102,11 @@ main {
     vertical-align: -0.3em;
 }
 
-.question-block::not(:has(img))::before {
+.question-block:not(:has(img))::before {
     content: "\201C"; /* “ */
 }
 
-.question-block::not(:has(img))after {
+.question-block:not(:has(img))::after {
     content: "\201D"; /* ” */
 }
 .question-block img {
