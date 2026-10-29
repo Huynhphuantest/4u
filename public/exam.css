@@ -110,8 +110,8 @@ main {
     content: "\201D"; /* ” */
 }
 .question-block img {
-    width: 60%;
-    height: 60%;
+    width: 90%;
+    height: 90%;
     object-fit: contain;
 }
 @-moz-document url-prefix() {
