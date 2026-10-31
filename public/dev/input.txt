@@ -1,225 +1,298 @@
-Câu 1: Chất béo là ester được tạo bởi :
-	A. Glicerol với acetic acid.			B. Glicerol với các acid béo.
-	C. Alcohol ethylic với acid béo.		D. Các phân tử  aminoacid.
-Câu 2: C4H11N có số đồng phân amin bậc 1 là
-	A. 5			B. 3			C. 4			D. 2
-Câu 3: Công thức chung tổng quát của ester tạo bởi acid đơn chức no mạch hở và alcohol đơn chức no mạch hở là :
-	A. CnH2nO2 (n ≥ 2)				B. CnH2n+2O2 ( n ≥ 2)
-	C. CnH2n-2O2 ( n ≥ 4)			D. CnH2nO2 ( n ≥ 3)
-Câu 4: Thuỷ phân lipid trong môi trường kiềm thì thu được alcohol nào trong các alcohol sau?
-	A. CH2(OH)-CH2-CH2OH		B. CH2(OH)-CH2OH.
-	C. CH2(OH)CH(OH)CH2OH.	D. CH2(OH)-CH(OH)-CH3
-Câu 5: Celulose thuộc loại :
-	A. Disaccharide		B. este		C. Polysaccharide.	    D. Monosaccharide.
-Câu 6: Một số ester được dùng trong hương liệu, mỹ phẩm, bột giặt là nhờ các ester
-	A. là chất lỏng dễ bay hơi
-	B. có mùi thơm, an toàn với người
-	C. có thể bay hơi nhanh sau khi sử dụng
-	D. dều có nguồn gốc từ thiên nhiên
-Câu 7: Phát biểu nào sau đây không đúng ?
-	A. Hydro hóa dầu thực vật lỏng sẽ tạo thành các mỡ động vật rắn
-	B. Dầu thực vật chủ yếu chứa các acid béo không no, tồn tại ở trạng thái lỏng
-	C. Mỡ động vật chủ yếu cấu thành từ các acid béo, no, tồn tại ở trạng thái rắn
-	D. Chất béo nhẹ hơn nước và không tan trong nước
-Câu 8: Điều khẳng định nào sau đây không đúng?
-	A. Glucose và fructose là hai chất đồng phân của nhau
-	B. Glucose và fructose đều tham gia phản ứng tráng bạc
-	C. Glucose và fructose đều làm mất màu nước bromine
-	D. Glucose và fructose đều tác dụng với Cu(OH)2/ NaOH
-Câu 9: Đường saccharose (đường mía) thuộc loại saccharide nào?
-	A. Monosaccharide.		B. Polysaccharide.	C. Oligosaccharide      D. Disaccharide.
-Câu 10: Công thức cấu tạo của alanine là
-	A. H2N – CH2 – COOH.			B. H2N – CH2 – CH2 – COOH.
-	C. C6H5NH2.					D. CH3 – CH(NH2)– COOH.
-Câu 11: Ứng dụng nào dưới đây không phải là ứng dụng của glucose?
-	A. Nguyên liện sản xuất P.V.C
-	B. Làm thực phẩm dinh dưỡng và thuốc tăng lực.
-	C. Tráng gương , tráng phích (bình thủy).
-	D. Nguyên liệu sản xuất alcohol ethylic.
-Câu 12: Methyl acetate là tên gọi của hợp chất :
-	A. C2H5COOCH3		B. C2H5COOH	C. HCOOC3H7           D. CH3COOCH3
-Câu 13: Tinh bột và cellulose khác nhau ở chỗ :
-	A. Độ tan trong nước		B. Về cấu trúc mạch phân tử
-	C. Về thành phần phân tử		D. Đặc trưng của phản ứng thuỷ phân
-Câu 14: Saccarozơ là một đisaccarit được cấu tạo bởi:
-	A. 1 gốc α-glucose và 1 gốc α-fructose		B. 1 gốc β-glucose và 1 gốc β-fructose
-	C. 1 gốc α-glucose và 1 gốc β-fructose		D. 1 gốc β-glucose và 1 gốc α-fructose
-Câu 15: Đun nóng ester X có CTPT C4H8O2 trong dd NaOH thu được muối sodium và alcohol methylic. vậy X có CTCT là :
-	A. CH3COOC2H5			B. HCOOCH(CH3)2	
-	C. CH3CH2COOCH3		D. HCOOCH2CH2CH3
-Câu 16: Dung dịch saccarose tinh khiết không có tính khử nhưng khi đun nóng với dung dịch H2SO4 lại có thể cho phản ứng tráng bạc. Đó là do
-	A. Saccharose bị thuỷ phân tạo thành glucose và fructose.
-	B. Đã có sự tạo thành aldehyde sau phản ứng.
-	C. Saccharose tráng bạc được trong môi trường acid.
-	D. Saccharose bị chuyển thành maltose có khả năng tráng bạc.
-Câu 17: Công thức phân tử tổng quát amine no đơn chức mạch hở là
-	A. CnH2n+3N		B. CnH2n-1NH2	C. CnH2n+1NH2	D. CnH2n+1N
-Câu 18: C6H5NH2 là công thức phân tử của :
-	A. Alanine	B. Ethylamine	C. Aniline	D. Methyl Amine
-Câu 19: Nhận xét nào sau đây không đúng về tinh bột?
-	A. Thủy phân hoàn toàn cho glucose
-	B. Có phản ứng tráng bạc
-	C. Là hỗn hợp của hai polysaccharide: amylose và amylopectin
-	D. Là chất rắn màu trắng, vô định hình
-Câu 20: Chất lỏng hoà tan được cellulose là :
-	A. Ether.	B. Nước Schweizer’s.	C. Benzene		D. Ethanol.
-Câu 21: Để chứng minh amino acid là hợp chất lưỡng tính ta có thể dùng phản ứng của chất này với
-	A. Dung dịch KOH và CuO		B. Dung dịch KOH và dung dịch HCl
-	C. Dung dịch NaOH và dung dịch NH3	D. Dung dịch HCl và dung dịch Na2SO4
-Câu 22: Điền từ thích hợp vào chỗ trống trong câu sau: Sự kết tủa protein bằng nhiệt được gọi là......................protein.
-	A. Sự đông tụ.	B. Sự phân hủy	C. Sự trùng ngưng		D. Sự ngưng tụ
-Câu 23: Thuỷ tinh hữu cơ có thể được điều chế từ monome nào sau đây?
-	A. Acid acrylic	B. Ethylene.		C. methyl methacrylate.	D. methacrylic acid.
-Câu 24: Trong các chất sau , chất nào làm quì tím chuyển sang màu hồng :
-	A. H2N-CH2-COOH					B. HOOC-CH2-CH2-CH(NH2)-COOH
-	C. H2N-CH2-CH2-CH(NH2)-COOH		D. CH3-CH2-NH2
-Câu 25: Phát biểu nào dưới đây về protein là không đúng?
-	A. Protein là những polypeptide cao phân tử (phân tử khối từ vài chục ngàn đến vài triệu đvC).
-	B. Protein đơn giản là những protein được tạo thành chỉ từ các gốc - và - aminoaxit.
-	C. Protein phức tạp là những protein được tạo thành từ protein đơn giản và lipide, carbohydrate, Nucleic acid...
-	D. Protein có vai trò là nền tảng về cấu trúc và chức năng của mọi sự sống .
-Câu 26: Chất tác dụng với Cu(OH)2 tạo sản phẩm có màu tím là:
-	A. Acetaldehyde.		B. peptide.		C. Cellulose.		D. Tinh bột.
-Câu 27: Dãy chất được sắp xếp theo chiều nhiệt độ sôi của các chất tăng dần là :
-	A. CH3COOH,CH3CH2CH2OH CH3COOC2H5	
-	B. CH3CH2CH2OH , CH3COOH, CH3COOC2H5
-	C. CH3COOH, CH3COOC2H5, CH3CH2CH2OH	
-	D. CH3COOC2H5,CH3CH2CH2OH,CH3COOH
-Câu 28: Để tổng hợp các protein từ các , người ta dùng phản ứng:
-	A. Trùng hợp		B. Trùng ngưng		C. Trung hoà		D. Ester hoá.
-Câu 29: Chất béo là ester được tạo bởi :
-A. Các phân tử  aminoacid.	B. Alcolhol ethylic với acid béo.
-C. Glycerol với acetic acid.	D. Glycerol với các acid béo.
-Câu 30: Nguyên liệu chứa hàm lượng cellulose lớn nhất là :
-A. Sợi đay.	B. Sợi tơ tằm.	C. Sợi gai.	D. Sợi bông.
-Câu 31: Khi thuỷ phân tinh bột trong môi trường acid vô cơ, sản phẩm cuối cùng là
-A. glycerol.	B. Fructose.	C. Saccharose.	D. Glucose.
-Câu 32: Cellulose được cấu tạo bởi các gốc:
-A. β-glucose.	B. β-fructose.
-C. β-fructose.	D. β-glucose.
-Câu 33: Thuốc thử để nhận biết tinh bột là :
-A. Cu(OH)2.	B. AgNO3/NH3.	C. I2.	D. Br2.
-Câu 34: Hợp chất đường chiếm thành phần chủ yếu trong mật ong là :
-A. Saccharose.	B. Glucose.	C. Fructose.	D. Maltose.
-Câu 35: Công thức chung của Carbohydrate là
-A. Cn(H2O)m.	B. (C6H10O5)n.	C. CnH2nOn.	D. C6H12O6.
-Câu 36: Trong công nghiệp để sản xuất ruột phích nước, người ta đã sử dụng chất nào để phản ứng với AgNO3 trong NH3 ?
-A. Acethylene.	B. formaldehyde.
-C. Glucose.	D. Saccharose.
-Câu 37: Glucose có đầy đủ tính chất hoá học của :
-A. alcohol đơn chức và aldehyde đa chức.	B. alcohol đa chức và aldehyde đa chức.
-C. alcohol đa chức và aldehyde đơn chức.	D. alcohol đơn chức và aldehyde đơn chức.
-Câu 38: Để phân biệt glucose và fructose, ta có thể dùng thuốc thử là
-A. Nước vôi trong.	B. Nước brom.	C. AgNO3/NH3.	D. dung dịch NaOH.
-Câu 39: Trong máu người luôn chứa một tỉ lệ glucose không đổi là :
-A. 0,01%.	B. 0,1%.	C. 1%.	D. 10%.
-Câu 40: Đường saccharose (đường mía) thuộc loại saccharide nào?
-A. Polysaccharide.	B. Oligosaccharide.
-C. Disaccharide.	D. Monosaccharide.
-Câu 41: Công thức của triolein là:
-A. (CH3[CH2]7CH=CH[CH2]5COO)3C3H5.
-B. (CH3[CH2]16COO)3C3H5.
-C. (CH3[CH2]7CH=CH[CH2]7COO)3C3H5.
-D. (CH3[CH2]14COO)3C3H5.
-Câu 42: Sobitol có cấu tạo :
-A. HOCH2[CH(OH)]4CHO.	B. HOCH2[CH(OH)]4 CH2OH.
-C. HOCH2[CH(OH)]3COCH2OH.	D. HO CH2[CH(OH)]4 COOH.
-Câu 43: Chất được dự trữ trong gan :
-A. Glycogene.	B. Maltose.	C. Glucose.	D. Saccharose.
-Câu 44: Cho phản ứng xà phòng hoá sau :
-(C17H35COO)3C3H5 + 3NaOH    →     3C17H35COONa + C3H5(OH)3
-Trong các chất trên chất nào được coi là xà phòng
-A. (C17H35COO)3C3H5	B. C3H5(OH)3.
-C. NaOH.	D. C17H35COONa.
-Câu 45: Saccharide nào sau đây không bị thuỷ phân ?
-A. Glucose.	B. Saccarose.	C. Mantose.	D. Tinh bột.
-Câu 46: Amilopectin là thành phần của :
-A. protein.	B. tecpen.	C. tinh bột.	D. cellulose.
-Câu 47: Dầu mỡ (chất béo) để lâu ngày bị ôi thiu là do
-A. Chất béo bị oxi hoá chậm trong không khí tạo thành aldehyde có mùi.
-B. Chất béo bị thuỷ phân với nước trong không khí.
-C. Chất béo vữa ra.
-D. Chất béo bị oxygen và nitrogenkhông khí chuyển thành amino acid có mùi khó chịu.
-Câu 48: Phản ứng thủy phân ester trong môi trường kiềm khi đun nóng được gọi là :
-A. Crackinh.	B. Xà phòng hóa.	C. Sự lên men.	D. Hydrate hóa.
-Câu 49. Số đồng phân amine bậc một ứng với công thức phân tử C3H9N là
-	A. 4.	B. 3.	C. 2.	D. 5.
-Câu 50. Trong các chất dưới đây, tên nào phù hợp với chất CH3–CH(CH3)–NH2?
-	A. Methylethylamine.		B. Ethylmethylamine.	
-	C. Isopropanamine.		D. Isopropylamine.
-Câu 51. Tính base của các chất tăng dần theo thứ tự:
-	A. C6H5NH2; NH3; CH3NH2; (CH3)2NH             B. NH3; CH3NH2; (CH3)2NH; C6H5NH2
-	C. (CH3)2NH; CH3NH2; NH3; C6H5NH2            D. NH3; C6H5NH2; (CH3)2NH; CH3NH2
-Câu 52. Có 3 chất lỏng benzene, aniline, styrene, đựng riêng biệt trong 3 lọ mất nhãn. Thuốc thử để phân biệt 3 chất lỏng trên là
-	A. dung dịch phenolphtaleine.	B. nước bromine.
-	C. dung dịch NaOH.	D. giấy quì tím.
-Câu 53. Aniline (C6H5NH2) và phenol (C6H5OH) đều có phản ứng với
-	A. dung dịch NaCl.	B. dung dịch HCl.	C. nước Br2.         D. dung dịch NaOH.
-Câu 54. Phát biểu về amino acid không đúng là
-	A. Amino acid là hợp chất hữu cơ tạp chức, phân tử chứa đồng thời nhóm amino và carboxyl.
-	B. Hợp chất H2NCOOH là amino acid đơn giản nhất
-	C. Amino acid ngoài dạng phân tử (H2NRCOOH) còn có dạng ion lưỡng cực (H3N+RCOO-).
-	D. Thông thường dạng ion lưỡng cực là dạng tồn tại chính của amino acid.
-Câu 55. Alanine có công thức là
-	A. H2N–CH2CH2COOH.		B. C6H5–NH2.      
-	C. CH3CH(NH2)–COOH.    	D. H2N–CH2COOH.
-Câu 56. Cho dãy các chất: C6H5NH2 (aniline), H2NCH2COOH, CH3CH2COOH, CH3CH2CH2NH2, C6H5OH (phenol).  Số chất trong dãy tác dụng được với dung dịch HCl là
-	A. 4.	B. 2.	C. 3.	D. 5.
-Câu 1. Tiến hành thí nghiệm theo các bước sau:
-Bước 1: Cho vào cốc thủy tinh chịu nhiệt khoảng 5 gam mỡ lợn và 10 mL dung dịch NaOH 40%.
-Bước 2: Đun sôi nhẹ hỗn hợp, liên tục khuấy đều bằng đũa thủy tinh khoảng 30 phút và thỉnh thoảng thêm nước cất để giữ cho thể tích hỗn hợp không đổi. Để nguội hỗn hợp.
-Bước 3: Rót thêm vào hỗn hợp 15 – 20 mL dung dịch NaCl bão hòa nóng, khuấy nhẹ. Để yên hỗn hợp.
-Cho các phát biểu sau:
-a. Sau bước 3 thấy có lớp chất rắn màu trắng chứa muối sodium của acid béo nổi lên.
-b. Ở bước 2, nếu không thêm nước cất, hỗn hợp bị cạn khô thì phản ứng thủy phân không xảy ra.
-c. Ở bước 1, nếu thay mỡ lợn bằng dầu mỡ bôi trơn máy thì hiện tượng thí nghiệm sau bước 3 vẫn xảy ra tương tự.
-d. Trong công nghiệp, phản ứng ở thí nghiệm trên được ứng dụng để sản xuất xà phòng và glycerol.
-Câu 2. Propyl ethanoate có mùi đặc trưng của quả lê, còn methyl butanoate có mùi đặc trưng của quả táo.
-a. Propyl ethanoate và methyl butanoate đều là ester no, đa chức và mạch hở.	
-b. Công thức cấu tạo của propyl ethanoate và methyl butanoate lần lượt là: CH3COOCH2CH2CH3; CH3CH2CH2COOCH3.					
-c. Phổ IR của propyl ethanoate và methyl butanoate có số sóng hấp thụ đặc trưng của liên kết C=O và liên kết O–H.
-d. Thủy phân hoàn toàn propyl ethanoate và methyl butanoate trong môi trường base thu được muối và alcohol.
-Câu 3. Cho các phát biểu sau:
-a. Cellulose là chất rắn dạng sợi, màu trắng, không tan trong nước.
-b. Amylopectin có cấu trúc mạch phân nhánh.
-c. Phân tử cellulose được tạo thành từ các đơn vị α-glucose.
-d. Thủy phân hoàn toàn cellulose chỉ thu được 1 monosaccharide.
-Câu 4. Cho các phát biểu sau:
-a. Fructose có nhiều trong mật ong.
-b. Tinh bột là chất rắn màu xanh lam ở nhiệt độ thường.
-c. Thủy phân hoàn toàn tinh bột thu được glucose.
-d. Trong dung dịch NH3, glucose oxi hóa AgNO3 thành Ag.
-[
-Câu 5. Cho các thông tin trong bảng sau:
-a. Ba chất trên là đồng phân cấu tạo của nhau vì có cùng phân tử khối.	
-b. Acid CH3COOH có nhiệt độ sôi cao nhất do các phân tử liên kết hydrogen với nhau.		
-c. Nhiệt độ sôi của các chất tăng dần theo thứ tự như sau: CH3CH2CH2OH, HCOOCH3, CH3COOH.
-d. Ester HCOOCH3 có nhiệt độ sôi thấp nhất do không tạo được liên kết hydrogen với nhau.
-]
-Câu 6. Cho các phát biểu sau:
-a. Nhỏ dung dịch I2 vào mặt cắt quả chuối xanh thấy xuất hiện màu xanh tím.
-b. Trong cây xanh, tinh bột được tổng hợp nhờ phản ứng quang hợp.
-c. Tinh bột là chất rắn, dạng sợi, màu trắng, không mùi vị.
-d. Trong phân tử cellulose, mỗi gốc C6H10O5 có ba nhóm OH.
-Câu 7. Mùi tanh của cá chủ yếu được gây nên bởi một số amine, nhiều nhất là trimethylamine. 
-a. Trimethylamine là một amine bậc III.
-b. Công thức phân tử của trimethylamine là C3H7N.
-c. Để khử mùi tanh của cá nên rửa cá với giấm ăn.
-d. Tên gọi khác của trimethylamine là propan-1-amine.
-Câu 8. Tiến hành hai thí nghiệm sau:
-Thí nghiệm 1: Cho vào ống nghiệm (1) 5 giọt dung dịch FeCl3 3%. Vừa lắc vừa thêm từ từ đến hết 2 mL dung dịch ethylamine 5% vào ống nghiệm (1).
-Thí nghiệm 2: Cho vào ống nghiệm (1) 5 giọt dung dịch CuSO4 5%. Vừa lắc vừa thêm từ từ đến hết 4 mL dung dịch ethylamine 5% vào ống nghiệm (2).
-a. Kết thúc thí nghiệm 1, thu được kết tủa màu nâu đỏ. 
-b. Kết thúc thí nghiệm 1, thu được kết tủa màu xanh lam.
-c. Thí nghiệm 2 chứng tỏ ethylamine có khả năng tạo phức chất với một số ion kim loại.
-d. Thí nghiệm 1 chứng tỏ ethylamine có tính base.
-[
-Câu 9. Trong dung dịch, tồn tại cân bằng hóa học giữa ion lưỡng cực với các dạng ion của glycine như sau:
-H3N+ – CH2 – COOH		H3N+ – CH2 – COO–			H2N – CH2 – COO–
-Dạng cation		Dạng ion lưỡng cực			Dạng anion
-Glycine có khả năng di chuyển khác nhau trong điện trường tùy thuộc vào pH của môi trường.
-a. Trong môi trường acid mạnh (pH khoảng 1 – 2), glycine tồn tại chủ yếu ở dạng cation, bị di chuyển về phía cực dương dưới tác dụng của điện trường.				
-b. Ở pH khoảng 6, glycine tồn tại chủ yếu ở dạng ion lưỡng cực, không bị di chuyển trong điện trường.	
-c. Ở pH lớn hơn 10, glycine tồn tại chủ yếu ở dạng anion, bị di chuyển về phía cực âm dưới tác dụng của điện trường.
-d. Tính chất này của glycine được gọi là tính chất lưỡng tính.
-]
+
+Câu 1. Ngày 1-1-1946, có bao nhiêu nước chống phát xít kí bản Tuyên bố Liên hợp quốc?
+A. 30 nước. 		B. 26 nước. 		C. 15 nước. 		D. 20 nước.
+Câu 2. Tại Hội nghị Tê-hê-ran, ba nước nào khẳng định quyết tâm thành lập Liên hợp quốc?
+A. Liên Xô, Mỹ, Trung Quốc.		B. Nga, Pháp, Việt Nam.
+C. Liên Xô, Anh, Nhật Bản.		D. Liên Xô, Mỹ, Anh.
+Câu 3. Lễ kí Hiến chương Liên hợp quốc được tổ chức tại?
+A. Xan Phran-xi-xcô (Mỹ).	B. I-an-ta (Liên Xô).	C. Tê-hê-ran (I-ran).	D. Niu Oóc (Mỹ).
+Câu 4. Ngày 24-10-1945, Liên hợp quốc chính thức được thành lập với bao nhiêu nước thành viên tham gia?
+A. 51 nước.		B. 26 nước.		C. 40 nước.		D. 50 nước.
+Câu 5. Mục tiêu quan trọng nhất và là cơ sở để thực hiện các mục tiêu khác của Liên hợp quốc là
+A. thúc đẩy quan hệ hữu nghị giữa các dân tộc.	B. thúc đẩy hợp tác quốc tế.
+C. trung tâm điều hòa các nỗ lực quốc tế.		D. duy trì hòa bình và an ninh quốc tế.
+Câu 6. Tuyên ngôn Nhân quyền được Đại hội đồng Liên hợp quốc thông qua vào:
+A. năm 2000.		B. năm 2015.		C. năm 1951.		D. năm 1948.
+Câu 7. Hội nghị nào đã đặt nền tảng cho sự ra đời của tổ chức Liên hợp quốc?
+A. Hội nghị I-an-ta.		B. Hội nghị Xan Phran-xi-xcô.	
+C. Hội nghị Pốt-xđam.	D. Hội nghị Pa-ri.
+Câu 8. Tổ chức nào dưới đây là tiền thân của tổ chức Liên hợp quốc ngày nay?
+A. Liên minh tiến bộ quốc tế.		B. Đệ tam quốc tế.
+C. Hội quốc Liên.				D. Khối đồng minh chống phát xít.
+Câu 9. Ngày 1/1/1942, đại diện của 26 nước đã ký văn kiện nào sau đây?
+A. Tuyên bố về Liên hợp quốc.		B. Thành lập khối Liên minh.
+C. Xoa bỏ hệ thống thuộc địa.		D. Chấm dứt Chiến tranh lạnh.
+Câu 10. Mục tiêu và nguyên tắc hoạt động của Liên hợp quốc được quy định bởi văn kiện nào?
+A. Hiến chương.	B. Hiến pháp.		C. Tuyên ngôn.	D. Hiệp định.
+Câu 11. Đâu là một trong những nội dung của mục tiêu, hành động mang tính toàn cầu đến năm 2030 của Liên hợp quốc?
+A. Chống nạn thất nghiệp.				B. Quyền tự do chính trị.
+C. Chống bạo lực gia đình.				D. Chất lượng giáo dục.
+Câu 12. Đâu không phải là mục tiêu của Liên hợp quốc được quy định trong Hiến chương Liên hợp quốc?
+A. Duy trì tăng trưởng kinh tế, hội nhập quốc tế của các nước thành viên và các tranh chấp về kinh tế giữa các nước thành viên.
+B. Thúc đẩy hợp tác quốc tế để giải quyết các vấn đề kinh tế, xã hội, văn hóa, nhân đạo.
+C. Thúc đẩy quan hệ hữu nghị giữa các dân tộc trên cơ sở tôn trọng quyền bình đẳng, quyền tự quyết dân tộc.
+D. Đóng vai trò là trung tâm điều hòa các nỗ lực quốc tế vì những mục tiêu chung.
+Câu 13. Đâu không phải là nguyên tắc cơ bản của Liên hợp quốc?
+A. Bình đẳng về chủ quyền giữa các quốc gia.
+B. Tôn trọng toàn vẹn lãnh thổ và độc lập chính trị quốc gia.
+C. Ưu tiên sử dụng vũ lực về tranh chấp trong quan hệ quốc tế.
+D. Giải quyết các tranh chấp quốc tế bằng biện pháp hòa bình.
+Câu 14. Liên hợp quốc quyết định lấy ngày 24-10 hằng năm làm ngày Liên hợp quốc vì đó là ngày
+A. Kết thúc Chiến tranh lạnh.				B. Bế mạc hội nghị I-an-ta.
+C. Hiến chương Liên hợp quốc có hiệu lực.		D. Khai mạc lễ thành lập Liên hợp quốc.
+Câu 15. Nội dung nào là cơ sở để tổ chức Liên hợp quốc đề ra nguyên tắc “Giải quyết các tranh chấp quốc tế bằng biện pháp hòa bình” ?
+A. Hòa bình là nguyện vọng, xu thế của các dân tộc trên thế giới.
+B. Hòa bình là điều kiện quyết định để duy trì chế độ chính trị.
+C. Mục đích của Liên hợp quốc là cân bằng lợi ích của các nước.
+D. Tranh chấp, xung đột xảy ra ở hầu hết các khu vực trên thế giới.
+Câu 1: Đọc đoạn tư liệu sau đây:
+   “Duy trì hòa bình và an ninh quốc tế, và để biểu đạt được mục đích đó, thi hành những biện pháp tập thể có hiệu quả để phòng ngừa và loại trừ các mối đe dọa hòa bình, cấm mọi hành vi xâm lược và phá hoại hòa bình khác; điều chỉnh hoặc giải  quyết các vụ tranh chấp hoặc những tình thế có tính chất quốc tế có thể đưa đến sự phá hoại hòa bình, bằng biện pháp hòa vình theo đúng nguyên tắc của công lí và pháp luật quốc tế”.
+(Trích: Điều 1, Hiến chương Liên hợp quốc, ngày 24-10-1945)
+a) Đoạn tư liệu thể hiện mục tiêu của Liên hợp quốc là thúc đẩy duy trì hòa bình và hợ tác quốc phòng nhằm đảm bảo nền hòa bình thế giới.
+b) Để thúc đẩy giải quyết các tranh chấp giữa các quốc gia thành viên, Liên Hợp quốc khuyến khích thông qua các văn bản pháp lý của mỗi nước làm cơ sở để giải quyết.
+c) Trong số các mục tiêu của Liên hợp quốc, duy trì hòa bình và an ninh quốc tế là mục tiêu được đặt lên hàng đầu.
+d) Ngày nay, Liên hơp quốc vẫn tiếp tục thúc đẩy mục tiêu giải quyết các vụ tranh chấp, xung đột quốc tế bằng biện pháp hòa bình.
+Câu 2. Đọc đoạn tư liệu dưới đây:
+[Năm 1960], “Đại hội đồng Liên hợp quốc đã thông qua bản Tuyên ngôn về thủ tiêu hoàn toàn chủ nghĩa thực dân, trao trả độc lập cho các quốc gia và dân tộc thuộc địa. Đó là một sự kiện chính trị quan trọng. Như thế, tuyên ngôn đã khẳng định các nước thực dân đã vi phạm nguyên tắc quan trọng nhất của luật pháp quốc tế; khẳng định rõ ràng cơ sở pháp lí quốc tế của cuộc đấu tranh giành độc lập của các dân tộc bị áp bức”.
+(Nguyễn Quốc Hùng, Nguyễn Hồng Quân, Liên hợp quốc và Lực lượng gìn giữ hoà bình Liên hợp quốc, NXB Chính trị quốc gia, Hà Nội, 2008, tr.46)
+a) Tuyên ngôn về thủ tiêu hoàn toàn chủ nghĩa thực dân của Liên hợp quốc đã góp phần nói lên nguyện vọng của các dân tộc bị áp bức . 
+b) Tuyên ngôn về thủ tiêu hoàn toàn chủ nghĩa thực dân (năm 1960) của Liên hợp quốc đã tạo ra cơ sở pháp lí cho các cuộc đấu tranh giành độc lập của nhân dân các nước Á, Phi, Mỹ La-tinh. 
+c) Tuyên ngôn về thủ tiêu hoàn toàn chủ nghĩa thực dân (năm 1960) đã thông qua các nguyên tắc hoạt động cơ bản của tổ chức Liên hợp quốc.
+d) Đoạn tư liệu đã thể hiện vai trò quan trọng nhất của tổ chức Liên hợp quốc là duy trì, hoà bình, an ninh thế giới. 
+Câu 3. Cho đoạn tư liệu sau đây:
+“Hội đồng Bảo an gồm 15 nước thành viên, trong đó có 5 nước uỷ viên thường trực là: Mỹ, Anh, Pháp, Nga, Trung Quốc và 10 thành viên không thường trực do Đại hội đồng Liên hợp quốc bầu ra với nhiệm kỳ hai năm trên cơ sở phân chia công bằng về mặt địa lý và có tính tới sự đóng góp của những nước này cho tôn chỉ và mục đích của Liên hợp quốc và không được bầu lại nhiệm kỳ kế ngay sau khi mãn nhiệm”
+(Nguồn: Liên hợp quốc (UN),https://tulieuvankien.dangcongsan.vn/ho-so-su-kien-nhan- chung/to-chuc- quoc-te/lien-hop-quoc-un-3283, ra ngày thứ Tư, 10/1/2018 )
+a) Đoạn tư liệu trên đề cập đến vai trò của Hội đồng Bảo an Liên hợp quốc trong việc đảm bảo quyền con người, phát triển văn hóa, xã hội.
+b) Hội đồng Bảo an là cơ quan chuyên môn của Liên hợp quốc giữ vai trò trọng yếu trong việc duy trì hòa bình và an ninh thế giới.
+c) Vị thế của các nước thành viên thường trực Hội đồng Bảo an Liên hợp quốc phản ánh cán cân quyền lực của các cường quốc trong trật tự thế giới sau Chiến tranh thế giới thứ hai.
+d) Theo nguyên tắc nhất trí giữa 5 nước Ủy viên thường trực, một quyết định của Hội đồng Bảo an Liên hợp quốc sẽ chắc chắn được thông qua khi không có nước nào bỏ phiếu chống.
+Câu 1. Hội nghị I-an-ta (2/1945) được tiến hành trong giai đoạn nào của Chiến tranh thế giới thứ hai?
+A. Vừa mới kết thúc.				B. Bùng nổ và lan rộng.
+C. Giai đoạn sắp kết thúc.				D. Đang diễn ra ác liệt.
+Câu 2. “Trật tự thế giới hai cực I-an-ta” sau Chiến tranh thế giới thứ hai bị chi phối bởi hai cường quốc nào?
+A. Mỹ và Đức.	B. Mỹ và Anh.		C. Mỹ và Trung Quốc.	D. Mỹ và Liên Xô.
+Câu 3. Quyết định nào sau đây không phải là của Hội nghị I-an-ta (2/1945)?
+A. Thành lập tổ chức quốc tế là Liên hợp quốc.	B. Thống nhất tiêu diệt chủ nghĩa phát xít.
+C. Hình thành trật tự thế giới mới.			D. Phân chia phạm vi ảnh hưởng.
+Câu 4. Mục tiêu chung được các cường quốc thỏa thuận trong hội nghị I-an-ta (2/1945) là
+A. chấm dứt tình trạng nội chiến ở Trung Quốc, Áo và Phần Lan.
+B. thủ tiêu chủ nghĩa thực dân và chủ nghĩa phân biệt chủng tộc.
+C. xây dựng nước Đức trở thành quốc gia thống nhất và dân chủ.
+D. tiêu diệt tận gốc phát xít Đức và chủ nghĩa quân phiệt Nhật Bản.
+Câu 5. Để tiêu diệt chủ nghĩa quân phiệt Nhật Bản và nhanh chóng kết thúc chiến tranh, hội nghị I-an-ta đã quyết định
+A. Anh, Pháp, Mỹ sẽ tham gia chiến tranh chống Nhật ở châu Âu.
+B. Anh và Liên Xô tiêu diệt lực lượng quân Nhật tại Trung Quốc.
+C. Liên Xô sẽ đánh Nhật ở Châu Á sau khi đánh bại phát xít Đức.
+D. Liên Xô không đưa quân đội tham gia chống Nhật tại Châu Á.
+Câu 6. Một trong những khu vực được hội nghị I-an-ta (1945) quy định thuộc phạm vi ảnh hưởng của Liên Xô là
+A. Tây Âu.		B. Đông Âu.		C. Nhật Bản.			D. Triều Tiên.
+Câu 7. Một trong những khu vực được hội nghị I-an-ta (1945) quy định thuộc phạm vi ảnh hưởng của Mỹ là
+A. Tây Âu.		B. Đông Âu.		C. Mông Cổ.			D. Trung Đông.
+Câu 8. Đâu là ranh giới phân chia phạm vi chiếm đóng Triều Tiên của Mỹ và Liên Xô được Hội nghị I-an-ta (2/1945) quy định?
+A. Vĩ tuyến 38.		B. Sông Áp Lục.	C. Vĩ tuyền 17.	D. Cảng Icheon.
+Câu 9. Trật tự thế giới mới được hình thành sau chiến tranh thế giới thứ hai (1945) là
+A. đơn cực.		B. I-an-ta.		C. Vec-xai.			D. đa cực.
+Câu 10. Theo quyết định của Hội nghị Ianta (2 - 1945), quốc gia nào dưới đây cần trở thành một quốc gia thống nhất và dân chủ?
+A. Mông Cổ.		B. Nhật Bản.		C. Trung Quốc.		D. Triều Tiên.
+Câu 11. Một trong những nguyên nhân sụp đổ của Trật tự hai cực I-an-ta là
+A. Liên Xô mắc sai lầm trong thực hiện chính sách cải tổ và sụp đổ.		
+B. Mỹ trở thành trung tâm kinh tế lớn nhất thế giới.
+C. sự thay đổi trong cán cân kinh tế thế giới.		
+D. hệ thống xã hội chủ nghĩa mở rộng toàn thế giới.
+Câu 12. Những quốc gia nào sau đây tham dự hội nghị I-an-ta (2/1945)?
+A. Liên Xô, Mỹ, Pháp.			B. Liên Xô, Mỹ, Anh.
+C. Trung Quốc, Mỹ, Anh.			D. Liên Xô, Anh, Pháp.
+Câu 13. Liên Xô và Mỹ đẩy mạnh đối thoại hợp tác từ:
+A. nửa sau những năm 80.			B. nửa sau những năm 90.			
+C. nửa đầu những năm 90.			D. nửa đầu những năm 80.
+Câu 14. Năm 1989, tại đảo Man-ta, Mỹ và Liên Xô đã có hành động nào sau đây?
+A. Tuyên bố chung về vũ khí chiến lược.		B. Ký nhiều hiệp định thương mại tự do.
+C. Tuyên bố chấm dứt Chiến tranh lạnh.		D. Cam kết hòa bình giữa Mỹ và Liên Xô.
+Câu 15. Sự kiện nào sau đây đánh dấu trật tự hai cực I-an-ta chấm dứt?
+A. Liên Xô chính thức tan rã (12/1991).		B. Chiến tranh lạnh kết thúc (1989).
+C. Bức tường Béc-lin sụp đồ (1989).		D. Khủng hoảng năng lượng (1973).
+Câu 1. Cho đoạn tư liệu sau đây: 
+“Vào thập niên 1980, mối quan hệ nồng ấm giữa Tổng thống Mỹ Ri-gân và nhà lãnh đạo Liên Xô Goóc-ba-chốp đã giúp giảm dần tình trạng căng thẳng của Chiến tranh lạnh. Năm 1987, hai nhà lãnh đạo đã đồng ý huỷ bỏ tên lửa hạt nhân tầm trung. Năm 1989, Goóc-ba-chốp cho phép các quốc gia xã hội chủ nghĩa ở Đông Âu bầu ra chính phủ dân chủ, và đến năm 1991, Liên Xô tan rã thành 15 nước cộng hoà độc lập. 
+(King Fisher, Bách khoa thư lịch sử (Nguyễn Đức Tĩnh và Ngô Minh Châu dịch), NXB Thế giới, Hà Nội, 2016, tr.437)
+a) Trong thập niên 80 của thế kỉ XX, tình trạng căng thẳng của Chiến tranh lạnh diễn ra gay gắt. 
+b) Đoạn trích trên đề cập đến sự xói mòn và tan rã của trật tự thế giới hai cực I-an-ta. 
+c) Cục diện hai phe kết thúc bắt nguồn từ sự suy giảm tương đối sức mạnh của hai cực trong quan hệ quốc tế. 
+d) Điểm chung của các trật tự thế giới trong thế kỉ XX là đều suy yếu, sup đổ khi có sự hòa hoãn, thỏa hiệp giữa các siêu cường. 
+Câu 2. Cho những thông tin trong bảng sau đây:
+Năm	Nội dung sự kiện
+1949	    • Tổ chức Hiệp ước Bắc Đại Tây Dương (NATO) do Mỹ và các nước phương Tây thành lập
+1949	    • Cách mạng Trung Quốc thắng lợi.
+1955	    • Liên Xô và các nước Đông Âu thành lập Tổ chức Hiệp ước Vác-sa-va.
+1972	    • Chuyến thăm chính thức đầu tiên của Tổng thống Mỹ Ních-xơn tới Liên Xô.
+1972	    • Liên Xô và Mỹ đã đạt được thỏa thuận bước đầu về hạn chế vũ khí tiến công chiến lược.
+1989	    • Mỹ và Liên Xô tuyên bố chấm dứt Chiến tranh lạnh.
+a) Sự ra đời của NATO và Tổ chức Hiệp ước Vác-sa-va là một biểu hiện của Trật tự thế giới hai cực I-an-ta
+b) Với thắng lợi của cách mạng Trung Quốc (1949) chứng tỏ ngay trong giai đoạn xác lập và phát triển, Trật tự thế giới hai cực I-an-ta đã có biểu hiện của sự rạn nứt.
+c) Trật tự thế giới hai cực I-an-ta chính thức sụp đổ khi Mỹ và Liên Xô tuyên bố chấm dứt Chiến tranh lạnh.
+d) Trật tự thế giới hai cực I-an-ta suy yếu khi xu hướng hòa hoãn giữa Mỹ và Liên Xô bắt đầu xuất hiện từ đầu những năm 70 của thế kỉ XX.
+Câu 3. Cho đoạn tư liệu sau đây:
+“Trong trật tự thế giới hai cực I-an-ta, đã diễn ra một cuộc đối đầu gay gắt, quyết liệt và kéo dài tới gần bốn thập kỉ giữa hai “cực” Xô - Mỹ, làm cho cục diện thế giới luôn luôn phức tạp, căng thẳng. Cuộc đối đầu này đã dẫn tới cuộc đối đầu giữa hai khối Đông - Tây, cuốn hút từng quốc gia, từng khu vực quốc gia khó đứng ngoài cuộc đối đầu này và chịu ảnh hưởng sâu sắc của cuộc đối đầu này”. 
+(Nguyễn Anh Thái, Lịch sử thế giới hiện đại từ 1945 đến 1995, quyển A, NXB Đại học Quốc gia Hà Nội, 1999, tr32).
+a) Trong trật tự thế giới hai cực I-an-ta đã diễn ra cuộc đối đầu gay gắt, quyết liệt giữa hai “cực” Xô - Mỹ, làm cho thế giới luôn phức tạp, căng thẳng.
+b) Với trật tự hai cực I-an-ta, Liên Xô và Mỹ đã đạt được những mục tiêu cơ bản, chi phối cục diện thế giới, đồng thời trật tự này đã xâm phạm đến chủ quyền, lãnh thổ và lợi ích của nhiều nước.
+c) Trong sự đối đầu 2 cực I-an-ta, cuộc chiến tranh cục bộ lớn nhất phản ánh mâu thuẫn giữa hai cực, hai phe là chiến tranh xâm lược Đông Dương của Pháp (1945 - 1954).
+d) Sự tồn tại của Trật tự thế giới hai cực I-an-ta gắn liền với sự đối đầu giữa hai hệ thống xã hội đối lập là tư bản chủ nghĩa và xã hội chủ nghĩa.
+Câu 1. Xu thế chủ đạo trong quan hệ giữa các cường quốc sau Chiến tranh lạnh là
+A. đối thoại, thỏa hiệp, tránh xung đột trực tiếp.	B. tôn trọng vai trò của Liên hợp quốc.
+C. hợp tác, không cạnh tranh, không mâu thuẫn.	D. hòa bình, không xung đột, tiến hành hợp tác.
+Câu 2. Sau Chiến tranh lạnh, hầu hết các quốc gia trên thế giới đều điều chỉnh chiến lược phát triển tập trung vào:
+A. Kinh tế.		B. Đối ngoại.		C. Văn hóa.		D. Chính trị.
+Câu 3. “Lấy phát triển kinh tế làm trọng điểm” được xem là nội dung chiến lược chủ yếu của các nước trong thời kỳ
+A. Chiến tranh thế giới thứ hai kết thúc.		B. sau khi cuộc Chiến tranh lạnh kết thúc.
+C. chủ nghĩa xã hội thành hệ thống thế giới.	D. ngay sau khi Chiến tranh lạnh bắt đầu.
+Câu 4. Vì sao sau Chiến tranh lạnh, hầu hết các quốc gia trên thế giới đều điều chỉnh chiến lược phát triển tập trung vào kinh tế?
+A. Tăng cường sức mạnh, tiềm lực quốc gia, nâng cao đời sống của người dân.
+B. Thúc đẩy mạnh mẽ quá trình toàn cầu hóa. 
+C. Tiếp tục khẳng định vị thế quốc gia trên trường quốc tế.
+D. Khẳng định vai trò của quốc gia trong quan hệ quốc tế. 
+Câu 5. Một trong những biểu hiện của xu thế Toàn cầu hóa là
+A. sự gia tăng của thương mại thế giới.		B. mâu thuẫn giữa hai siêu cường Xô, Mỹ.
+C. xu thế hòa hoãn Đông, Tây thế kỷ XX.	D. thế giới đã chia thành hai cực, hai phe.
+Câu 6. Quốc gia nào sau đây nằm trong nhóm G20?
+A. Thái Lan.		B. Việt Nam.		C. Nam Phi.		D. Ai Cập.
+Câu 7. Nội dung nào sau đây phản ánh đúng quan hệ quốc tế trong những năm đầu thế kỉ XXI?
+A. Liên Xô và Mỹ suy giảm sức mạnh, ngày càng chịu sự cạnh tranh của các nước khác.
+B. Các nước có tiềm lực kinh tế, quân sự mạnh đóng vai trò chi phối quan hệ quốc tế.
+C. Trật tự hai cực I-an-ta từng bước được thiết lập, chi phối phần lớn quan hệ quốc tế.
+D. Trung Quốc là cường quốc số 1 thế giới, vươn lên lãnh đạo hệ thống xã hội chủ nghĩa.
+Câu 8. Sau khi Chiến tranh lạnh kết thúc (1989) một trong những khu vực trên thế giới vẫn diễn ra xung đột vũ trang là
+A. Trung Đông.	B. Đông Bắc Á	C. Địa Trung Hải.		D. Châu Nam Cực.
+Câu 9. Một trong những biểu tượng cho sự kết thúc Chiến tranh lạnh là
+A. Liên Xô chính thức sụp đổ (1991).	B. bức tường Béc-lin sụp đố (11/1989).
+C. chiến tranh Việt Nam kết thúc (1975).	D. vấn đề Nam Xu-đăng được giải quyết.
+Câu 10. “Chiếm 2/3 dân số, 90% GDP, 80% thương mại toàn cầu”. Những số liệu này đang nói đến các quốc gia thuộc
+A. G20.		B. NICS.		C. EU.			D. ASEAN.
+Câu 11. Nội dung nào sau đây là nhân tố ảnh hưởng tới sự hình thành trật tự thế giới mới sau khi Trật tự thế giới hai cực I-an-ta sụp đổ?
+A. Thành công của công cuộc cải cách ở Trung Quốc.	
+B. Sự giải thể của tất cả các liên minh quân sự trên thế giới.
+C. Sự thành công của cuộc chiến chống chủ nghĩa phát xít. 
+D. Tình trạng biến đổi khí hậu được giải quyết triệt để.
+Câu 12. Sự phát triển và tác động to lớn của các công ty xuyên quốc gia (từ đầu những năm 80 của thế kỷ XX) là biểu hiện của
+A. xu thế khu vực hóa.				B. cách mạng khoa học.
+C. trật thế giới “đa cực”.				D. xu thế Toàn cầu hóa.
+Câu 13. Chiến tranh lạnh kết thúc, các quốc gia trên thế giới đều điều chỉnh chiến lược phát triển tập trung vào kinh tế vì lý do nào sau đây?
+A. Đây là nguồn vốn quan trọng để khắc phục hậu quả chiến tranh.
+B. Nhu cầu giải quyết vấn đề xoá đói giảm nghèo đòi hỏi nguồn lực lớn.
+C. Kinh tế là nền tảng để nâng cao vị thế quốc gia trên trường quốc tế.
+D. Sự phát triển kinh tế là yếu tố quyết định để phát triển chính trị.
+Câu 14. Tổ chức nào sau đây là tổ chức liên kết kinh tế thương mại lớn nhất thế giới?
+A. WTO	       В. АРЕС		       C. ASEM		D. NAFTA.
+Câu 15. Một trong những biểu tượng cho sự kết thúc của Chiến tranh lạnh là
+A. sự xuất hiện của xu thế toàn cầu hóa.	B. Bức tường Béc-lin sụp đổ (1989).
+C. Mỹ sang thăm Liên Xô (1972).		D. Mỹ sang thăm Trung Quốc (1972).
+Câu 1. Đọc đoạn tư liệu sau đây:
+“Với sự kết thúc của trật tự hai cực Xô - Mỹ, sự xác định vị trí của các nước lớn với chiến lược đối ngoại mới, cùng với sự tác động của những nhân tố khác, một trật tự đa trung tâm đã và đang hình thành [..] Trong trật tự thế giới mới, các nước đã chuyển từ đối đầu sang đối thoại, hòa hoãn, bình thường hóa quan hệ quốc tế trong cùng tồn tại hoà bình, vừa hợp tác vừa cạnh tranh và phát triển”.
+(Hoàng Văn Hiển - Nguyễn Viết Thảo, Quan hệ quốc tế từ 1945 đến 1995, NXB Chính trị Quốc gia, HN, 1998, tr. 108)
+a) Đoạn tư liệu trên đề cập đến sự hình thành của một trật tự thế giới mới từ sau Chiến tranh thế giới thứ hai.
+b) Trong trật tự thế giới mới, các cường quốc đã điều chỉnh quan hệ theo hướng đối thoại, thỏa hiệp, tránh xung đột quân sự trực tiếp.
+c) Trong xu thế trật tự thế giới mới, sức mạnh tổng hợp của mỗi quốc gia tùy thuộc vào sức mạnh quân sự, chính trị.
+d) Sự hình thành trật tự thế giới mới là một trong những nhân tố tác động để Việt Nam đẩy mạnh hơn nữa công cuộc Đổi mới đất nước.
+Câu 2. Cho đoạn tư liệu sau đây:
+"Toàn cầu hóa mà trước hết về thực chất là toàn cầu hóa kinh tế đang trở thành một đặc trưng chủ yếu của sự phát triển thế giới. Xu thế toàn cầu hóa là xu thế khách quan, tất yếu, không thể đảo ngược được. Toàn cầu hóa mang lại nhiều cơ hội nhưng cũng hàm chứa không ít thách thức to lớn đối với các quốc gia, đặc biệt là các nước đang phát triển".
+(Trần Thị Vinh (Chủ biên), Lê Văn Anh, Lịch sử thế giới hiện đại, quyển 2, NXB Đại học Sư phạm, Hà Nội, 2016, tr.98)
+a) Một trong những thách thức to lớn của xu thế toàn cầu hóa đối với các quốc gia, đặc biệt là các nước đang phát triển là làm trầm trọng thêm bất công xã hội.
+b) Toàn cầu hóa là một xu thế khách quan, tất yếu nhưng không thể đảo ngược vì đó là hệ quả của việc mở rộng quan hệ thương mại giữa các cường quốc.
+c) Đoạn trích trên đề cập đến một trong những xu thế phát triển chính của thế giới sau Chiến tranh lạnh là xu thế toàn cầu hóa.
+d) Xu thế toàn cầu hóa đưa đến sự phát triển nhanh của lực lượng sản xuất đòi hỏi các quốc gia phải tăng cường quan hệ hợp tác quốc tế.
+Câu 3. Cho đoạn tư liệu sau đây:
+"Thế giới phát triển nhanh chóng theo hướng đa cực, tuy vậy cục diện đa cực chưa hẳn đã hình thành mà đang trải qua thời kỳ quá độ từ Trật tự cũ để tiến tới một Trật tự mới. Có người dự đoán thời kỳ quá độ này kéo dài từ 20 đến 30 năm, có thể tới 30 đến 50 năm, bởi sự chuyển đổi cục diện thế giới lần này mang đặc điểm mới, quan trọng nhất là không trải qua chiến tranh như các cục diện trước kia. Thế giới đang trong tình hình "một siêu cường, nhiều cường quốc", đó là các nước Mỹ, Tây Âu (EU), Nhật Bản, Nga và Trung Quốc".
+(Vũ Dương Ninh, Một số chuyên đề Lịch sử thế giới, NXB Đại học Quốc gia Hà Nội, 2002, tr.399)
+a) Sau Chiến tranh lạnh, quan hệ quốc tế phát triển theo xu hướng đa cực.
+b) Trật tự thế giới đa cực đã được xác lập trên thế giới thay thế cho trật tự đơn cực.
+c) Một trong những "đặc điểm mới" mà tư liệu xác định là sức mạnh kinh tế của mỗi quốc gia trong trật tự đa cực.
+d) Trật tự đa cực có nét tương đồng với các trật tự thế giới trước đó vì đều được xác lập bởi các cuộc chiến tranh.
+Câu 4. Đọc đoạn tư liệu sau
+“Trải qua hơn 40 năm, “Trật tự hai cực Ianta” đã từng bước bị xói mòn: thắng lợi của cách mạng Trung Quốc năm 1949 đã tạo ra một “đột phá” đối với trật tự này và đập tan âm mưu của Mĩ khống chế Trung Quốc và Liên Xô phải bỏ những đặc quyền ở vùng Đông Bắc Trung Quốc; sự lớn mạnh của nền kinh tế các nước tư bản Tây Âu, đặc biệt sự ra đời của Khối thị trường chung châu Âu (EEC) từ giai đoạn trước làm suy giảm nghiêm trọng phạm vi ảnh hưởng của Mĩ ở Tây Âu; thắng lợi của phong trào giải phóng dân tộc làm thay đổi căn bản bộ mặt của khu vực Á – Phi – Mĩ Latinh mà theo “khuôn khổ Ianta” thuộc ảnh hưởng truyền thống của Mĩ và các nước phương Tây; sự phát triển mạnh mẽ của kinh tế Nhật Bản, Tây Âu dẫn đến việc hai trung tâm kinh tế - tài chính là Tây Âu và Nhật Bản cạnh tranh với Mĩ.” 
+(Nguyễn Anh Thái, Lịch sử thế giới hiện đại. NXB Giáo dục, tr417)
+a) Cách mạng Trung Quốc thắng lợi đã gây ảnh hưởng lớn đến sự củng cố trật tự 2 cực Ianta của cả Liên Xô và Mỹ.
+b) Quan hệ giữa Nhật Bản, Tây Âu và Mĩ chuyển từ đồng minh sang đối đầu.
+c) Sự ra đời các quốc gia độc lập ở châu Á góp phần làm xói mòn trật tự hai cực Ianta.
+d) Sự phát triển mạnh mẽ của Tây Âu là nguyên nhân chủ quan mang tính quyết định làm giảm ảnh hưởng của Mỹ ở châu Âu.
+Câu 1. Các thành viên sáng lập ASEAN là
+A. Thái Lan, Bru-nây, Ma-lai-xi-a, Xin-ga-po và Phi-líp-pin.
+B. Thái Lan, Mi-an-ma, Ma-lai-xi-a, Xin-ga-po và Phi-líp-pin.
+C. Thái Lan, In-đô-nê-xi-a, Ma-lai-xi-a, Xin-ga-po và Phi-líp-pin.
+D. Thái Lan, Cam-pu-chia, Ma-lai-xi-a, Xin-ga-po và Phi-líp-pin. 
+Câu 2. Quốc gia nào sau đây là thành viên thứ 7 của Hiệp hội các quốc gia Đông Nam Á (ASEAN)?
+A. Việt Nam.		B. Bru-nây.		C. Campuchia.		D. Indonexia.
+Câu 3. Hiệp hội các quốc gia Đông Nam Á được thành lập vào thời gian nào và ở đâu?
+A. Tháng 8-1968, tại Gia-cac-ta (In-đô-nê-xi-a). 	B. Tháng 8-1968, tại Ba-li (In-đô-nê-xi-a).
+C. Tháng 8-1967, tại Băng Cốc (Thái Lan).          	D. Tháng 10-1967, tại Xin-ga-po.
+Câu 4. Nội dung nào dưới đây không phải là yếu tố dẫn đến sự ra đời của Hiệp hội các quốc gia Đông Nam Á (ASEAN)?
+A. Hạn chế ảnh hưởng từ bên ngoài vào khu vực.	B. Tác động của xu thế toàn cầu hóa.
+C. Nhu cầu hợp tác giữa các nước để phát triển.		D. Sự phát triển của xu thế liên kết khu vực.
+Câu 5. Năm 2009, ASEAN thông qua lộ trình xây dựng Cộng đồng ASEAN với ba trụ cột chính gồm:
+A. Chính trị - An ninh;  Kinh tế; Văn hóa - Xã hội.	B. Chính trị - An ninh; Năng lượng; Văn hóa.
+C. Chính trị - An ninh; Kinh tế; Văn hóa – Giáo dục.	D. Chính trị - Quân sự; Kinh tế ASEAN; Xã hội.
+Câu 6. Đâu không phải là mục đích khi thành lập ASEAN?
+A. Tăng cường hợp tác kinh tế, văn hóa, xã hội.
+B. Phấn đấu để ASEAN trở thành tổ chức bao gồm tất cả các quốc gia châu Á.
+C. Tạo điều kiện cho các nước thành viên phát triển và hội nhập với khu vực, thế giới.
+D. Phấn đấu để Đông Nam Á trở thành khu vực hòa bình, tự do, thịnh vượng.
+Câu 7. Nước nào sau đây ở Đông Nam Á không phải là nước kí tuyên bố về việc thành lập Hiệp hội các quốc gia Đông Nam Á vào năm 1967?
+A. In-đô-nê-xi-a.               B. Ma-lai-xi-a.       C. Bru-nây.        D. Phi-líp-pin.
+Câu 8. Hiệp hội các quốc gia Đông Nam Á (ASEAN) được thành lập trong bối cảnh nào sau đây?
+A. Trật tự thế giới hai cực Ianta sụp đổ.	B. Chiến tranh lạnh đã chấm dứt.
+C. Nhiều tổ chức hợp tác khu vực ra đời.		D. Chủ nghĩa thực dân bị xóa bỏ hoàn toàn.
+Câu 9. Yếu tố nào sau đây đã thúc đẩy các nước trong khu vực Đông Nam Á thành lập tổ chức ASEAN?
+A. Các quốc gia cần thấy cần phải đoàn kết với nhau để giành độc lập.
+B. Các cường quốc trên thế giới đang tìm cách can thiệp vào khu vực.
+C. Nền kinh tế của các nước Đông Nam Á đang khủng hoảng trầm trọng đòi hỏi phải hợp tác với nhau.
+D. Xu thế toàn cầu hóa đã thúc đẩy các quốc gia liên kết lại để giải quyết các vấn đề mang tính chất toàn cầu.
+Câu 10. Ý nào dưới đây không đúng về bối cảnh lịch sử đưa đến xu hướng mở rộng thành viên của tổ chức ASEAN từ đầu những năm 90 của thế kỉ XX?
+A. Chiến tranh lạnh đã kết thúc.                      	B. Vấn đề Cam-pu-chia đã được giải quyết.
+C. Chống lại sự hình thành trật tự đa cực.       	D. Tình hình chính trị khu vực được cải thiện.
+Câu 11. Đâu là nhận xét đúng về vai trò của tổ chức ASEAN trên trường quốc tế ?
+A. Liên minh chính trị - kinh tế chiến lược của khu vực Đông Nam Á.
+B. Diễn đàn hợp tác kinh tế đa phương ở châu Á - Thái Bình Dương.
+C. Liên minh hợp tác toàn diện, hiệu quả của khu vực Đông Nam Á.
+D. Tổ chức liên kết kinh tế, thương mại, tài chính lớn nhất của châu Á.
+Câu 12. Trong những sự kiện dưới đây sự kiện nào đánh dấu sự khởi sắc trong hoạt động của tổ chức ASEAN?
+A. Vấn đề Cam-pu-chia được giải quyết năm 1991. 	 B. Hiệp ước Ba-li được kí kết năm 1976.
+C. Việt Nam gia nhập vào tổ chức năm 1995.     		D. Thông qua Hiến chương ASEAN (2007).
+Câu 13. Mục tiêu tổng quát của ASEAN là
+A. Đoàn kết và hợp tác vì một ASEAN hòa bình, ổn định, cùng phát triển.
+B. Phát triển kinh tế, văn hóa, giáo dục và tiến bộ xã hội của các nước thành viên.
+C. Xây dựng Đông Nam Á thành một khu vực có tốc độ tăng trưởng kinh tế cao nhất thế giới.
+D. Giải quyết những khác biệt trong nội bộ liên quan đến mối quan hệ giữa ASEAN với các tổ chức quốc tế khác.
+Câu 14. Theo Tuyên bố Ba-li (1976), cơ chế hoạt động cao nhất của ASEAN được xác định tại
+A. Hội nghị Thượng đỉnh.				B. Hội nghị Ngoại trưởng.		
+C. Hội nghị Bộ trưởng quốc phòng.		D. Hội nghị ASEAN+3.
+Câu 15. Nhằm thúc đẩy vai trò của tổ chức ASEAN trong quan hệ quốc tế, tổ chức ASEAN đã thực hiện chủ trương nào?
+A. Tham gia các cuộc tập trận quân sự do các cường tổ chức.			
+B. Mở rộng quan hệ hợp tác với nhiều cơ chế khác nhau.		
+C. Tăng cường tổ chức các Hội nghị thượng đỉnh để thúc đẩy hợp tác.		
+D. Tăng cường hợp tác nội khối để tạo ra sức mạnh của tổ chức ASEAN trên lĩnh vực kinh tế.
+Câu 1: Đọc đoạn tư liệu sau đây:
+   “Nhận thức được sự tồn tại của các mối quan tâm lẫn nhau và các vấn đề chung giữa các nước Đông Nam Á và tin tưởng vào sự cần thiết phải tăng cường hơn nữa các mối quan hệ đoàn kết sẵn có trong khu vực; mong muốn xây dựng một nền tảng vững chắc cho hành động chung nhằm thúc đẩy hợp tác khu vực ở Đông Nam Á; các nước Đông Nam Á có trách nhiệm chính trong việc tăng cường ổn định kinh tế và xã hội của khu vực và bảo đảm sự phát triển đất nước hòa bình và tiến bộ, quyết tâm bảo đảm sự ổn định và an ninh không có sự can thiệp từ bên ngoài dưới bất kì hình thức hoặc biểu hiện nào”.  
+                                                                   (Tuyên bố Băng Cốc, ngày 8-8-1967)
+a) Tuyên bố Băng Cốc là văn kiện được đưa ra sau khi ASEAN được thành lập và đi vào hoạt động.
+b) Tuyên bố Băng Cốc cho thấy một trong những mục đích của ASEAN là thúc đẩy hợp tác.
+c) Tuyên bố Băng Cốc đóng vai trò là Hiến chương của ASEAN từ khi thành lập đến năm 2008.
+d) Tuyên bố Băng Cốc là văn bản pháp lí để ASEAN hiện nay trở thành một liên minh quân sự.
+Câu 2: Đọc đoạn tư liệu sau đây:
+   “Quyết tâm sử dụng những cố gắng cần thiết bước đầu để bảo đảm việc công nhận và tôn trọng Đông Nam Á là một khu vực hòa bình, tự do và trung lập, không có sự can thiệp dưới bất kì hình thức và phương cách nào của các nước ngoài khu vực. Các nước Đông Nam Á cần phối hợp nỗ lực nhằm mở rộng các lĩnh vực hợp tác để góp phần tăng cường sức mạnh, tình đoàn kết, mối quan hệ gắn bó hơn nữa”.
+(ASEAN, Tuyên bố về khu vực hòa bình, tự do và trung lập, ngày 27-11-1971)
+a) Nội dung tư liệu đề cập đến các nước Đông Nam Á thành lập khu vực hòa bình, tự do, trung lập.
+b) Nội dung tuyên bố nhấn mạnh ASEAN không chấp nhận sự can thiệp của các nước ngoài khu vực. 
+c) Văn kiện trên có vai trò quyết định trong việc duy trì hòa bình, thống nhất và trung lập của Đông Nam Á.
+d) Tuyên bố về khu vực hòa bình, tự do và trung lập vẫn có giá trị đối với tổ chức ASEAN ngày nay.
+Câu 3. Đọc đoạn tư liệu sau đây:
+“Đầu những năm 60 của thế kỷ XX, một số tổ chức khu vực được thành lập như: Hiệp hội Đông Nam Á (1961) gồm Ma-lai-xi-a, Phi-líp-pin và Thái Lan; Tổ chức MAPHILINDO (1963) gồm Ma-lai-xi-a, Phi-líp-pin, In-đô-nê-xi-a. Tuy nhiên, các tổ chức này chỉ tồn tại trong một thời gian ngắn, do những bất đồng trong quan hệ song phương giữa một số nước thành viên. Sau các cuộc thảo luận về việc thành lập tổ chức khu vực, ngày 8/8/1967, tại Băng Cốc (Thái Lan), Ngoại trưởng năm nước: In-đô-nê-xi-a, Ma-lai-xi-a, Phi-líp-pin, Xin-ga-po và Thái Lan đã thông qua Tuyên bố ASEAN (còn gọi là Tuyên bố Băng Cốc), chính thức thành lập Hiệp hội các quốc gia Đông Nam Á (viết tắt tiếng Anh là ASEAN).”
+(Sách giáo khoa Lịch sử 12, bộ Kết nối tri thức với cuộc sống, trang 22)
+a) Tiền thân của ASEAN là tổ chức Hiệp hội Đông Nam Á và MAPHILINDO.
+b) Sau khi thành lập, tổ chức ASEAN gặp phải những bất đồng trong quan hệ.
+c) ASEAN ra đời năm 1967 với số thành viên chính thức ban đầu là năm nước.
+d) ASEAN ra đời khi Mỹ đang tiến hành cuộc chiến tranh xâm lược Việt Nam ở quy mô lớn.
+Câu 4. Đọc đoạn tư liệu sau đây:
+“Sau Chiến tranh thế giới thứ hai, xu hướng khu vực hóa trên thế giới bắt đầu xuất hiện và ngày càng trở nên phổ biến. Ở Đông Nam Á, các nước có nhu cầu hợp tác với nhau để cùng phát triển kinh tế, xã hội, đồng thời tạo ra sức mạnh tập thể trong việc ứng phó với sự tranh giành ảnh hưởng giữa các nước lớn đối với khu vực trong bối cảnh Chiến tranh lạnh. Đầu những năm 60 của thế kỷ XX, một số tổ chức khu vực được thành lập như: Hiệp hội Đông Nam Á (1961) gồm Ma-lai-xi-a, Phi-líp-pin và Thái Lan: Tổ chức MAPHILINDO (1963) gồm Ma-lai-xi-a, Phi-líp-pin, In-đô-nê-xi-a. Tuy nhiên, các tổ chức này chỉ tồn tại trong một thời gian ngắn, do những bất đồng trong quan hệ song phương giữa một số nước thành viên. Vào nửa sau những năm 60, các nước Đông Nam Á ngày càng nhận thức rõ về sự cần thiết của việc hợp tác khu vực, đồng thời quan hệ giữa các nước có những diễn biến thuận lợi cho việc thành lập một tổ chức khu vực.”
+(Sách giáo khoa Lịch sử 12, bộ Kết nối tri thức với cuộc sống, trang 21, 22)
+a) Tổ chức liên kết khu vực ở Đông Nam Á chịu ảnh hưởng bởi xu hướng khu vực hóa.
+b) Tiền thân của ASEAN là hai tổ chức: Hiệp hội Đông Nam Á và MAPHILINDO.
+c) ASEAN thành lập trong bối cảnh các nước lớn tăng cường ảnh hưởng vào khu vực.
+d) Các nước Đông Nam Á muốn thành lập tổ chức khu vực để tranh giành ảnh hưởng.
