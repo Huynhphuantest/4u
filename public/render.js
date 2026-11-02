@@ -59,7 +59,7 @@ export class ExamRenderer {
         }
 
         const span = document.createElement("span");
-        span.textContent = `${String.fromCharCode(65 + index)}) ${text}`;
+        span.textContent = `${String.fromCharCode(65 + index)}. ${text}`;
 
         label.append(span);
         this.elements.options.append(label);
