@@ -1,15 +1,22 @@
-const express = require("express");
-const path = require("node:path");
-const fs = require("node:fs/promises");
+import express from "express";
+import path from "node:path";
+import fs from "node:fs/promises";
+import session from "express-session";
+import dotenv from "dotenv";
+import pg from "pg";
+import { fileURLToPath } from "node:url";
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 const app = express();
 const PUBLIC_DIR = path.join(__dirname, "public");
+const EXAM_DIR = path.join(__dirname, "exam");
 
-const session = require("express-session");
 
-require("dotenv").config();
+dotenv.config();
 
-const { Pool } = require("pg");
+const { Pool } = pg;
 
 const db = new Pool({
     connectionString: process.env.DATABASE_URL,
@@ -69,16 +76,6 @@ app.get("/exam/:id", (req, res) => {
 app.get("/preview/:id", (req, res) => {
     res.sendFile(path.join(PUBLIC_DIR, "preview.html"));
 });
-
-if (process.env.DEV === "true") {
-    app.listen(3000, "0.0.0.0", () => {
-     console.log(`Server running at http://localhost:${3000}`);
-    });
-}
-
-module.exports = app;
-
-const EXAM_DIR = path.join(__dirname, "exam");
 
 app.get("/api/exams", async (req, res) => {
     try {
@@ -253,3 +250,17 @@ app.get("/api/pfps/:id", async (req, res) => {
         res.status(500).json({ error: "Failed to get pfp" });
     }
 });
+
+
+
+
+
+
+
+if (process.env.DEV === "true") {
+    app.listen(3000, "0.0.0.0", () => {
+     console.log(`Server running at http://localhost:${3000}`);
+    });
+}
+
+export default app;
