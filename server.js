@@ -39,6 +39,9 @@ async function initDB() {
             score DOUBLE PRECISION NOT NULL,
             pfp_id BIGINT REFERENCES pfps(id)
         );
+
+        ALTER TABLE completions
+        ADD COLUMN IF NOT EXISTS configuration JSONB NOT NULL DEFAULT '[]'::jsonb;
     `);
 }
 
@@ -133,7 +136,7 @@ app.get("/api/exams/:id", async (req, res) => {
 
 
 app.post("/api/exams/:id/complete", async (req, res) => {
-    const { username, duration, score, avatar } = req.body;
+    const { username, duration, score, avatar, configuration } = req.body;
     const exam = req.params.id;
 
     if (
@@ -150,7 +153,9 @@ app.post("/api/exams/:id/complete", async (req, res) => {
         (avatar !== undefined &&
             (typeof avatar !== "string" ||
              !/^[A-Za-z0-9+/]*={0,2}$/.test(avatar) ||
-             avatar.length > 2_800_000))
+             avatar.length > 2_800_000)) ||
+        !configuration ||
+        !Array.isArray(configuration)
     ) {
         return res.status(400).json({ error: "Invalid data" });
     }
@@ -177,10 +182,10 @@ app.post("/api/exams/:id/complete", async (req, res) => {
 
         const result = await client.query(
             `INSERT INTO completions
-                (exam, username, duration, score, pfp_id)
-             VALUES ($1, $2, $3, $4, $5)
+                (exam, username, duration, score, pfp_id, configuration)
+             VALUES ($1, $2, $3, $4, $5, $6)
              RETURNING *`,
-            [exam, username.trim(), duration, score, pfpId]
+            [exam, username.trim(), duration, score, pfpId, JSON.stringify(configuration)]
         );
 
         await client.query("COMMIT");

@@ -370,7 +370,10 @@ async function submitExam() {
 
     try {
         const avatar = await getCompressedAvatar();
-
+        const configuration = [...settings.skip, ...[
+            settings.shuffleChoices && "shuffleChoices",
+            settings.shuffleQuestions && "shuffleQuestions",
+        ].filter(Boolean)]
         const response = await fetch(
             `/api/exams/${examId}/complete`,
             {
@@ -382,7 +385,8 @@ async function submitExam() {
                     username,
                     duration,
                     score: Math.round(score * 100) / 10,
-                    avatar
+                    avatar,
+                    configuration
                 })
             }
         );
