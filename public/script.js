@@ -106,6 +106,7 @@ async function loadExams() {
         }
 
         exams = await response.json();
+        exams.sort((a, b) => Number(!!a.outdated) - Number(!!b.outdated));
         renderExams();
     } catch (error) {
         console.error("Failed to load exams:", error);
@@ -139,6 +140,7 @@ function createExamCard(exam) {
 
     const template = document.getElementById("exam-card-template");
     const card = template.content.firstElementChild.cloneNode(true);
+    const preview = card.querySelector(".exam-preview");
 
     if (exam.outdated) card.classList.add("outdated");
 
@@ -146,8 +148,10 @@ function createExamCard(exam) {
     card.querySelector(".exam-name").textContent = exam.title;
     card.querySelector(".exam-subject").textContent = exam.subject;
 
-    card.addEventListener("click", () => redirect(exam.id));
-
+    card.addEventListener("click", () => redirect(`/exam/${exam.id}`));
+    preview.addEventListener("click", () => redirect(`preview/${exam.id}`))
+    preview.addEventListener("click", (e) => e.stopPropagation());
+    preview.addEventListener("mouseover", (e) => e.stopPropagation());
     return card;
 }
 async function loadCompletions() {
@@ -184,8 +188,8 @@ function getBestCompletions(data) {
         return true;
     });
 }
-function redirect(id) {
-    window.location.href = `/exam/${encodeURIComponent(id)}`;
+function redirect(url) {
+    window.location.href = `${url}`;
 }
 async function renderRankings() {
     const sorted = sortCompletions(completions);
@@ -321,6 +325,7 @@ function setupSettings() {
             saveSettings();
         });
     });
+    saveSettings();
 }
 function saveSettings() {
     const settings = {
@@ -337,6 +342,7 @@ function saveSettings() {
                 : null
         ].filter(Boolean)
     };
+    $("restart-on-wrong").disabled = settings.checkMode === "all";
 
     localStorage.setItem("exam-settings", JSON.stringify(settings));
 }

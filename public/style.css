@@ -168,6 +168,11 @@ main:not(.active) {
     font-size: 0.95rem;
 }
 
+.setting:has(:disabled) {
+  color:var(--muted);
+  opacity:0.6;
+}
+
 .setting small {
     color: var(--muted);
     font-size: 0.8rem;

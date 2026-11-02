@@ -66,6 +66,10 @@ app.get("/exam/:id", (req, res) => {
     res.sendFile(path.join(PUBLIC_DIR, "exam.html"));
 });
 
+app.get("/preview/:id", (req, res) => {
+    res.sendFile(path.join(PUBLIC_DIR, "preview.html"));
+});
+
 if (process.env.DEV === "true") {
     app.listen(3000, "0.0.0.0", () => {
      console.log(`Server running at http://localhost:${3000}`);

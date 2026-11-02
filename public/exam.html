@@ -11,7 +11,7 @@
     <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.3/dist/confetti.browser.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/browser-image-compression@2.0.2/dist/browser-image-compression.js"></script>
     <script src="/global.js" defer></script>
-    <script src="/exam.js" defer></script>
+    <script src="/exam.js" type="module" defer></script>
   </head>
   <body>
     <header>
@@ -55,5 +55,29 @@
         </button>
       </div>
     </div>
+    <template id="question-template">
+      <section class="question" id="questionArea">
+          <span class="question-block" id="questionBlock"></span>
+          <span class="tag" id="questionLabel">Câu 1</span>
+          <span class="tag" id="questionTypeLabel">Trắc Nghiệm</span>
+          <div class="question-text" id="questionText"></div>
+          <div id="options"></div>
+      </section>
+  </template>
+  <template id="all-mode-template">
+      <div class="exam-head">
+        <h1 id="exam-name"></h1>
+        <div class="meta" style="display:flex"><span id="timer">00:00</span><span>&emsp;  </span><div id="question-amount"></div></div>
+      </div>
+
+      <section class="question" id="questionArea" style="max-height:70vh; overflow-y: scroll;">
+      </section>
+
+      <div class="actions" id="actions">
+        <button id="restart" onclick="window.location.reload()"><span class="icon">replay</span>Làm lại</button>
+        <button id="home" onclick="window.location.href='/'"><span class="icon">home</span>Bỏ cuộc</button>
+        <button style="margin-left:auto" id="check" class="primary"><span class="icon">input</span>Kiểm tra</button>
+      </div>
+  </template>
  </body>
 </html>

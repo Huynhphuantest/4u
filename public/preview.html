@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>AzotaV2</title>
+    <link rel="stylesheet" href="/global.css">
+    <link rel="stylesheet" href="/exam.css">
+    <link rel="icon" href="assets/favicon.ico">
+
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.3/dist/confetti.browser.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/browser-image-compression@2.0.2/dist/browser-image-compression.js"></script>
+    <script src="/global.js" defer></script>
+    <script src="/preview.js" type="module" defer></script>
+  </head>
+  <body>
+    <header>
+      <div class="logo"><span class="icon icon-lg">camera</span>Azota<sup>V2</sup></div>
+    </header>
+
+    <div class="layout">
+      <main>
+        <div class="exam-head">
+          <h1 id="exam-name"></h1>
+          <div class="meta" style="display:flex"><div id="question-amount"></div></div>
+        </div>
+
+        <section class="question" id="questionContainer" style="max-height:70vh; overflow-y: scroll;">
+        </section>
+
+        <div class="actions" id="actions">
+          <button id="restart" onclick="window.location.href=window.location.href.toString().replace('preview', 'exam')"><span class="icon">input</span>Kiểm tra</button>
+          <button id="home" onclick="window.location.href='/'"><span class="icon">home</span>Bỏ cuộc</button>
+        </div>
+      </main>
+    </div>
+    <template id="question-template">
+      <section class="question" id="questionArea">
+          <span class="question-block" id="questionBlock"></span>
+          <span class="tag" id="questionLabel">Câu 1</span>
+          <span class="tag" id="questionTypeLabel">Trắc Nghiệm</span>
+          <div class="question-text" id="questionText"></div>
+          <div id="options"></div>
+      </section>
+  </template>
+ </body>
+</html>
