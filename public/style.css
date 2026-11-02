@@ -351,6 +351,20 @@ main:not(.active) {
 .exam-option:hover > .exam-icon {
   color: white;
 }
+.exam-option > button:first-of-type {
+  margin-left: auto;
+}
+.exam-option > button {
+  aspect-ratio: 1/1;
+  font-size: 1.5rem;
+  padding:0.5rem;
+  color: var(--text);
+}
+.exam-option > button:hover {
+  background:var(--blue);
+  color: white;
+  border: none;
+}
 
 #menu-toggle {
     display: none;

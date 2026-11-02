@@ -1,6 +1,7 @@
 const $ = (id) => document.getElementById(id);
 
 const TABS = [
+    { id: "all", icon: "home", name: "Tất cả" },
     { id: "hist", icon: "history_edu", name: "Lịch Sử" },
     { id: "geo", icon: "globe", name: "Địa Lý" },
     { id: "gdqp", icon: "military_tech", name: "GDQP-AN" },
@@ -120,7 +121,7 @@ function renderExams() {
     document.querySelectorAll(".exam-list").forEach(list => {
         const fragment = document.createDocumentFragment();
 
-        const filtered = exams.filter(exam =>
+        const filtered = list.id === "all" ? exams : exams.filter(exam =>
             exam.id.split("-")[0] === list.id
         );
 
@@ -194,7 +195,6 @@ async function renderRankings() {
             `#${tab.id} + .ranking`
         );
 
-        // Keep the best result for each user within this subject.
         const subjectRanks = getBestCompletions(
             sorted.filter(item => item.exam.split("-")[0] === tab.id)
         );
