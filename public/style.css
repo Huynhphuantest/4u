@@ -358,6 +358,7 @@ main:not(.active) {
   aspect-ratio: 1/1;
   font-size: 1.5rem;
   padding:0.5rem;
+  font-weight:200;
   color: var(--text);
 }
 .exam-option > button:hover {
