@@ -59,7 +59,7 @@ export class ExamRenderer {
         }
 
         const span = document.createElement("span");
-        span.textContent = `${String.fromCharCode(97 + index)}) ${text}`;
+        span.textContent = `${String.fromCharCode(65 + index)}) ${text}`;
 
         label.append(span);
         this.elements.options.append(label);
@@ -178,7 +178,7 @@ export class AllModeRenderer extends ExamRenderer {
 
     render(question, { number = 1, block = null } = {}) {
         super.render(question, { number, block });
-        
+
         this.questions.push(question);
         this.answers.push(new Set());
         this.currentIndex++;
