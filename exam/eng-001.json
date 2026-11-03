@@ -572,7 +572,7 @@
         "that",
         "which",
         "whose",
-        "what\n]"
+        "what"
       ],
       "answer": 1
     },
@@ -752,7 +752,7 @@
         "b-a-d-e-c",
         "b-d-a-e-c",
         "d-b-a-e-c",
-        "b-d-e-a-c\n]"
+        "b-d-e-a-c"
       ],
       "answer": 1
     },
@@ -824,7 +824,7 @@
         "passed",
         "carried",
         "gave",
-        "dropped\n]"
+        "dropped"
       ],
       "answer": 0
     },
@@ -896,7 +896,7 @@
         "impressive",
         "spicy",
         "single-use",
-        "pancreatic\n]"
+        "pancreatic"
       ],
       "answer": 0
     },
@@ -968,7 +968,7 @@
         "identity",
         "origin",
         "shock",
-        "barrier\n]"
+        "barrier"
       ],
       "answer": 0
     },
@@ -1040,7 +1040,7 @@
         "appreciate",
         "rinse",
         "decompose",
-        "contaminate\n]"
+        "contaminate"
       ],
       "answer": 0
     },
@@ -1112,7 +1112,7 @@
         "which",
         "where",
         "who",
-        "that\n]"
+        "that"
       ],
       "answer": 0
     },
@@ -1184,7 +1184,7 @@
         "run",
         "step",
         "time",
-        "way\n]"
+        "way"
       ],
       "answer": 0
     },
@@ -1244,7 +1244,7 @@
         "personal journals should always be kept secret from future generations of readers",
         "compassion, patriotism, and noble ideals can triumph over violence and hatred",
         "fame and wealth are the primary motivations for young volunteers in conflict zones",
-        "military technology is the sole factor that determines the success of a medical doctor\n]"
+        "military technology is the sole factor that determines the success of a medical doctor"
       ],
       "answer": 1
     },
@@ -1304,7 +1304,7 @@
         "cultural exchange only benefits wealthy nations that export entertainment products",
         "a strong cultural identity allows a nation to integrate confidently into the multicultural world",
         "traditional customs must be kept unchanged in museums rather than practiced in daily life",
-        "every country should adopt a single uniform culture to eliminate all misunderstandings\n]"
+        "every country should adopt a single uniform culture to eliminate all misunderstandings"
       ],
       "answer": 1
     },
@@ -1364,7 +1364,7 @@
         "environmental awareness will no longer be necessary in modern urban societies",
         "we can preserve a cleaner, greener, and more sustainable planet for future generations",
         "single-use plastics will decompose harmlessly in landfills within a few days",
-        "natural resources will be completely depleted within the next few decades\n]"
+        "natural resources will be completely depleted within the next few decades"
       ],
       "answer": 1
     },
@@ -1484,7 +1484,7 @@
         "World War I accelerated the development of medical X-ray technology across European battlefields.",
         "Overcoming poverty, loss, and prejudice, Marie Curie devoted her life to pioneering science and humanitarian service.",
         "The partnership between Marie and Pierre Curie proved that teamwork is essential for winning Nobel Prizes.",
-        "Financial hardship in nineteenth-century Poland forced many talented young women to emigrate to France.\n]"
+        "Financial hardship in nineteenth-century Poland forced many talented young women to emigrate to France."
       ],
       "answer": 1
     },
@@ -1604,7 +1604,7 @@
         "Schools should stop celebrating foreign festivals to protect students from experiencing culture shock.",
         "Traditional festivals foster cultural identity and global understanding, but they must be protected from over-commercialization through meaningful education.",
         "Global media and tourism have turned local holidays like Diwali and Día de los Muertos into worldwide shopping events.",
-        "Folk games such as tug of war and bamboo dancing are the only aspects of traditional festivals worth preserving.\n]"
+        "Folk games such as tug of war and bamboo dancing are the only aspects of traditional festivals worth preserving."
       ],
       "answer": 1
     },
@@ -1724,7 +1724,7 @@
         "Governments should ban all textile dyeing factories to protect rivers from chemical contamination.",
         "Fast fashion causes severe carbon, water, and plastic pollution, making mindful and sustainable clothing choices essential.",
         "The invention of synthetic polyester has made modern clothing much cheaper and more durable than cotton.",
-        "Charity shops have replaced traditional clothing stores as the largest sector of the global apparel industry.\n]"
+        "Charity shops have replaced traditional clothing stores as the largest sector of the global apparel industry."
       ],
       "answer": 1
     }
