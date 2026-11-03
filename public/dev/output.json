@@ -1,0 +1,471 @@
+{
+  "id": "geo-002",
+  "subject": "Địa Lý",
+  "title": "Kiểm tra giữa kì II",
+  "outdated": false,
+  "blocks": [
+    {
+      "id": 1,
+      "content": "USE OF ENGLISH",
+      "includes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": 2,
+      "content": "ENTENCE & UTTERANCE ARRANGEMENT",
+      "includes": []
+    },
+    {
+      "id": 3,
+      "content": "THE INSPIRING LIFE OF STEVE JOBS",
+      "includes": []
+    },
+    {
+      "id": 4,
+      "content": "GENERAL VO NGUYEN GIAP – A NATIONAL HERO",
+      "includes": []
+    },
+    {
+      "id": 5,
+      "content": "VIETNAMESE CULTURAL FESTIVAL IN LONDON",
+      "includes": []
+    },
+    {
+      "id": 6,
+      "content": "OVERCOMING CULTURE SHOCK ABROAD",
+      "includes": []
+    },
+    {
+      "id": 7,
+      "content": "GREEN LIVING CAMPAIGN AT HIGH SCHOOL",
+      "includes": []
+    },
+    {
+      "id": 8,
+      "content": "TURNING KITCHEN WASTE INTO GARDEN GOLD",
+      "includes": []
+    },
+    {
+      "id": 9,
+      "content": "DANG THUY TRAM AND HER IMMORTAL DIARY",
+      "includes": []
+    },
+    {
+      "id": 10,
+      "content": "PRESERVING CULTURAL IDENTITY IN A GLOBALIZED WORLD",
+      "includes": []
+    },
+    {
+      "id": 11,
+      "content": "TOWARDS A ZERO-WASTE LIFESTYLE",
+      "includes": []
+    },
+    {
+      "id": 12,
+      "content": "MARIE CURIE – A LIFE OF SCIENTIFIC DEVOTION",
+      "includes": []
+    },
+    {
+      "id": 13,
+      "content": "TRADITIONAL FESTIVALS IN THE MODERN ERA",
+      "includes": []
+    },
+    {
+      "id": 14,
+      "content": "THE ENVIRONMENTAL COST OF FAST FASHION",
+      "includes": []
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "President Ho Chi Minh ______ his whole life to the struggle for national independence and freedom.",
+      "options": [
+        "devoted",
+        "attended",
+        "adopted",
+        "admired"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "Dang Thuy Tram was a young surgeon who volunteered to work in the ______ during the resistance war.",
+      "options": [
+        "military",
+        "childhood",
+        "biography",
+        "animation"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "Steve Jobs was widely recognized as a ______ leader whose innovations transformed the technology industry.",
+      "options": [
+        "pancreatic",
+        "accessible",
+        "visionary",
+        "biological"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "After struggling with a severe illness for several years, the renowned poet ______ at the age of 75.",
+      "options": [
+        "grew up",
+        "passed away",
+        "carried out",
+        "dropped out"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "Although he ______ of college after only one semester, he continued auditing classes that interested him.",
+      "options": [
+        "looked up",
+        "dropped out",
+        "gave up",
+        "turned down"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "International students often experience ______ when they first move to a country with very different customs.",
+      "options": [
+        "culture shock",
+        "bamboo dancing",
+        "tug of war",
+        "fast food"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "Preserving traditional festivals is an effective way for ethnic groups to maintain their cultural ______.",
+      "options": [
+        "insult",
+        "origin",
+        "confusion",
+        "identity"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "Korean pop music has gained immense ______ among teenagers not only in Asia but all over the world.",
+      "options": [
+        "festivity",
+        "cuisine",
+        "mystery",
+        "popularity"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "Traditional Vietnamese ______ is famous for its harmonious balance of fresh herbs, spices, and natural flavors.",
+      "options": [
+        "costume",
+        "barrier",
+        "cuisine",
+        "trend"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "In some cultures, pointing your index finger directly at someone is considered a serious ______.",
+      "options": [
+        "respect",
+        "insult",
+        "aspect",
+        "blend"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "Cycling or taking public transport instead of driving private cars helps reduce our ______ footprint.",
+      "options": [
+        "plastic",
+        "carbon",
+        "landfill",
+        "compost"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "Before putting glass jars and plastic bottles into the recycling bin, you should ______ them out thoroughly.",
+      "options": [
+        "rinse",
+        "work",
+        "clean",
+        "throw"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "Plastic bags and styrofoam boxes take hundreds of years to ______ in natural environments.",
+      "options": [
+        "recycle",
+        "contaminate",
+        "reuse",
+        "decompose"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "Many supermarkets now encourage shoppers to bring ______ cloth bags to cut down on plastic waste.",
+      "options": [
+        "leaking",
+        "single-use",
+        "reusable",
+        "disposable"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "Fruit peels and vegetable scraps can be collected to make nutrient-rich ______ for the school garden.",
+      "options": [
+        "cardboard",
+        "packaging",
+        "compost",
+        "container"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "While the surgeon ______ on a wounded soldier, a bomb exploded near the field hospital.",
+      "options": [
+        "is operating",
+        "was operating",
+        "operates",
+        "operated"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "Walt Disney ______ Mickey Mouse in 1928, which quickly made him famous worldwide.",
+      "options": [
+        "created",
+        "was creating",
+        "has created",
+        "creates"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "My grandfather ______ the army when he was only eighteen years old.",
+      "options": [
+        "joined",
+        "was joining",
+        "is joining",
+        "joins"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "At 8 p.m. yesterday, our class ______ a documentary about General Vo Nguyen Giap.",
+      "options": [
+        "has watched",
+        "watches",
+        "watched",
+        "was watching"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "question": "When the power suddenly went out, Nam ______ a biography of Steve Jobs on his laptop.",
+      "options": [
+        "is reading",
+        "read",
+        "was reading",
+        "reads"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 21,
+      "type": "multiple_choice",
+      "question": "During the cultural festival, visitors had a chance to play ______ tug of war and bamboo dancing.",
+      "options": [
+        "a",
+        "the",
+        "Ø",
+        "an"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 22,
+      "type": "multiple_choice",
+      "question": "My sister is studying at ______ prestigious university in the United Kingdom.",
+      "options": [
+        "the",
+        "a",
+        "an",
+        "Ø"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 23,
+      "type": "multiple_choice",
+      "question": "______ moon looks extraordinarily bright during the Mid-Autumn Festival in Viet Nam.",
+      "options": [
+        "The",
+        "A",
+        "An",
+        "Ø"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 24,
+      "type": "multiple_choice",
+      "question": "Waiters in that restaurant wear ______ traditional Korean costume called hanbok.",
+      "options": [
+        "the",
+        "Ø",
+        "an",
+        "a"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 25,
+      "type": "multiple_choice",
+      "question": "It was ______ unforgettable experience for the students to attend the international youth camp.",
+      "options": [
+        "Ø",
+        "the",
+        "a",
+        "an"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 26,
+      "type": "multiple_choice",
+      "question": "More and more young consumers truly care ______ the environmental impact of the clothes they buy.",
+      "options": [
+        "to",
+        "with",
+        "about",
+        "for"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 27,
+      "type": "multiple_choice",
+      "question": "Our school club has worked ______ an effective plan to collect and recycle used batteries.",
+      "options": [
+        "up",
+        "out",
+        "in",
+        "on"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 28,
+      "type": "multiple_choice",
+      "question": "The local authorities are preparing ______ the upcoming Green Sunday cleanup campaign.",
+      "options": [
+        "about",
+        "for",
+        "with",
+        "on"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 29,
+      "type": "multiple_choice",
+      "question": "Many citizens now bring reusable bags to the supermarket, ______ helps reduce plastic pollution.",
+      "options": [
+        "whom",
+        "who",
+        "which",
+        "that"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 30,
+      "type": "multiple_choice",
+      "question": "He always leaves the lights on when he goes out, ______ wastes a considerable amount of electricity.",
+      "options": [
+        "that",
+        "which",
+        "whose",
+        "what\n]"
+      ],
+      "answer": 0
+    }
+  ]
+}

@@ -1,15 +1,14 @@
+import * as fs from "node:fs";
+import * as readline from "node:readline/promises";
+import { stdin, stdout } from "node:process";
 
-const fs = require("node:fs");
-const readline = require("node:readline/promises");
-const { stdin, stdout } = require("node:process");
+// line 55
 
 function formatInput(input) {
     return input
         .replace(/\r\n?/g, "\n")
         .replace(/[\u200B-\u200D\uFEFF]/g, "")
         .replace(/\u00A0/g, " ")
-        .replace(/^\s*\[\s*$/gm, "")
-        .replace(/^\s*\]\s*$/gm, "")
         .replace(/^\s*Enter one correct label:.*$/gim, "")
         .replace(
             /([^\n])\s*((?:Câu|Cau|Question)\s+\d+\s*[.:)]?)/gi,
@@ -19,11 +18,22 @@ function formatInput(input) {
             /([^\n])\s+(\*?\s*[A-Da-d][.)]\s+)/g,
             "$1\n$2"
         )
-        .replace(/^\s*\[?\s*Marker\s*:/gim, "Marker:")
         .trim();
 }
 function findEvents(input) {
     const events = [];
+
+    const blockRegex = /^[ \t]*\[[ \t]*\r?\n[\s\S]*?^[ \t]*\][ \t]*(?=\r?$)/gm;
+
+    for (const match of input.matchAll(blockRegex)) {
+        events.push({
+            type: "block",
+            start: match.index,
+            end: match.index + match[0].length
+        });
+    }
+
+    input = input.replace(/[\[\]]/g, " ");
 
     const regex =
       /^[ \t]*(Marker\s*:|(?:Câu|Cau|Question)\s+\d+\s*[.:)]?)/gim;
@@ -53,7 +63,7 @@ function parseHeading(block) {
     };
 }
 function parseOptions(content, id) {
-    const regex = /^\s*(\*)?([A-Da-d])[.)]\s*/gm;
+    const regex = /^\s*(\*)?([A-D])[.)]\s*/gm;
     const matches = [...content.matchAll(regex)];
 
     if (matches.length < 2) {
@@ -77,7 +87,6 @@ function parseOptions(content, id) {
 }
 function determineType(options, id) {
     const firstLabel = options[0].label;
-    console.log(firstLabel, id)
 
     if (!/^[A-Da-d]$/.test(firstLabel)) {
         throw new Error(`Question ${id}: Invalid option label.`);
@@ -111,76 +120,73 @@ function getMarkedAnswers(options, type, id) {
 }
 function parseExam(input) {
     const events = findEvents(input);
+
     const questions = [];
     const blocks = [];
 
-    let activeBlock = null;
+    const blockEvents = events.filter(e => e.type === "block");
+    const questionEvents = events.filter(e => e.type === "question");
 
-    for (let i = 0; i < events.length; i++) {
-        const event = events[i];
-        const next = events[i + 1];
-        const end = next ? next.start : input.length;
+    // Parse blocks
+    for (const event of blockEvents) {
+        const blockText = input.slice(event.start, event.end);
 
-        if (event.type === "marker") {
-            const content = input.slice(event.end, end)
-                .replace(/^\s*\[|\]\s*$/g, "")
-                .trim();
+        const marker = blockText.match(
+            /^\s*Marker\s*:\s*(.*)$/im
+        );
 
-            if (!content) {
-                throw new Error("Found an empty Marker section.");
-            }
+        const includes = questionEvents
+            .filter(q => q.start > event.start && q.start < event.end)
+            .map(q => {
+                const match = input.slice(q.start, q.end).match(
+                    /(?:Câu|Cau|Question)\s+(\d+)/i
+                );
 
-            const match = content.match(
-                /câu hỏi?\s+([\d\s, và]+)/i
-            );
+                return match ? Number(match[1]) : null;
+            })
+            .filter(id => id !== null);
 
-            const includes = match
-                ? [...match[1].matchAll(/\d+/g)].map(m => Number(m[0]))
-                : [];
+        blocks.push({
+            id: blocks.length + 1,
+            content: marker ? marker[1].trim() : "",
+            includes
+        });
+    }
+    for (let i = 0; i < questionEvents.length; i++) {
+        const event = questionEvents[i];
+        const nextQuestion = questionEvents[i + 1];
 
-            activeBlock = {
-                id: blocks.length + 1,
-                content: content.replace(
-                    /^Đọc thông tin và trả lời.*?:\s*/i,
-                    ""
-                ).trim(),
-                includes
-            };
+        const containingBlock = blockEvents.find(
+            b => event.start > b.start && event.start < b.end
+        );
 
-            blocks.push(activeBlock);
-            continue;
-        }
-
+        const end = Math.min(
+            nextQuestion?.start ?? input.length,
+            containingBlock?.end ?? input.length
+        );
         const parsed = parseHeading(input.slice(event.start, end));
+        console.log(parsed)
         if (!parsed) continue;
 
-        const originalId = parsed.id;
         const id = questions.length + 1;
         const { content } = parsed;
+
         const result = parseOptions(content, id);
         const type = determineType(result.options, id);
 
-        const question = {
+        questions.push({
             id,
-            originalId,
+            originalId: parsed.id,
             type,
             question: result.question,
             options: result.options,
             answer: getMarkedAnswers(result.options, type, id)
-        };
-
-        questions.push(question);
+        });
     }
-
-    blocks.forEach(block => {
-        block.includes.sort((a, b) => a - b);
-    });
-
     return { questions, blocks };
 }
 async function inputAnswers(questions) {
     const rl = readline.createInterface({ input: stdin, output: stdout });
-
     try {
         for (const q of questions) {
             const labels = q.options.map(option => option.label);
@@ -256,7 +262,6 @@ async function inputAnswers(questions) {
     }
 }
 
-// 9. Build the final JSON.
 function buildExam(questions, blocks, metadata) {
     return {
         ...metadata,
