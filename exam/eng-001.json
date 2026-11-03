@@ -6,7 +6,7 @@
   "blocks": [
     {
       "id": 1,
-      "content": "USE OF ENGLISH",
+      "content": "USE OF ENGLISH\nMark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
       "includes": [
         1,
         2,
@@ -42,7 +42,7 @@
     },
     {
       "id": 2,
-      "content": "ENTENCE & UTTERANCE ARRANGEMENT",
+      "content": "ENTENCE & UTTERANCE ARRANGEMENT\nMark the letter A, B, C, or D to indicate the correct arrangement of the utterances or sentences to make a meaningful exchange, email, or paragraph.",
       "includes": [
         31,
         32,
@@ -63,7 +63,7 @@
     },
     {
       "id": 3,
-      "content": "THE INSPIRING LIFE OF STEVE JOBS",
+      "content": "PASSAGE 1: THE INSPIRING LIFE OF STEVE JOBS",
       "includes": [
         46,
         47,
@@ -75,7 +75,7 @@
     },
     {
       "id": 4,
-      "content": "GENERAL VO NGUYEN GIAP – A NATIONAL HERO",
+      "content": "PASSAGE 2: GENERAL VO NGUYEN GIAP – A NATIONAL HERO",
       "includes": [
         52,
         53,
@@ -87,7 +87,7 @@
     },
     {
       "id": 5,
-      "content": "VIETNAMESE CULTURAL FESTIVAL IN LONDON",
+      "content": "PASSAGE 3: VIETNAMESE CULTURAL FESTIVAL IN LONDON",
       "includes": [
         58,
         59,
@@ -99,7 +99,7 @@
     },
     {
       "id": 6,
-      "content": "OVERCOMING CULTURE SHOCK ABROAD",
+      "content": "PASSAGE 4: OVERCOMING CULTURE SHOCK ABROAD",
       "includes": [
         64,
         65,
@@ -111,7 +111,7 @@
     },
     {
       "id": 7,
-      "content": "GREEN LIVING CAMPAIGN AT HIGH SCHOOL",
+      "content": "PASSAGE 5: GREEN LIVING CAMPAIGN AT HIGH SCHOOL",
       "includes": [
         70,
         71,
@@ -123,7 +123,7 @@
     },
     {
       "id": 8,
-      "content": "TURNING KITCHEN WASTE INTO GARDEN GOLD",
+      "content": "PASSAGE 6: TURNING KITCHEN WASTE INTO GARDEN GOLD",
       "includes": [
         76,
         77,
@@ -135,7 +135,7 @@
     },
     {
       "id": 9,
-      "content": "DANG THUY TRAM AND HER IMMORTAL DIARY",
+      "content": "PASSAGE 1: DANG THUY TRAM AND HER IMMORTAL DIARY",
       "includes": [
         82,
         83,
@@ -146,7 +146,7 @@
     },
     {
       "id": 10,
-      "content": "PRESERVING CULTURAL IDENTITY IN A GLOBALIZED WORLD",
+      "content": "PASSGE 2: PRESERVING CULTURAL IDENTITY IN A GLOBALIZED WORLD",
       "includes": [
         87,
         88,
@@ -157,7 +157,7 @@
     },
     {
       "id": 11,
-      "content": "TOWARDS A ZERO-WASTE LIFESTYLE",
+      "content": "PASSAGE 3: TOWARDS A ZERO-WASTE LIFESTYLE",
       "includes": [
         92,
         93,
@@ -168,7 +168,7 @@
     },
     {
       "id": 12,
-      "content": "MARIE CURIE – A LIFE OF SCIENTIFIC DEVOTION",
+      "content": "PASSING 1: MARIE CURIE – A LIFE OF SCIENTIFIC DEVOTION",
       "includes": [
         97,
         98,
@@ -184,7 +184,7 @@
     },
     {
       "id": 13,
-      "content": "TRADITIONAL FESTIVALS IN THE MODERN ERA",
+      "content": "PASSAGE 2: TRADITIONAL FESTIVALS IN THE MODERN ERA",
       "includes": [
         107,
         108,
@@ -200,7 +200,7 @@
     },
     {
       "id": 14,
-      "content": "THE ENVIRONMENTAL COST OF FAST FASHION",
+      "content": "PASSAGE 3: THE ENVIRONMENTAL COST OF FAST FASHION",
       "includes": [
         117,
         118,
