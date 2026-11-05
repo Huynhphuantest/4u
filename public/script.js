@@ -8,7 +8,8 @@ const TABS = [
     { id: "eng", icon: "translate", name: "Tiếng Anh" },
     { id: "bio", icon: "microbiology", name: "Sinh Học" },
     { id: "gdkt", icon: "balance", name: "GDKT-PL" },
-    { id: "chem", icon: "experiment", name: "Hóa Học"}
+    { id: "chem", icon: "experiment", name: "Hóa Học"},
+    { id: "phys", icon: "emoji_objects", name: "Vật Lý"}
 ];
 const TAB_ELEMENTS = [];
 

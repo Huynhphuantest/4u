@@ -63,7 +63,7 @@ function parseHeading(block) {
     };
 }
 function parseOptions(content, id) {
-    const regex = /^\s*(\*)?([A-D])[.)]\s*/gm;
+    const regex = /^\s*(\*)?([A-Da-d])[.)]\s*/gm;
     const matches = [...content.matchAll(regex)];
 
     if (matches.length < 2) {
