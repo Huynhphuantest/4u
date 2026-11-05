@@ -92,7 +92,7 @@ main {
     text-align: center;
     margin-inline: auto;
     text-wrap: pretty;
-    font-size: 0.8rem;
+    font-size: 0.9rem;
 }
 .question-block::before,
 .question-block::after {

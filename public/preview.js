@@ -1,4 +1,4 @@
-import { AllModeRenderer, ExamRenderer } from "./render.js";
+import { AllModeRenderer } from "./render.js";
 
 const $ = id => document.getElementById(id);
 const examId = window.location.pathname.split("/").filter(Boolean).at(-1);
