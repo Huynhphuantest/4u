@@ -202,7 +202,25 @@ function groupQuestions(exam, questions) {
     return groups.sort((a, b) => a.firstId - b.firstId);
 }
 
-const audio = document.getElementById("correct-sound");
+const context = new AudioContext();
+let soundBuffer;
+
+async function loadSound() {
+    const response = await fetch("/assets/correct_sound.mp3");
+    const data = await response.arrayBuffer();
+    soundBuffer = await context.decodeAudioData(data);
+}
+
+function playSound() {
+    if (!soundBuffer) return;
+
+    const source = context.createBufferSource();
+    source.buffer = soundBuffer;
+    source.connect(context.destination);
+    source.start(0, 0.18);
+}
+
+loadSound();
 
 function celebrate(event) {
     confetti({
@@ -214,10 +232,7 @@ function celebrate(event) {
         },
         ticks: 75
     });
-    if(!settings.disableAudio) {
-        audio.currentTime = 0;
-        audio.play();
-    }
+    playSound();
 }
 function addScore() {
     score += 1 / questions.length;
