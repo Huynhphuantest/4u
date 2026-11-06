@@ -202,7 +202,7 @@ function groupQuestions(exam, questions) {
     return groups.sort((a, b) => a.firstId - b.firstId);
 }
 
-const audio = new Audio("/assets/correct.wav");
+const audio = new Audio("/assets/sound.wav");
 
 function celebrate(event) {
     confetti({
