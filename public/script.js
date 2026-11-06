@@ -22,7 +22,8 @@ const SETTING_IDS = [
     "shuffle-questions",
     "shuffle-choices",
     "check-mode",
-    "restart-on-wrong"
+    "restart-on-wrong",
+    "disable-audio"
 ];
 
 let completions = [];
@@ -341,7 +342,8 @@ function saveSettings() {
             $("skip_correctness").classList.contains("active")
                 ? "correctness"
                 : null
-        ].filter(Boolean)
+        ].filter(Boolean),
+        disableAudio: $("disable-audio").checked
     };
     $("restart-on-wrong").disabled = settings.checkMode === "all";
 
@@ -364,6 +366,8 @@ function loadSettings() {
     $("skip_correctness").classList.toggle(
         "active", settings.skip?.includes("correctness") ?? false
     );
+
+    $("disable-audio").checked = settings.disableAudio ?? false;
 }
 function sanitizeName(value) {
     return value.normalize("NFC").replace(/\p{Cc}/gu, "").trim();

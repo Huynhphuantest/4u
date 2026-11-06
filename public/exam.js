@@ -8,7 +8,8 @@ const DEFAULT_SETTINGS = {
     shuffleChoices: false,
     checkMode: "immediate",
     restartOnWrong: false,
-    skip: []
+    skip: [],
+    disableAudio:false
 };
 
 function loadSettings() {
@@ -200,6 +201,9 @@ function groupQuestions(exam, questions) {
 
     return groups.sort((a, b) => a.firstId - b.firstId);
 }
+
+const audio = new Audio("/assets/correct.wav");
+
 function celebrate(event) {
     confetti({
         particleCount: 100,
@@ -210,6 +214,10 @@ function celebrate(event) {
         },
         ticks: 75
     });
+    if(!settings.disableAudio) {
+        audio.currentTime = 0;
+        audio.play();
+    }
 }
 function addScore() {
     score += 1 / questions.length;
