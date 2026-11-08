@@ -218,6 +218,9 @@ function playSound() {
     source.buffer = soundBuffer;
     source.connect(context.destination);
     source.start(0, 0.18);
+
+    
+
 }
 
 loadSound();
